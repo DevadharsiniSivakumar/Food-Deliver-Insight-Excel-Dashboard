@@ -1,0 +1,2013 @@
+order_id,order_timestamp,restaurant_id,restaurant_name,restaurant_category,customer_zone,order_value_inr,order_type
+QB100000,01-08-2026 09:03,R015,Noodle Nest,Chinese,Adyar,587.85,Delivery
+QB100001,01-08-2026 10:07,R002,Green Bowl,Healthy,OMR,1092.12,Delivery
+QB100002,01-08-2026 11:26,R017,Coastal Kitchen,Seafood,Mylapore,457.25,Delivery
+QB100003,01-08-2026 11:30,R014,Salad Studio,Healthy,OMR,404.9,Scheduled
+QB100004,01-08-2026 11:45,R014,Salad Studio,Healthy,Adyar,401.86,Delivery
+QB100005,01-08-2026 11:59,R006,Dosa Corner,South Indian,Nungambakkam,534.51,Delivery
+QB100006,01-08-2026 12:05,R020,Grill House,Grill,Tambaram,691.91,Delivery
+QB100007,01-08-2026 12:21,R019,Chaat Central,Street Food,Anna Nagar,326.48,Delivery
+QB100008,01-08-2026 12:23,R020,Grill House,Grill,Tambaram,443.61,Delivery
+QB100009,01-08-2026 12:25,R010,Biryani Box,Biryani,OMR,895.83,Scheduled
+QB100010,01-08-2026 12:30,R001,Spice Route,Indian,Mylapore,598.25,Delivery
+QB100011,01-08-2026 12:31,R011,Sushi Street,Japanese,OMR,245.18,Delivery
+QB100012,01-08-2026 12:33,R020,Grill House,Grill,Porur,590.28,Delivery
+QB100013,01-08-2026 12:40,R002,Green Bowl,Healthy,Adyar,730.42,Delivery
+QB100014,01-08-2026 12:41,R008,Pasta Point,Italian,Velachery,500.96,Delivery
+QB100015,01-08-2026 12:52,R012,Cafe Cloud,Cafe,Porur,310.31,Delivery
+QB100016,01-08-2026 13:04,R014,Salad Studio,Healthy,Velachery,545.08,Delivery
+QB100017,01-08-2026 13:12,R020,Grill House,Grill,Velachery,252.08,Delivery
+QB100018,01-08-2026 13:28,R005,Burger Bay,Fast Food,Mylapore,218.83,Delivery
+QB100019,01-08-2026 13:35,R009,Wrap & Roll,Fast Food,T Nagar,312.71,Delivery
+QB100020,01-08-2026 13:38,R002,Green Bowl,Healthy,Anna Nagar,486,Delivery
+QB100021,01-08-2026 13:48,R020,Grill House,Grill,OMR,479.38,Delivery
+QB100022,01-08-2026 13:55,R002,Green Bowl,Healthy,Adyar,684.68,Delivery
+QB100023,01-08-2026 14:17,R001,Spice Route,Indian,Porur,590.97,Delivery
+QB100024,01-08-2026 14:45,R005,Burger Bay,Fast Food,Anna Nagar,267.38,Delivery
+QB100025,01-08-2026 15:13,R008,Pasta Point,Italian,T Nagar,116.75,Delivery
+QB100026,01-08-2026 17:12,R003,Pizza Junction,Pizza,Tambaram,259.37,Delivery
+QB100027,01-08-2026 17:46,R009,Wrap & Roll,Fast Food,Mylapore,276.24,Delivery
+QB100028,01-08-2026 17:51,R016,Sweet Treats,Dessert,Porur,284.39,Delivery
+QB100029,01-08-2026 17:59,R009,Wrap & Roll,Fast Food,Porur,270.63,Delivery
+QB100030,01-08-2026 18:04,R017,Coastal Kitchen,Seafood,Velachery,298.6,Delivery
+QB100031,01-08-2026 18:08,R017,Coastal Kitchen,Seafood,OMR,402.99,Delivery
+QB100032,01-08-2026 18:42,R009,Wrap & Roll,Fast Food,Adyar,702.22,Delivery
+QB100033,01-08-2026 18:42,R020,Grill House,Grill,Velachery,745.01,Delivery
+QB100034,01-08-2026 18:43,R003,Pizza Junction,Pizza,Mylapore,374.78,Delivery
+QB100035,01-08-2026 18:44,R019,Chaat Central,Street Food,Guindy,442.29,Delivery
+QB100036,01-08-2026 18:54,R016,Sweet Treats,Dessert,Porur,350.94,Delivery
+QB100037,01-08-2026 19:03,R003,Pizza Junction,Pizza,OMR,180.73,Delivery
+QB100038,01-08-2026 19:06,R020,Grill House,Grill,Mylapore,235.29,Delivery
+QB100039,01-08-2026 19:13,R010,Biryani Box,Biryani,T Nagar,486.12,Delivery
+QB100040,01-08-2026 19:17,R014,Salad Studio,Healthy,T Nagar,444.72,Delivery
+QB100041,01-08-2026 19:35,R002,Green Bowl,Healthy,Tambaram,837.45,Delivery
+QB100042,01-08-2026 19:37,R012,Cafe Cloud,Cafe,Nungambakkam,602.49,Delivery
+QB100043,01-08-2026 19:39,R019,Chaat Central,Street Food,Velachery,425.66,Delivery
+QB100044,01-08-2026 19:46,R005,Burger Bay,Fast Food,Guindy,230.02,Delivery
+QB100045,01-08-2026 19:52,R014,Salad Studio,Healthy,Velachery,339.18,Delivery
+QB100046,01-08-2026 19:57,R005,Burger Bay,Fast Food,T Nagar,384.22,Delivery
+QB100047,01-08-2026 19:59,R004,Wok Express,Chinese,Velachery,568.49,Delivery
+QB100048,01-08-2026 20:06,R002,Green Bowl,Healthy,Nungambakkam,885.65,Delivery
+QB100049,01-08-2026 20:11,R001,Spice Route,Indian,Anna Nagar,709.53,Delivery
+QB100050,01-08-2026 20:23,R020,Grill House,Grill,Guindy,394.32,Delivery
+QB100051,01-08-2026 20:25,R017,Coastal Kitchen,Seafood,Guindy,475.08,Scheduled
+QB100052,01-08-2026 20:52,R002,Green Bowl,Healthy,anna nagar ,427.86,Delivery
+QB100053,01-08-2026 20:53,R013,Tandoori Hub,Indian,Adyar,233.85,Delivery
+QB100054,01-08-2026 20:55,R016,Sweet Treats,Dessert,OMR,344.1,Delivery
+QB100055,01-08-2026 20:58,R001,Spice Route,Indian,T Nagar,355.85,Delivery
+QB100056,01-08-2026 21:12,R013,Tandoori Hub,Indian,OMR,819.86,Delivery
+QB100057,01-08-2026 21:20,R001,Spice Route,Indian,Anna Nagar,298.9,Delivery
+QB100058,01-08-2026 21:38,R001,Spice Route,Indian,OMR,387.01,Delivery
+QB100059,01-08-2026 21:42,R014,Salad Studio,Healthy,OMR,549.04,Delivery
+QB100060,01-08-2026 22:14,R015,Noodle Nest,Chinese,Anna Nagar,406.92,Scheduled
+QB100061,01-08-2026 23:12,R010,Biryani Box,Biryani,Mylapore,404.88,Delivery
+QB100062,02-08-2026 08:22,R003,Pizza Junction,Pizza,T Nagar,504.45,Delivery
+QB100063,02-08-2026 09:22,R015,Noodle Nest,Chinese,Adyar,916.32,Delivery
+QB100064,02-08-2026 10:59,R010,Biryani Box,Biryani,Anna Nagar,503.94,Delivery
+QB100065,02-08-2026 11:06,R012,Cafe Cloud,Cafe,Velachery,178.82,Delivery
+QB100066,02-08-2026 11:23,R007,Curry House,Indian,Velachery,327.63,Delivery
+QB100067,02-08-2026 11:24,R016,Sweet Treats,Dessert,Anna Nagar,295.42,Delivery
+QB100068,02-08-2026 11:32,R019,Chaat Central,Street Food,OMR,547.32,Delivery
+QB100069,02-08-2026 11:41,R002,Green Bowl,Healthy,Adyar,569.83,Delivery
+QB100070,02-08-2026 11:55,R003,Pizza Junction,Pizza,Anna Nagar,610.72,Delivery
+QB100071,02-08-2026 12:10,R014,Salad Studio,Healthy,Velachery,358.73,Delivery
+QB100072,02-08-2026 12:11,R002,Green Bowl,Healthy,OMR,354.57,Delivery
+QB100073,02-08-2026 12:21,R020,Grill House,Grill,Porur,408.69,Delivery
+QB100074,02-08-2026 12:29,R005,Burger Bay,Fast Food,Mylapore,404.16,Delivery
+QB100075,02-08-2026 12:35,R011,Sushi Street,Japanese,Porur,215.56,Delivery
+QB100076,02-08-2026 12:47,R001,Spice Route,Indian,Velachery,233.69,Delivery
+QB100077,02-08-2026 13:07,R016,Sweet Treats,Dessert,Mylapore,977.32,Delivery
+QB100078,02-08-2026 13:10,R014,Salad Studio,Healthy,Nungambakkam,226.31,Delivery
+QB100079,02-08-2026 13:27,R005,Burger Bay,Fast Food,Nungambakkam,154.4,Delivery
+QB100080,02-08-2026 13:37,R015,Noodle Nest,Chinese,Tambaram,378.95,Delivery
+QB100081,02-08-2026 13:42,R019,Chaat Central,Street Food,Porur,198.86,Delivery
+QB100082,02-08-2026 13:50,R004,Wok Express,Chinese,Tambaram,428.74,Delivery
+QB100083,02-08-2026 13:57,R007,Curry House,Indian,Velachery,332.28,Delivery
+QB100084,02-08-2026 14:00,R013,Tandoori Hub,Indian,Anna Nagar,589.98,Delivery
+QB100085,02-08-2026 14:12,R012,Cafe Cloud,Cafe,Mylapore,766.69,Delivery
+QB100086,02-08-2026 14:30,R009,Wrap & Roll,Fast Food,T Nagar,172.79,Delivery
+QB100087,02-08-2026 14:34,R014,Salad Studio,Healthy,Tambaram,327.91,Delivery
+QB100088,02-08-2026 14:53,R016,Sweet Treats,Dessert,T Nagar,373.74,Delivery
+QB100089,02-08-2026 14:56,R020,Grill House,Grill,Anna Nagar,198.07,Delivery
+QB100090,02-08-2026 17:06,R005,Burger Bay,Fast Food,Mylapore,287.4,Delivery
+QB100091,02-08-2026 17:22,R019,Chaat Central,Street Food,Guindy,218.4,Delivery
+QB100092,02-08-2026 17:33,R006,Dosa Corner,South Indian,Tambaram,410.1,Delivery
+QB100093,02-08-2026 17:54,R017,Coastal Kitchen,Seafood,Mylapore,399.97,Delivery
+QB100094,02-08-2026 18:07,R012,Cafe Cloud,Cafe,Anna Nagar,469,Delivery
+QB100095,02-08-2026 18:18,R009,Wrap & Roll,Fast Food,Nungambakkam,1052.6,Delivery
+QB100096,02-08-2026 18:20,R020,Grill House,Grill,OMR,423.89,Delivery
+QB100097,02-08-2026 18:20,R005,Burger Bay,Fast Food,OMR,341.6,Delivery
+QB100098,02-08-2026 18:30,R011,Sushi Street,Japanese,T Nagar,617.86,Delivery
+QB100099,02-08-2026 18:32,R006,Dosa Corner,South Indian,OMR,271.14,Delivery
+QB100100,02-08-2026 18:33,R004,Wok Express,Chinese,Adyar,786.22,Delivery
+QB100101,02-08-2026 18:36,R009,Wrap & Roll,Fast Food,OMR,432.51,Delivery
+QB100102,02-08-2026 18:40,R002,Green Bowl,Healthy,Adyar,887.36,Delivery
+QB100103,02-08-2026 18:52,R009,Wrap & Roll,Fast Food,Guindy,377.06,Delivery
+QB100104,02-08-2026 19:06,R010,Biryani Box,Biryani,T Nagar,192.43,Delivery
+QB100105,02-08-2026 19:08,R003,Pizza Junction,Pizza,Porur,485.03,Delivery
+QB100106,02-08-2026 19:17,R015,Noodle Nest,Chinese,Porur,601.07,Delivery
+QB100107,02-08-2026 19:20,R018,Sandwich Lab,Cafe,T-Nagar,1034.98,Delivery
+QB100108,02-08-2026 19:21,R015,Noodle Nest,Chinese,Anna Nagar,419.16,Delivery
+QB100109,02-08-2026 19:40,R008,Pasta Point,Italian,Velachery,964,Delivery
+QB100110,02-08-2026 19:47,R010,Biryani Box,Biryani,T Nagar,782.59,Delivery
+QB100111,02-08-2026 19:52,R010,Biryani Box,Biryani,Tambaram,150.23,Delivery
+QB100112,02-08-2026 19:56,R019,Chaat Central,Street Food,T Nagar,388.04,Delivery
+QB100113,02-08-2026 19:59,R009,Wrap & Roll,Fast Food,Anna Nagar,383.46,Delivery
+QB100114,02-08-2026 20:01,R004,Wok Express,Chinese,OMR,514.31,Delivery
+QB100115,02-08-2026 20:06,R013,Tandoori Hub,Indian,Guindy,596.55,Delivery
+QB100116,02-08-2026 20:12,R006,Dosa Corner,South Indian,Anna Nagar,359.85,Delivery
+QB100117,02-08-2026 20:30,R011,Sushi Street,Japanese,OMR,306.75,Delivery
+QB100118,02-08-2026 20:41,R019,Chaat Central,Street Food,Nungambakkam,549.86,Delivery
+QB100119,02-08-2026 20:56,R010,Biryani Box,Biryani,OMR,678.34,Delivery
+QB100120,02-08-2026 20:59,R016,Sweet Treats,Dessert,Velachery,165.19,Delivery
+QB100121,02-08-2026 21:33,R013,Tandoori Hub,Indian,Anna Nagar,397.33,Delivery
+QB100122,02-08-2026 21:34,R004,Wok Express,Chinese,OMR,652.42,Delivery
+QB100123,02-08-2026 21:58,R001,Spice Route,Indian,OMR,741.27,Delivery
+QB100124,02-08-2026 21:58,R013,Tandoori Hub,Indian,Velachery,181.74,Delivery
+QB100125,02-08-2026 22:08,R008,Pasta Point,Italian,Adyar,340.18,Delivery
+QB100126,03-08-2026 08:15,R020,Grill House,Grill,Guindy,282.3,Delivery
+QB100127,03-08-2026 08:27,R002,Green Bowl,Healthy,Porur,252,Delivery
+QB100128,03-08-2026 08:37,R016,Sweet Treats,Dessert,omr ,818.64,Delivery
+QB100129,03-08-2026 08:47,R013,Tandoori Hub,Indian,Nungambakkam,526.06,Delivery
+QB100130,03-08-2026 09:03,R002,Green Bowl,Healthy,Mylapore,246.28,Delivery
+QB100131,03-08-2026 09:27,R018,Sandwich Lab,Cafe,OMR,524.52,Delivery
+QB100132,03-08-2026 11:09,R016,Sweet Treats,Dessert,Tambaram,587.35,Delivery
+QB100133,03-08-2026 11:50,R002,Green Bowl,Healthy,OMR,239.85,Delivery
+QB100134,03-08-2026 12:02,R005,Burger Bay,Fast Food,Adyar,428.29,Delivery
+QB100135,03-08-2026 12:04,R008,Pasta Point,Italian,Anna Nagar,394.43,Delivery
+QB100136,03-08-2026 12:05,R005,Burger Bay,Fast Food,Mylapore,370.96,Delivery
+QB100137,03-08-2026 12:05,R012,Cafe Cloud,Cafe,Mylapore,412.36,Delivery
+QB100138,03-08-2026 12:17,R006,Dosa Corner,South Indian,Anna Nagar,1136.56,Delivery
+QB100139,03-08-2026 12:19,R008,Pasta Point,Italian,T Nagar,430.68,Delivery
+QB100140,03-08-2026 12:31,R012,Cafe Cloud,Cafe,T Nagar,609.78,Delivery
+QB100141,03-08-2026 12:33,R007,Curry House,Indian,Porur,169.41,Delivery
+QB100142,03-08-2026 12:33,R015,Noodle Nest,Chinese,Porur,628.52,Delivery
+QB100143,03-08-2026 12:38,R006,Dosa Corner,South Indian,Nungambakkam,267.95,Delivery
+QB100144,03-08-2026 12:39,R009,Wrap & Roll,Fast Food,Mylapore,215.65,Delivery
+QB100145,03-08-2026 12:52,R010,Biryani Box,Biryani,OMR,772.68,Delivery
+QB100146,03-08-2026 12:59,R004,Wok Express,Chinese,Porur,362.2,Delivery
+QB100147,03-08-2026 13:05,R011,Sushi Street,Japanese,Tambaram,260.6,Delivery
+QB100148,03-08-2026 13:22,R016,Sweet Treats,Dessert,Anna Nagar,400.72,Delivery
+QB100149,03-08-2026 13:25,R007,Curry House,Indian,Adyar,208.61,Delivery
+QB100150,03-08-2026 13:38,R013,Tandoori Hub,Indian,Porur,322.81,Delivery
+QB100151,03-08-2026 13:49,R009,Wrap & Roll,Fast Food,Tambaram,313.05,Delivery
+QB100152,03-08-2026 13:50,R013,Tandoori Hub,Indian,OMR,632.54,Delivery
+QB100153,03-08-2026 13:58,R015,Noodle Nest,Chinese,OMR,471.14,Delivery
+QB100154,03-08-2026 14:38,R011,Sushi Street,Japanese,Adyar,518.93,Scheduled
+QB100155,03-08-2026 15:22,R012,Cafe Cloud,Cafe,Velachery,618.74,Delivery
+QB100156,03-08-2026 16:06,R019,Chaat Central,Street Food,Nungambakkam,456.33,Delivery
+QB100157,03-08-2026 16:40,R003,Pizza Junction,Pizza,Velachery,546.54,Delivery
+QB100158,03-08-2026 17:15,R001,Spice Route,Indian,OMR,414.68,Scheduled
+QB100159,03-08-2026 17:31,R018,Sandwich Lab,Cafe,Anna Nagar,324.83,Scheduled
+QB100160,03-08-2026 17:36,R014,Salad Studio,Healthy,Guindy,518.56,Delivery
+QB100161,03-08-2026 17:44,R005,Burger Bay,Fast Food,OMR,479.1,Delivery
+QB100162,03-08-2026 18:06,R020,Grill House,Grill,Velachery,462.77,Delivery
+QB100163,03-08-2026 18:11,R019,Chaat Central,Street Food,Anna Nagar,372.08,Delivery
+QB100164,03-08-2026 18:12,R020,Grill House,Grill,Adyar,265.31,Delivery
+QB100165,03-08-2026 18:12,R016,Sweet Treats,Dessert,Guindy,995.59,Delivery
+QB100166,03-08-2026 18:14,R018,Sandwich Lab,Cafe,T Nagar,262.34,Delivery
+QB100167,03-08-2026 18:34,R005,Burger Bay,Fast Food,Tambaram,740.42,Delivery
+QB100168,03-08-2026 18:38,R005,Burger Bay,Fast Food,Porur,301.15,Delivery
+QB100169,03-08-2026 18:39,R017,Coastal Kitchen,Seafood,Nungambakkam,968.64,Delivery
+QB100170,03-08-2026 19:13,R005,Burger Bay,Fast Food,OMR,370.88,Delivery
+QB100171,03-08-2026 19:18,R006,Dosa Corner,South Indian,Guindy,273.29,Delivery
+QB100172,03-08-2026 19:19,R017,Coastal Kitchen,Seafood,T Nagar,386,Delivery
+QB100173,03-08-2026 19:20,R014,Salad Studio,Healthy,T Nagar,466,Delivery
+QB100174,03-08-2026 19:40,R008,Pasta Point,Italian,Guindy,489.96,Delivery
+QB100175,03-08-2026 19:47,R009,Wrap & Roll,Fast Food,T Nagar,886.34,Delivery
+QB100176,03-08-2026 19:47,R017,Coastal Kitchen,Seafood,Mylapore,220.53,Delivery
+QB100177,03-08-2026 19:49,R004,Wok Express,Chinese,Anna Nagar,203.99,Delivery
+QB100178,03-08-2026 19:54,R013,Tandoori Hub,Indian,Anna Nagar,409.89,Delivery
+QB100179,03-08-2026 19:55,R012,Cafe Cloud,Cafe,Adyar,670.54,Delivery
+QB100180,03-08-2026 20:07,R007,Curry House,Indian,Guindy,451.1,Delivery
+QB100181,03-08-2026 20:08,R014,Salad Studio,Healthy,Velachery,580.66,Delivery
+QB100182,03-08-2026 20:08,R003,Pizza Junction,Pizza,Tambaram,418.74,Delivery
+QB100183,03-08-2026 20:12,R007,Curry House,Indian,Anna Nagar,283.9,Delivery
+QB100184,03-08-2026 20:52,R007,Curry House,Indian,OMR,475.98,Delivery
+QB100185,03-08-2026 21:02,R019,Chaat Central,Street Food,Nungambakkam,452.94,Delivery
+QB100186,03-08-2026 21:28,R004,Wok Express,Chinese,Adyar,133.67,Scheduled
+QB100187,03-08-2026 21:36,R003,Pizza Junction,Pizza,Anna Nagar,498.67,Delivery
+QB100188,03-08-2026 21:39,R018,Sandwich Lab,Cafe,T Nagar,445.77,Delivery
+QB100189,03-08-2026 21:55,R014,Salad Studio,Healthy,OMR,532.62,Delivery
+QB100190,03-08-2026 21:56,R011,Sushi Street,Japanese,Velachery,297.91,Delivery
+QB100191,03-08-2026 22:04,R014,Salad Studio,Healthy,Guindy,227.7,Delivery
+QB100192,03-08-2026 22:08,R011,Sushi Street,Japanese,OMR,816.39,Delivery
+QB100193,03-08-2026 22:22,R007,Curry House,Indian,OMR,547.31,Delivery
+QB100194,04-08-2026 11:02,R004,Wok Express,Chinese,OMR,485.91,Delivery
+QB100195,04-08-2026 11:03,R001,Spice Route,Indian,Velachery,439.53,Delivery
+QB100196,04-08-2026 11:09,R005,Burger Bay,Fast Food,Anna Nagar,510.76,Delivery
+QB100197,04-08-2026 11:18,R002,Green Bowl,Healthy,Adyar,571.47,Delivery
+QB100198,04-08-2026 11:25,R010,Biryani Box,Biryani,Tambaram,677.45,Scheduled
+QB100199,04-08-2026 11:33,R015,Noodle Nest,Chinese,Anna Nagar,569.35,Delivery
+QB100200,04-08-2026 11:42,R020,Grill House,Grill,T Nagar,414.12,Scheduled
+QB100201,04-08-2026 12:03,R004,Wok Express,Chinese,Anna Nagar,563.36,Delivery
+QB100202,04-08-2026 12:06,R005,Burger Bay,Fast Food,T Nagar,451.11,Delivery
+QB100203,04-08-2026 12:20,R011,Sushi Street,Japanese,Anna Nagar,321.79,Delivery
+QB100204,04-08-2026 12:26,R009,Wrap & Roll,Fast Food,Porur,637.19,Delivery
+QB100205,04-08-2026 12:33,R016,Sweet Treats,Dessert,Velachery,101.41,Delivery
+QB100206,04-08-2026 12:36,R005,Burger Bay,Fast Food,Anna Nagar,570.32,Delivery
+QB100207,04-08-2026 12:37,R009,Wrap & Roll,Fast Food,Nungambakkam,302.11,Delivery
+QB100208,04-08-2026 12:39,R006,Dosa Corner,South Indian,Anna Nagar,407.35,Delivery
+QB100209,04-08-2026 12:44,R017,Coastal Kitchen,Seafood,OMR,651.39,Scheduled
+QB100210,04-08-2026 12:48,R013,Tandoori Hub,Indian,T Nagar,255.67,Delivery
+QB100211,04-08-2026 12:52,R001,Spice Route,Indian,T Nagar,606.36,Delivery
+QB100212,04-08-2026 13:02,R007,Curry House,Indian,Nungambakkam,403.26,Delivery
+QB100213,04-08-2026 13:03,R006,Dosa Corner,South Indian,Porur,268.37,Delivery
+QB100214,04-08-2026 13:19,R005,Burger Bay,Fast Food,Tambaram,398.44,Scheduled
+QB100215,04-08-2026 13:21,R004,Wok Express,Chinese,Anna Nagar,817.69,Delivery
+QB100216,04-08-2026 13:29,R004,Wok Express,Chinese,Porur,657.01,Delivery
+QB100217,04-08-2026 13:40,R004,Wok Express,Chinese,Guindy,163.47,Delivery
+QB100218,04-08-2026 13:43,R020,Grill House,Grill,OMR,311.24,Delivery
+QB100219,04-08-2026 13:45,R006,Dosa Corner,South Indian,OMR,649.86,Delivery
+QB100220,04-08-2026 13:46,R012,Cafe Cloud,Cafe,Velachery,369.13,Delivery
+QB100221,04-08-2026 13:49,R015,Noodle Nest,Chinese,Tambaram,692.37,Delivery
+QB100222,04-08-2026 13:50,R012,Cafe Cloud,Cafe,Mylapore,206.36,Delivery
+QB100223,04-08-2026 13:51,R005,Burger Bay,Fast Food,Porur,237.28,Delivery
+QB100224,04-08-2026 13:52,R010,Biryani Box,Biryani,T Nagar,766.48,Delivery
+QB100225,04-08-2026 13:56,R015,Noodle Nest,Chinese,OMR,411.89,Delivery
+QB100226,04-08-2026 14:15,R001,Spice Route,Indian,Anna Nagar,588.88,Delivery
+QB100227,04-08-2026 14:26,R017,Coastal Kitchen,Seafood,Nungambakkam,672.04,Delivery
+QB100228,04-08-2026 14:27,R015,Noodle Nest,Chinese,Guindy,316.08,Delivery
+QB100229,04-08-2026 14:51,R016,Sweet Treats,Dessert,T Nagar,517.17,Delivery
+QB100230,04-08-2026 14:53,R006,Dosa Corner,South Indian,Guindy,191.81,Delivery
+QB100231,04-08-2026 14:56,R013,Tandoori Hub,Indian,T Nagar,218.69,Delivery
+QB100232,04-08-2026 15:01,R003,Pizza Junction,Pizza,Tambaram,656.01,Delivery
+QB100233,04-08-2026 16:44,R010,Biryani Box,Biryani,OMR,255.35,Delivery
+QB100234,04-08-2026 17:04,R018,Sandwich Lab,Cafe,Velachery,575.78,Delivery
+QB100235,04-08-2026 18:01,R016,Sweet Treats,Dessert,T-Nagar,622.24,Delivery
+QB100236,04-08-2026 18:03,R007,Curry House,Indian,Velachery,723.26,Delivery
+QB100237,04-08-2026 18:11,R014,Salad Studio,Healthy,Tambaram,676.17,Delivery
+QB100238,04-08-2026 18:12,R013,Tandoori Hub,Indian,OMR,388.33,Delivery
+QB100239,04-08-2026 18:28,R019,Chaat Central,Street Food,Anna Nagar,163.99,Scheduled
+QB100240,04-08-2026 18:28,R008,Pasta Point,Italian,Adyar,216.8,Delivery
+QB100241,04-08-2026 18:34,R014,Salad Studio,Healthy,Guindy,273.72,Delivery
+QB100242,04-08-2026 18:42,R016,Sweet Treats,Dessert,Adyar,486.69,Delivery
+QB100243,04-08-2026 18:49,R019,Chaat Central,Street Food,Anna Nagar,378.64,Delivery
+QB100244,04-08-2026 18:51,R011,Sushi Street,Japanese,Porur,505.4,Delivery
+QB100245,04-08-2026 19:23,R016,Sweet Treats,Dessert,OMR,515.44,Delivery
+QB100246,04-08-2026 19:24,R010,Biryani Box,Biryani,OMR,542.03,Delivery
+QB100247,04-08-2026 19:31,R017,Coastal Kitchen,Seafood,Adyar,492.12,Delivery
+QB100248,04-08-2026 19:37,R020,Grill House,Grill,Anna Nagar,780.81,Delivery
+QB100249,04-08-2026 19:37,R013,Tandoori Hub,Indian,Anna Nagar,467.32,Delivery
+QB100250,04-08-2026 19:47,R012,Cafe Cloud,Cafe,Adyar,365.02,Delivery
+QB100251,04-08-2026 19:50,R001,Spice Route,Indian,Mylapore,284.28,Delivery
+QB100252,04-08-2026 19:58,R008,Pasta Point,Italian,Nungambakkam,406.04,Delivery
+QB100253,04-08-2026 19:58,R002,Green Bowl,Healthy,Porur,323.45,Delivery
+QB100254,04-08-2026 20:00,R009,Wrap & Roll,Fast Food,Tambaram,547.14,Delivery
+QB100255,04-08-2026 20:02,R014,Salad Studio,Healthy,Nungambakkam,564.37,Delivery
+QB100256,04-08-2026 20:03,R010,Biryani Box,Biryani,Mylapore,589.56,Delivery
+QB100257,04-08-2026 20:12,R019,Chaat Central,Street Food,OMR,295.26,Scheduled
+QB100258,04-08-2026 20:13,R014,Salad Studio,Healthy,Tambaram,302.6,Delivery
+QB100259,04-08-2026 20:19,R016,Sweet Treats,Dessert,Anna Nagar,919.12,Delivery
+QB100260,04-08-2026 20:31,R001,Spice Route,Indian,Nungambakkam,429.83,Delivery
+QB100261,04-08-2026 20:35,R004,Wok Express,Chinese,T Nagar,378.15,Delivery
+QB100262,04-08-2026 20:42,R018,Sandwich Lab,Cafe,T Nagar,751.32,Delivery
+QB100263,04-08-2026 20:43,R005,Burger Bay,Fast Food,OMR,313.46,Delivery
+QB100264,04-08-2026 20:47,R014,Salad Studio,Healthy,Velachery,441.47,Delivery
+QB100265,04-08-2026 20:59,R018,Sandwich Lab,Cafe,Anna Nagar,489.81,Delivery
+QB100266,04-08-2026 21:01,R003,Pizza Junction,Pizza,OMR,278.52,Delivery
+QB100267,04-08-2026 21:14,R015,Noodle Nest,Chinese,T Nagar,267.94,Delivery
+QB100268,04-08-2026 23:21,R013,Tandoori Hub,Indian,OMR,702.14,Delivery
+QB100269,05-08-2026 08:19,R007,Curry House,Indian,Nungambakkam,132.54,Scheduled
+QB100270,05-08-2026 08:39,R017,Coastal Kitchen,Seafood,Tambaram,309.45,Delivery
+QB100271,05-08-2026 08:57,R001,Spice Route,Indian,Velachery,595.01,Delivery
+QB100272,05-08-2026 09:06,R019,Chaat Central,Street Food,T Nagar,760.44,Delivery
+QB100273,05-08-2026 09:10,R015,Noodle Nest,Chinese,Guindy,417.7,Delivery
+QB100274,05-08-2026 11:03,R018,Sandwich Lab,Cafe,Tambaram,687.85,Delivery
+QB100275,05-08-2026 11:23,R013,Tandoori Hub,Indian,Velachery,931.27,Delivery
+QB100276,05-08-2026 11:28,R020,Grill House,Grill,Tambaram,582.39,Delivery
+QB100277,05-08-2026 11:56,R006,Dosa Corner,South Indian,Porur,256.3,Delivery
+QB100278,05-08-2026 11:59,R012,Cafe Cloud,Cafe,OMR,501.69,Delivery
+QB100279,05-08-2026 12:02,R013,Tandoori Hub,Indian,Adyar,340.73,Delivery
+QB100280,05-08-2026 12:08,R016,Sweet Treats,Dessert,Mylapore,368.84,Delivery
+QB100281,05-08-2026 12:09,R011,Sushi Street,Japanese,Tambaram,512.83,Delivery
+QB100282,05-08-2026 12:23,R006,Dosa Corner,South Indian,Tambaram,612,Delivery
+QB100283,05-08-2026 12:26,R012,Cafe Cloud,Cafe,OMR,313.24,Delivery
+QB100284,05-08-2026 12:35,R005,Burger Bay,Fast Food,Velachery,476.38,Delivery
+QB100285,05-08-2026 12:56,R007,Curry House,Indian,T Nagar,309.77,Delivery
+QB100286,05-08-2026 13:12,R006,Dosa Corner,South Indian,Velachery,363.21,Delivery
+QB100287,05-08-2026 13:14,R006,Dosa Corner,South Indian,OMR,571.53,Delivery
+QB100288,05-08-2026 13:17,R020,Grill House,Grill,OMR,173.33,Delivery
+QB100289,05-08-2026 13:37,R005,Burger Bay,Fast Food,Velachery,606.61,Delivery
+QB100290,05-08-2026 13:56,R014,Salad Studio,Healthy,T Nagar,868.53,Delivery
+QB100291,05-08-2026 14:46,R011,Sushi Street,Japanese,Mylapore,374.94,Delivery
+QB100292,05-08-2026 15:09,R010,Biryani Box,Biryani,Nungambakkam,422.92,Delivery
+QB100293,05-08-2026 16:11,R005,Burger Bay,Fast Food,Guindy,314.17,Delivery
+QB100294,05-08-2026 16:12,R006,Dosa Corner,South Indian,Porur,503,Delivery
+QB100295,05-08-2026 16:35,R006,Dosa Corner,South Indian,Anna Nagar,390.18,Delivery
+QB100296,05-08-2026 16:53,R003,Pizza Junction,Pizza,T Nagar,352.86,Delivery
+QB100297,05-08-2026 17:07,R005,Burger Bay,Fast Food,Adyar,277.58,Delivery
+QB100298,05-08-2026 17:51,R013,Tandoori Hub,Indian,Adyar,330.84,Delivery
+QB100299,05-08-2026 18:01,R012,Cafe Cloud,Cafe,VELACHERY,302.46,Delivery
+QB100300,05-08-2026 18:02,R013,Tandoori Hub,Indian,Velachery,464.93,Delivery
+QB100301,05-08-2026 18:02,R008,Pasta Point,Italian,Velachery,468.98,Delivery
+QB100302,05-08-2026 18:09,R017,Coastal Kitchen,Seafood,OMR,549.98,Delivery
+QB100303,05-08-2026 18:12,R012,Cafe Cloud,Cafe,Mylapore,455.31,Delivery
+QB100304,05-08-2026 18:23,R012,Cafe Cloud,Cafe,Nungambakkam,270.44,Delivery
+QB100305,05-08-2026 18:25,R016,Sweet Treats,Dessert,Velachery,240.64,Delivery
+QB100306,05-08-2026 18:50,R011,Sushi Street,Japanese,T Nagar,189.72,Delivery
+QB100307,05-08-2026 18:50,R010,Biryani Box,Biryani,Adyar,623.99,Delivery
+QB100308,05-08-2026 19:09,R017,Coastal Kitchen,Seafood,Anna Nagar,367.37,Delivery
+QB100309,05-08-2026 19:10,R016,Sweet Treats,Dessert,Porur,244.92,Delivery
+QB100310,05-08-2026 19:13,R006,Dosa Corner,South Indian,Tambaram,759.88,Delivery
+QB100311,05-08-2026 19:13,R018,Sandwich Lab,Cafe,Mylapore,318.81,Delivery
+QB100312,05-08-2026 19:18,R009,Wrap & Roll,Fast Food,Tambaram,627.05,Delivery
+QB100313,05-08-2026 19:53,R013,Tandoori Hub,Indian,T Nagar,406.76,Delivery
+QB100314,05-08-2026 19:55,R016,Sweet Treats,Dessert,Mylapore,481.66,Delivery
+QB100315,05-08-2026 19:57,R013,Tandoori Hub,Indian,T Nagar,643.65,Delivery
+QB100316,05-08-2026 20:04,R017,Coastal Kitchen,Seafood,Mylapore,345.08,Delivery
+QB100317,05-08-2026 20:07,R015,Noodle Nest,Chinese,Anna Nagar,612.27,Delivery
+QB100318,05-08-2026 20:09,R002,Green Bowl,Healthy,Guindy,629.42,Delivery
+QB100319,05-08-2026 20:10,R016,Sweet Treats,Dessert,Mylapore,415.54,Delivery
+QB100320,05-08-2026 20:12,R002,Green Bowl,Healthy,Porur,781.22,Delivery
+QB100321,05-08-2026 20:20,R013,Tandoori Hub,Indian,OMR,566.89,Delivery
+QB100322,05-08-2026 20:25,R012,Cafe Cloud,Cafe,Mylapore,367.35,Delivery
+QB100323,05-08-2026 20:31,R013,Tandoori Hub,Indian,Anna Nagar,712.16,Delivery
+QB100324,05-08-2026 20:34,R001,Spice Route,Indian,Guindy,278.49,Scheduled
+QB100325,05-08-2026 20:39,R020,Grill House,Grill,Velachery,569.5,Delivery
+QB100326,05-08-2026 20:46,R011,Sushi Street,Japanese,Tambaram,359.11,Delivery
+QB100327,05-08-2026 20:55,R019,Chaat Central,Street Food,Adyar,466.98,Delivery
+QB100328,05-08-2026 21:04,R017,Coastal Kitchen,Seafood,Porur,361.04,Delivery
+QB100329,05-08-2026 21:07,R003,Pizza Junction,Pizza,Adyar,309.54,Delivery
+QB100330,05-08-2026 21:12,R010,Biryani Box,Biryani,Nungambakkam,604.04,Delivery
+QB100331,05-08-2026 21:20,R011,Sushi Street,Japanese,Porur,174.42,Delivery
+QB100332,05-08-2026 21:25,R015,Noodle Nest,Chinese,Tambaram,368.17,Delivery
+QB100333,05-08-2026 21:28,R017,Coastal Kitchen,Seafood,Guindy,142.14,Delivery
+QB100334,06-08-2026 09:15,R014,Salad Studio,Healthy,Anna Nagar,208.56,Delivery
+QB100335,06-08-2026 09:33,R012,Cafe Cloud,Cafe,Adyar,253.68,Delivery
+QB100336,06-08-2026 09:36,R016,Sweet Treats,Dessert,Porur,802.57,Delivery
+QB100337,06-08-2026 10:34,R001,Spice Route,Indian,T Nagar,401.26,Delivery
+QB100338,06-08-2026 10:40,R010,Biryani Box,Biryani,Mylapore,402.65,Delivery
+QB100339,06-08-2026 11:23,R016,Sweet Treats,Dessert,Adyar,511.37,Delivery
+QB100340,06-08-2026 11:26,R016,Sweet Treats,Dessert,Anna Nagar,343.05,Delivery
+QB100341,06-08-2026 11:28,R019,Chaat Central,Street Food,OMR,357.93,Delivery
+QB100342,06-08-2026 12:04,R016,Sweet Treats,Dessert,Anna Nagar,352.69,Delivery
+QB100343,06-08-2026 12:16,R006,Dosa Corner,South Indian,Nungambakkam,161.99,Scheduled
+QB100344,06-08-2026 12:21,R010,Biryani Box,Biryani,Velachery,119.65,Delivery
+QB100345,06-08-2026 12:22,R014,Salad Studio,Healthy,Velachery,467.55,Scheduled
+QB100346,06-08-2026 12:26,R011,Sushi Street,Japanese,Adyar,474.11,Delivery
+QB100347,06-08-2026 12:29,R014,Salad Studio,Healthy,Anna Nagar,306.53,Delivery
+QB100348,06-08-2026 12:30,R017,Coastal Kitchen,Seafood,Porur,259.3,Delivery
+QB100349,06-08-2026 12:47,R005,Burger Bay,Fast Food,Adyar,292.54,Delivery
+QB100350,06-08-2026 12:49,R004,Wok Express,Chinese,Porur,269.93,Delivery
+QB100351,06-08-2026 12:51,R017,Coastal Kitchen,Seafood,Adyar,285.23,Delivery
+QB100352,06-08-2026 13:11,R015,Noodle Nest,Chinese,Velachery,1020.18,Delivery
+QB100353,06-08-2026 13:23,R010,Biryani Box,Biryani,Adyar,942.57,Delivery
+QB100354,06-08-2026 13:32,R009,Wrap & Roll,Fast Food,Tambaram,476.23,Delivery
+QB100355,06-08-2026 13:40,R010,Biryani Box,Biryani,Tambaram,338.32,Delivery
+QB100356,06-08-2026 13:44,R019,Chaat Central,Street Food,Tambaram,533.09,Delivery
+QB100357,06-08-2026 13:55,R003,Pizza Junction,Pizza,T Nagar,493.54,Delivery
+QB100358,06-08-2026 14:19,R011,Sushi Street,Japanese,Anna Nagar,881.19,Delivery
+QB100359,06-08-2026 14:39,R003,Pizza Junction,Pizza,Velachery,552.37,Delivery
+QB100360,06-08-2026 15:51,R006,Dosa Corner,South Indian,OMR,686.84,Delivery
+QB100361,06-08-2026 15:51,R010,Biryani Box,Biryani,Porur,100,Delivery
+QB100362,06-08-2026 15:57,R014,Salad Studio,Healthy,T Nagar,950.65,Delivery
+QB100363,06-08-2026 16:59,R011,Sushi Street,Japanese,Mylapore,377.49,Delivery
+QB100364,06-08-2026 17:06,R005,Burger Bay,Fast Food,OMR,268.83,Delivery
+QB100365,06-08-2026 17:07,R010,Biryani Box,Biryani,Adyar,342.65,Delivery
+QB100366,06-08-2026 17:23,R017,Coastal Kitchen,Seafood,Guindy,1047.16,Delivery
+QB100367,06-08-2026 18:04,R010,Biryani Box,Biryani,Guindy,410.91,Delivery
+QB100368,06-08-2026 18:05,R007,Curry House,Indian,Porur,271.27,Delivery
+QB100369,06-08-2026 18:10,R007,Curry House,Indian,T Nagar,448.07,Delivery
+QB100370,06-08-2026 18:10,R018,Sandwich Lab,Cafe,Velachery,348.02,Scheduled
+QB100371,06-08-2026 18:11,R001,Spice Route,Indian,Porur,481.82,Delivery
+QB100372,06-08-2026 18:12,R001,Spice Route,Indian,Adyar,604.86,Delivery
+QB100373,06-08-2026 18:15,R003,Pizza Junction,Pizza,Velachery,654.78,Delivery
+QB100374,06-08-2026 18:17,R009,Wrap & Roll,Fast Food,Mylapore,568.08,Delivery
+QB100375,06-08-2026 18:26,R012,Cafe Cloud,Cafe,Nungambakkam,938.69,Delivery
+QB100376,06-08-2026 18:30,R002,Green Bowl,Healthy,Anna Nagar,459.14,Delivery
+QB100377,06-08-2026 18:36,R001,Spice Route,Indian,Anna Nagar,928.49,Delivery
+QB100378,06-08-2026 18:38,R016,Sweet Treats,Dessert,Anna Nagar,407.09,Delivery
+QB100379,06-08-2026 18:49,R015,Noodle Nest,Chinese,Mylapore,287.56,Delivery
+QB100380,06-08-2026 18:57,R017,Coastal Kitchen,Seafood,Nungambakkam,380.79,Delivery
+QB100381,06-08-2026 18:57,R007,Curry House,Indian,Tambaram,353.1,Delivery
+QB100382,06-08-2026 18:59,R010,Biryani Box,Biryani,Guindy,442.15,Delivery
+QB100383,06-08-2026 19:17,R017,Coastal Kitchen,Seafood,Mylapore,324.23,Delivery
+QB100384,06-08-2026 19:23,R013,Tandoori Hub,Indian,Mylapore,504.11,Delivery
+QB100385,06-08-2026 19:31,R015,Noodle Nest,Chinese,Tambaram,291.12,Delivery
+QB100386,06-08-2026 19:31,R018,Sandwich Lab,Cafe,Porur,437.43,Delivery
+QB100387,06-08-2026 19:40,R006,Dosa Corner,South Indian,T Nagar,421.75,Delivery
+QB100388,06-08-2026 19:43,R011,Sushi Street,Japanese,Porur,410.42,Delivery
+QB100389,06-08-2026 19:54,R017,Coastal Kitchen,Seafood,OMR,376.77,Delivery
+QB100390,06-08-2026 19:58,R002,Green Bowl,Healthy,Adyar,374.34,Delivery
+QB100391,06-08-2026 20:09,R002,Green Bowl,Healthy,Porur,411.43,Delivery
+QB100392,06-08-2026 20:33,R019,Chaat Central,Street Food,T Nagar,419.23,Delivery
+QB100393,06-08-2026 20:42,R003,Pizza Junction,Pizza,Tambaram,729.31,Delivery
+QB100394,06-08-2026 20:46,R006,Dosa Corner,South Indian,Velachery,1109.22,Delivery
+QB100395,06-08-2026 20:56,R006,Dosa Corner,South Indian,Guindy,534.08,Delivery
+QB100396,06-08-2026 20:57,R007,Curry House,Indian,Anna Nagar,425.81,Delivery
+QB100397,06-08-2026 21:01,R005,Burger Bay,Fast Food,Guindy,523.47,Delivery
+QB100398,06-08-2026 21:42,R009,Wrap & Roll,Fast Food,T Nagar,330.7,Delivery
+QB100399,06-08-2026 21:53,R002,Green Bowl,Healthy,Guindy,770.48,Delivery
+QB100400,06-08-2026 22:23,R008,Pasta Point,Italian,Tambaram,476.01,Delivery
+QB100401,07-08-2026 08:23,R016,Sweet Treats,Dessert,Velachery,703.37,Delivery
+QB100402,07-08-2026 09:04,R017,Coastal Kitchen,Seafood,Porur,241.94,Delivery
+QB100403,07-08-2026 09:41,R005,Burger Bay,Fast Food,Anna Nagar,666.3,Delivery
+QB100404,07-08-2026 10:41,R013,Tandoori Hub,Indian,Anna Nagar,759.49,Delivery
+QB100405,07-08-2026 10:47,R017,Coastal Kitchen,Seafood,Mylapore,202.83,Delivery
+QB100406,07-08-2026 11:32,R011,Sushi Street,Japanese,Porur,272.14,Delivery
+QB100407,07-08-2026 11:32,R016,Sweet Treats,Dessert,T Nagar,162.78,Delivery
+QB100408,07-08-2026 11:44,R011,Sushi Street,Japanese,Anna Nagar,358.88,Delivery
+QB100409,07-08-2026 12:15,R005,Burger Bay,Fast Food,Anna Nagar,482.29,Delivery
+QB100410,07-08-2026 12:16,R009,Wrap & Roll,Fast Food,Tambaram,309.62,Delivery
+QB100411,07-08-2026 12:25,R006,Dosa Corner,South Indian,Anna Nagar,499.54,Delivery
+QB100412,07-08-2026 12:28,R017,Coastal Kitchen,Seafood,Mylapore,649.9,Delivery
+QB100413,07-08-2026 12:34,R019,Chaat Central,Street Food,Mylapore,212.02,Delivery
+QB100414,07-08-2026 12:35,R003,Pizza Junction,Pizza,Mylapore,354.79,Delivery
+QB100415,07-08-2026 12:37,R020,Grill House,Grill,Velachery,192.6,Delivery
+QB100416,07-08-2026 12:40,R010,Biryani Box,Biryani,Tambaram,373.63,Delivery
+QB100417,07-08-2026 12:44,R015,Noodle Nest,Chinese,Guindy,492.97,Delivery
+QB100418,07-08-2026 12:53,R012,Cafe Cloud,Cafe,Anna Nagar,606.8,Delivery
+QB100419,07-08-2026 13:14,R008,Pasta Point,Italian,Adyar,661.66,Delivery
+QB100420,07-08-2026 13:23,R001,Spice Route,Indian,Nungambakkam,122.2,Delivery
+QB100421,07-08-2026 13:24,R011,Sushi Street,Japanese,T Nagar,253.55,Delivery
+QB100422,07-08-2026 13:24,R020,Grill House,Grill,Guindy,431.94,Delivery
+QB100423,07-08-2026 13:27,R015,Noodle Nest,Chinese,Porur,552.41,Delivery
+QB100424,07-08-2026 13:40,R015,Noodle Nest,Chinese,Porur,169.27,Delivery
+QB100425,07-08-2026 13:56,R011,Sushi Street,Japanese,Mylapore,440.79,Delivery
+QB100426,07-08-2026 13:58,R001,Spice Route,Indian,Anna Nagar,738.92,Delivery
+QB100427,07-08-2026 14:00,R001,Spice Route,Indian,Velachery,337.35,Delivery
+QB100428,07-08-2026 14:38,R013,Tandoori Hub,Indian,OMR,288.32,Delivery
+QB100429,07-08-2026 16:22,R010,Biryani Box,Biryani,Adyar,427.8,Delivery
+QB100430,07-08-2026 17:09,R018,Sandwich Lab,Cafe,T Nagar,272.66,Delivery
+QB100431,07-08-2026 17:19,R004,Wok Express,Chinese,Nungambakkam,380.71,Delivery
+QB100432,07-08-2026 17:32,R002,Green Bowl,Healthy,Porur,511.87,Delivery
+QB100433,07-08-2026 17:48,R016,Sweet Treats,Dessert,Adyar,256,Delivery
+QB100434,07-08-2026 18:11,R007,Curry House,Indian,OMR,474.37,Delivery
+QB100435,07-08-2026 18:33,R018,Sandwich Lab,Cafe,Adyar,499.98,Scheduled
+QB100436,07-08-2026 18:34,R010,Biryani Box,Biryani,Adyar,379.32,Delivery
+QB100437,07-08-2026 18:40,R017,Coastal Kitchen,Seafood,T Nagar,327.06,Delivery
+QB100438,07-08-2026 19:00,R017,Coastal Kitchen,Seafood,Velachery,757.49,Delivery
+QB100439,07-08-2026 19:00,R014,Salad Studio,Healthy,Velachery,664.89,Delivery
+QB100440,07-08-2026 19:01,R015,Noodle Nest,Chinese,Velachery,877.74,Delivery
+QB100441,07-08-2026 19:16,R004,Wok Express,Chinese,Adyar,425.96,Delivery
+QB100442,07-08-2026 19:16,R009,Wrap & Roll,Fast Food,Anna Nagar,593.73,Delivery
+QB100443,07-08-2026 19:19,R004,Wok Express,Chinese,Tambaram,166.15,Delivery
+QB100444,07-08-2026 19:22,R014,Salad Studio,Healthy,Tambaram,433.56,Delivery
+QB100445,07-08-2026 19:23,R006,Dosa Corner,South Indian,Porur,455.85,Delivery
+QB100446,07-08-2026 19:24,R013,Tandoori Hub,Indian,Adyar,590.38,Delivery
+QB100447,07-08-2026 19:40,R004,Wok Express,Chinese,Adyar,320.84,Delivery
+QB100448,07-08-2026 19:41,R014,Salad Studio,Healthy,Porur,559.61,Delivery
+QB100449,07-08-2026 19:54,R009,Wrap & Roll,Fast Food,Mylapore,311.89,Delivery
+QB100450,07-08-2026 19:55,R015,Noodle Nest,Chinese,OMR,563.23,Delivery
+QB100451,07-08-2026 20:18,R008,Pasta Point,Italian,Adyar,867.56,Delivery
+QB100452,07-08-2026 20:28,R015,Noodle Nest,Chinese,Anna Nagar,223.9,Delivery
+QB100453,07-08-2026 20:31,R020,Grill House,Grill,Mylapore,380.06,Delivery
+QB100454,07-08-2026 20:36,R005,Burger Bay,Fast Food,Guindy,494.16,Delivery
+QB100455,07-08-2026 20:41,R005,Burger Bay,Fast Food,Velachery,429.54,Delivery
+QB100456,07-08-2026 20:52,R013,Tandoori Hub,Indian,Mylapore,776.12,Delivery
+QB100457,07-08-2026 21:30,R001,Spice Route,Indian,Velachery,292.87,Delivery
+QB100458,07-08-2026 21:32,R008,Pasta Point,Italian,Guindy,382.95,Delivery
+QB100459,07-08-2026 21:37,R011,Sushi Street,Japanese,OMR,661.77,Delivery
+QB100460,07-08-2026 21:46,R012,Cafe Cloud,Cafe,Tambaram,782.36,Delivery
+QB100461,07-08-2026 22:52,R013,Tandoori Hub,Indian,Adyar,689.81,Delivery
+QB100462,08-08-2026 08:19,R016,Sweet Treats,Dessert,Porur,177.22,Delivery
+QB100463,08-08-2026 08:38,R014,Salad Studio,Healthy,Adyar,598.22,Delivery
+QB100464,08-08-2026 09:49,R005,Burger Bay,Fast Food,Velachery,519.94,Delivery
+QB100465,08-08-2026 11:02,R010,Biryani Box,Biryani,Porur,366.85,Delivery
+QB100466,08-08-2026 11:23,R013,Tandoori Hub,Indian,Guindy,780.12,Delivery
+QB100467,08-08-2026 11:55,R011,Sushi Street,Japanese,OMR,216.84,Delivery
+QB100468,08-08-2026 12:03,R014,Salad Studio,Healthy,Adyar,673.27,Delivery
+QB100469,08-08-2026 12:06,R001,Spice Route,Indian,Tambaram,286.38,Delivery
+QB100470,08-08-2026 12:27,R010,Biryani Box,Biryani,OMR,244.2,Delivery
+QB100471,08-08-2026 12:27,R013,Tandoori Hub,Indian,Tambaram,227.32,Delivery
+QB100472,08-08-2026 12:30,R001,Spice Route,Indian,Guindy,796.25,Delivery
+QB100473,08-08-2026 13:04,R015,Noodle Nest,Chinese,Mylapore,291.74,Delivery
+QB100474,08-08-2026 13:07,R011,Sushi Street,Japanese,T Nagar,350.81,Delivery
+QB100475,08-08-2026 13:18,R018,Sandwich Lab,Cafe,Adyar,537.09,Scheduled
+QB100476,08-08-2026 13:27,R015,Noodle Nest,Chinese,Velachery,465.19,Delivery
+QB100477,08-08-2026 13:34,R008,Pasta Point,Italian,Nungambakkam,417.86,Delivery
+QB100478,08-08-2026 13:42,R010,Biryani Box,Biryani,Anna Nagar,649.04,Delivery
+QB100479,08-08-2026 13:59,R002,Green Bowl,Healthy,T Nagar,325.2,Delivery
+QB100480,08-08-2026 14:12,R015,Noodle Nest,Chinese,Velachery,328.78,Delivery
+QB100481,08-08-2026 14:20,R013,Tandoori Hub,Indian,Tambaram,531.42,Delivery
+QB100482,08-08-2026 14:54,R020,Grill House,Grill,Mylapore,790.08,Delivery
+QB100483,08-08-2026 15:04,R012,Cafe Cloud,Cafe,Velachery,366.91,Delivery
+QB100484,08-08-2026 16:02,R003,Pizza Junction,Pizza,Anna Nagar,422.29,Delivery
+QB100485,08-08-2026 17:18,R018,Sandwich Lab,Cafe,Tambaram,792.33,Delivery
+QB100486,08-08-2026 17:21,R001,Spice Route,Indian,OMR,499.78,Delivery
+QB100487,08-08-2026 17:45,R019,Chaat Central,Street Food,Nungambakkam,1107.66,Delivery
+QB100488,08-08-2026 18:00,R012,Cafe Cloud,Cafe,OMR,322.49,Delivery
+QB100489,08-08-2026 18:04,R009,Wrap & Roll,Fast Food,Adyar,287.17,Delivery
+QB100490,08-08-2026 18:04,R016,Sweet Treats,Dessert,Anna Nagar,406.79,Delivery
+QB100491,08-08-2026 18:12,R004,Wok Express,Chinese,Porur,447.97,Delivery
+QB100492,08-08-2026 18:15,R010,Biryani Box,Biryani,Velachery,530.01,Delivery
+QB100493,08-08-2026 18:31,R017,Coastal Kitchen,Seafood,Guindy,558.36,Scheduled
+QB100494,08-08-2026 18:35,R003,Pizza Junction,Pizza,Tambaram,264.65,Delivery
+QB100495,08-08-2026 18:37,R004,Wok Express,Chinese,Guindy,744.13,Delivery
+QB100496,08-08-2026 18:41,R010,Biryani Box,Biryani,OMR,265.04,Delivery
+QB100497,08-08-2026 18:56,R007,Curry House,Indian,Anna Nagar,622.94,Delivery
+QB100498,08-08-2026 18:59,R010,Biryani Box,Biryani,OMR,691.95,Delivery
+QB100499,08-08-2026 19:00,R002,Green Bowl,Healthy,OMR,427.56,Scheduled
+QB100500,08-08-2026 19:13,R020,Grill House,Grill,Nungambakkam,647.68,Delivery
+QB100501,08-08-2026 19:14,R001,Spice Route,Indian,T Nagar,643.26,Delivery
+QB100502,08-08-2026 19:16,R019,Chaat Central,Street Food,Tambaram,912.51,Delivery
+QB100503,08-08-2026 19:17,R007,Curry House,Indian,Tambaram,627.32,Delivery
+QB100504,08-08-2026 19:21,R008,Pasta Point,Italian,Adyar,629.31,Delivery
+QB100505,08-08-2026 19:36,R012,Cafe Cloud,Cafe,Adyar,151.42,Delivery
+QB100506,08-08-2026 19:57,R009,Wrap & Roll,Fast Food,Mylapore,501.64,Delivery
+QB100507,08-08-2026 20:18,R020,Grill House,Grill,Tambaram,228.93,Delivery
+QB100508,08-08-2026 20:23,R004,Wok Express,Chinese,OMR,645.18,Delivery
+QB100509,08-08-2026 20:25,R016,Sweet Treats,Dessert,Guindy,272.04,Delivery
+QB100510,08-08-2026 20:41,R003,Pizza Junction,Pizza,OMR,854.77,Delivery
+QB100511,08-08-2026 20:56,R018,Sandwich Lab,Cafe,Anna Nagar,555.57,Delivery
+QB100512,08-08-2026 20:56,R015,Noodle Nest,Chinese,Anna Nagar,254.89,Delivery
+QB100513,08-08-2026 21:07,R020,Grill House,Grill,Guindy,451.93,Delivery
+QB100514,08-08-2026 21:11,R007,Curry House,Indian,T Nagar,631.98,Delivery
+QB100515,08-08-2026 21:22,R001,Spice Route,Indian,T Nagar,454.67,Delivery
+QB100516,08-08-2026 21:41,R002,Green Bowl,Healthy,Anna Nagar,559.72,Delivery
+QB100517,08-08-2026 21:54,R014,Salad Studio,Healthy,Velachery,515.69,Delivery
+QB100518,08-08-2026 22:10,R007,Curry House,Indian,Porur,576.99,Delivery
+QB100519,08-08-2026 22:35,R002,Green Bowl,Healthy,Nungambakkam,275.06,Delivery
+QB100520,08-08-2026 22:50,R019,Chaat Central,Street Food,Nungambakkam,952.17,Delivery
+QB100521,09-08-2026 08:32,R009,Wrap & Roll,Fast Food,Adyar,515.37,Delivery
+QB100522,09-08-2026 08:42,R007,Curry House,Indian,Tambaram,393.66,Delivery
+QB100523,09-08-2026 10:03,R020,Grill House,Grill,Velachery,520.5,Delivery
+QB100524,09-08-2026 10:39,R008,Pasta Point,Italian,Guindy,406.96,Delivery
+QB100525,09-08-2026 11:03,R017,Coastal Kitchen,Seafood,Tambaram,356.69,Delivery
+QB100526,09-08-2026 11:04,R011,Sushi Street,Japanese,Nungambakkam,460.52,Delivery
+QB100527,09-08-2026 11:36,R006,Dosa Corner,South Indian,Tambaram,475.52,Delivery
+QB100528,09-08-2026 11:40,R020,Grill House,Grill,T Nagar,468.72,Delivery
+QB100529,09-08-2026 11:43,R017,Coastal Kitchen,Seafood,Anna Nagar,163.14,Delivery
+QB100530,09-08-2026 11:49,R009,Wrap & Roll,Fast Food,T Nagar,304.35,Delivery
+QB100531,09-08-2026 12:06,R008,Pasta Point,Italian,Tambaram,332.12,Delivery
+QB100532,09-08-2026 12:07,R008,Pasta Point,Italian,Nungambakkam,364.52,Delivery
+QB100533,09-08-2026 12:15,R002,Green Bowl,Healthy,Tambaram,524.86,Delivery
+QB100534,09-08-2026 12:20,R010,Biryani Box,Biryani,OMR,341.82,Delivery
+QB100535,09-08-2026 12:27,R019,Chaat Central,Street Food,Tambaram,539.78,Delivery
+QB100536,09-08-2026 12:29,R015,Noodle Nest,Chinese,Guindy,386.11,Delivery
+QB100537,09-08-2026 12:31,R002,Green Bowl,Healthy,T Nagar,821.66,Delivery
+QB100538,09-08-2026 12:35,R005,Burger Bay,Fast Food,Porur,600.99,Delivery
+QB100539,09-08-2026 12:40,R010,Biryani Box,Biryani,Mylapore,973.68,Delivery
+QB100540,09-08-2026 12:44,R019,Chaat Central,Street Food,Tambaram,336.25,Delivery
+QB100541,09-08-2026 12:45,R015,Noodle Nest,Chinese,Velachery,465.55,Delivery
+QB100542,09-08-2026 12:46,R003,Pizza Junction,Pizza,Velachery,382.5,Delivery
+QB100543,09-08-2026 12:51,R018,Sandwich Lab,Cafe,Mylapore,332.73,Delivery
+QB100544,09-08-2026 12:57,R010,Biryani Box,Biryani,T Nagar,207.99,Delivery
+QB100545,09-08-2026 13:31,R001,Spice Route,Indian,Anna Nagar,400.42,Delivery
+QB100546,09-08-2026 13:32,R009,Wrap & Roll,Fast Food,Velachery,513.43,Delivery
+QB100547,09-08-2026 13:52,R019,Chaat Central,Street Food,Velachery,497.59,Delivery
+QB100548,09-08-2026 13:53,R017,Coastal Kitchen,Seafood,Tambaram,400.13,Delivery
+QB100549,09-08-2026 13:53,R003,Pizza Junction,Pizza,Anna Nagar,469.34,Delivery
+QB100550,09-08-2026 14:29,R010,Biryani Box,Biryani,Anna Nagar,448.69,Delivery
+QB100551,09-08-2026 15:22,R010,Biryani Box,Biryani,OMR,208.18,Delivery
+QB100552,09-08-2026 16:35,R001,Spice Route,Indian,Nungambakkam,412.3,Scheduled
+QB100553,09-08-2026 16:55,R019,Chaat Central,Street Food,Velachery,301.8,Delivery
+QB100554,09-08-2026 17:06,R010,Biryani Box,Biryani,Tambaram,826.53,Delivery
+QB100555,09-08-2026 17:11,R001,Spice Route,Indian,Guindy,575.85,Delivery
+QB100556,09-08-2026 17:22,R018,Sandwich Lab,Cafe,Adyar,344.11,Delivery
+QB100557,09-08-2026 17:31,R008,Pasta Point,Italian,Anna Nagar,169.8,Delivery
+QB100558,09-08-2026 17:47,R011,Sushi Street,Japanese,Porur,718.55,Delivery
+QB100559,09-08-2026 17:52,R005,Burger Bay,Fast Food,Guindy,438.39,Delivery
+QB100560,09-08-2026 17:57,R009,Wrap & Roll,Fast Food,Tambaram,176.39,Delivery
+QB100561,09-08-2026 17:58,R003,Pizza Junction,Pizza,OMR,259.01,Delivery
+QB100562,09-08-2026 18:20,R008,Pasta Point,Italian,T Nagar,184.15,Delivery
+QB100563,09-08-2026 18:50,R002,Green Bowl,Healthy,Nungambakkam,529.29,Scheduled
+QB100564,09-08-2026 19:03,R009,Wrap & Roll,Fast Food,Anna Nagar,399.44,Delivery
+QB100565,09-08-2026 19:03,R003,Pizza Junction,Pizza,OMR,385.88,Delivery
+QB100566,09-08-2026 19:09,R004,Wok Express,Chinese,OMR,327.12,Delivery
+QB100567,09-08-2026 19:13,R005,Burger Bay,Fast Food,Porur,751.82,Delivery
+QB100568,09-08-2026 19:14,R009,Wrap & Roll,Fast Food,Guindy,337.78,Delivery
+QB100569,09-08-2026 19:21,R007,Curry House,Indian,Velachery,396.39,Delivery
+QB100570,09-08-2026 19:27,R005,Burger Bay,Fast Food,Tambaram,183.83,Delivery
+QB100571,09-08-2026 19:31,R017,Coastal Kitchen,Seafood,Adyar,481.98,Delivery
+QB100572,09-08-2026 19:36,R015,Noodle Nest,Chinese,Nungambakkam,258.7,Delivery
+QB100573,09-08-2026 19:44,R020,Grill House,Grill,Anna Nagar,400.12,Delivery
+QB100574,09-08-2026 19:55,R005,Burger Bay,Fast Food,Mylapore,611.38,Delivery
+QB100575,09-08-2026 19:58,R005,Burger Bay,Fast Food,Tambaram,421.99,Delivery
+QB100576,09-08-2026 20:03,R016,Sweet Treats,Dessert,Velachery,397.41,Delivery
+QB100577,09-08-2026 20:04,R005,Burger Bay,Fast Food,Nungambakkam,404.27,Delivery
+QB100578,09-08-2026 20:10,R018,Sandwich Lab,Cafe,Tambaram,129.86,Delivery
+QB100579,09-08-2026 20:11,R005,Burger Bay,Fast Food,T Nagar,498.88,Delivery
+QB100580,09-08-2026 20:13,R018,Sandwich Lab,Cafe,OMR,736.42,Delivery
+QB100581,09-08-2026 20:13,R014,Salad Studio,Healthy,Mylapore,164.62,Delivery
+QB100582,09-08-2026 20:25,R012,Cafe Cloud,Cafe,OMR,697.61,Scheduled
+QB100583,09-08-2026 20:35,R009,Wrap & Roll,Fast Food,Porur,942.22,Delivery
+QB100584,09-08-2026 20:44,R012,Cafe Cloud,Cafe,T Nagar,466.22,Delivery
+QB100585,09-08-2026 20:52,R014,Salad Studio,Healthy,Anna Nagar,448.33,Delivery
+QB100586,09-08-2026 20:52,R007,Curry House,Indian,Mylapore,472.4,Delivery
+QB100587,09-08-2026 20:55,R004,Wok Express,Chinese,Porur,694.99,Delivery
+QB100588,09-08-2026 20:59,R016,Sweet Treats,Dessert,Velachery,916.9,Delivery
+QB100589,09-08-2026 20:59,R018,Sandwich Lab,Cafe,Porur,530.09,Delivery
+QB100590,09-08-2026 21:21,R008,Pasta Point,Italian,OMR,237.84,Delivery
+QB100591,09-08-2026 21:38,R010,Biryani Box,Biryani,Velachery,449.78,Delivery
+QB100592,09-08-2026 21:38,R018,Sandwich Lab,Cafe,Anna Nagar,374.73,Scheduled
+QB100593,09-08-2026 21:45,R007,Curry House,Indian,T Nagar,500.31,Delivery
+QB100594,09-08-2026 21:56,R014,Salad Studio,Healthy,Anna Nagar,344.06,Scheduled
+QB100595,09-08-2026 22:43,R017,Coastal Kitchen,Seafood,Guindy,598.27,Delivery
+QB100596,10-08-2026 08:22,R020,Grill House,Grill,Tambaram,544.94,Delivery
+QB100597,10-08-2026 08:50,R011,Sushi Street,Japanese,Tambaram,303.96,Delivery
+QB100598,10-08-2026 11:02,R019,Chaat Central,Street Food,Velachery,419.19,Delivery
+QB100599,10-08-2026 11:03,R014,Salad Studio,Healthy,Adyar,1280.09,Delivery
+QB100600,10-08-2026 11:17,R019,Chaat Central,Street Food,Porur,605.87,Delivery
+QB100601,10-08-2026 11:42,R010,Biryani Box,Biryani,Anna Nagar,553.83,Delivery
+QB100602,10-08-2026 11:53,R009,Wrap & Roll,Fast Food,Anna Nagar,517.33,Delivery
+QB100603,10-08-2026 11:56,R019,Chaat Central,Street Food,T-Nagar,439.69,Delivery
+QB100604,10-08-2026 12:05,R006,Dosa Corner,South Indian,OMR,343.71,Delivery
+QB100605,10-08-2026 12:07,R006,Dosa Corner,South Indian,Tambaram,245.36,Delivery
+QB100606,10-08-2026 12:12,R014,Salad Studio,Healthy,OMR,559.07,Delivery
+QB100607,10-08-2026 12:14,R012,Cafe Cloud,Cafe,OMR,396.09,Delivery
+QB100608,10-08-2026 12:17,R005,Burger Bay,Fast Food,Adyar,776.97,Delivery
+QB100609,10-08-2026 12:26,R016,Sweet Treats,Dessert,Anna Nagar,358.72,Delivery
+QB100610,10-08-2026 12:35,R013,Tandoori Hub,Indian,T Nagar,1100.93,Delivery
+QB100611,10-08-2026 12:51,R002,Green Bowl,Healthy,T Nagar,258.56,Delivery
+QB100612,10-08-2026 13:02,R011,Sushi Street,Japanese,Porur,496.92,Delivery
+QB100613,10-08-2026 14:24,R007,Curry House,Indian,Tambaram,523.5,Delivery
+QB100614,10-08-2026 14:34,R009,Wrap & Roll,Fast Food,Tambaram,302.41,Delivery
+QB100615,10-08-2026 14:53,R017,Coastal Kitchen,Seafood,Guindy,155.45,Delivery
+QB100616,10-08-2026 15:45,R006,Dosa Corner,South Indian,Tambaram,226.12,Scheduled
+QB100617,10-08-2026 16:13,R003,Pizza Junction,Pizza,Adyar,145.16,Scheduled
+QB100618,10-08-2026 17:41,R002,Green Bowl,Healthy,Velachery,144.18,Delivery
+QB100619,10-08-2026 17:48,R005,Burger Bay,Fast Food,Porur,241.74,Delivery
+QB100620,10-08-2026 18:03,R011,Sushi Street,Japanese,T Nagar,1066.72,Delivery
+QB100621,10-08-2026 18:04,R018,Sandwich Lab,Cafe,Velachery,199,Scheduled
+QB100622,10-08-2026 18:08,R007,Curry House,Indian,Adyar,729.95,Delivery
+QB100623,10-08-2026 18:10,R005,Burger Bay,Fast Food,Anna Nagar,535.85,Scheduled
+QB100624,10-08-2026 18:22,R018,Sandwich Lab,Cafe,Porur,932.58,Delivery
+QB100625,10-08-2026 18:25,R015,Noodle Nest,Chinese,Mylapore,1214.79,Delivery
+QB100626,10-08-2026 18:26,R001,Spice Route,Indian,OMR,302.02,Delivery
+QB100627,10-08-2026 18:45,R017,Coastal Kitchen,Seafood,Guindy,790.34,Scheduled
+QB100628,10-08-2026 18:52,R004,Wok Express,Chinese,Guindy,954.77,Scheduled
+QB100629,10-08-2026 18:59,R003,Pizza Junction,Pizza,T Nagar,582.7,Delivery
+QB100630,10-08-2026 19:00,R002,Green Bowl,Healthy,OMR,618.48,Scheduled
+QB100631,10-08-2026 19:05,R011,Sushi Street,Japanese,Mylapore,319.45,Delivery
+QB100632,10-08-2026 19:09,R008,Pasta Point,Italian,Mylapore,745.52,Delivery
+QB100633,10-08-2026 19:11,R005,Burger Bay,Fast Food,Adyar,231.11,Delivery
+QB100634,10-08-2026 19:12,R016,Sweet Treats,Dessert,Tambaram,402.76,Scheduled
+QB100635,10-08-2026 19:13,R010,Biryani Box,Biryani,Guindy,527.84,Delivery
+QB100636,10-08-2026 19:14,R010,Biryani Box,Biryani,Adyar,955.82,Delivery
+QB100637,10-08-2026 19:35,R005,Burger Bay,Fast Food,T Nagar,447.36,Delivery
+QB100638,10-08-2026 19:53,R001,Spice Route,Indian,OMR,461.37,Delivery
+QB100639,10-08-2026 19:57,R016,Sweet Treats,Dessert,Mylapore,604.62,Scheduled
+QB100640,10-08-2026 19:57,R017,Coastal Kitchen,Seafood,Nungambakkam,498.95,Delivery
+QB100641,10-08-2026 20:03,R009,Wrap & Roll,Fast Food,Tambaram,243.74,Delivery
+QB100642,10-08-2026 20:09,R006,Dosa Corner,South Indian,Velachery,262.75,Delivery
+QB100643,10-08-2026 20:11,R014,Salad Studio,Healthy,Porur,271.33,Delivery
+QB100644,10-08-2026 20:26,R005,Burger Bay,Fast Food,Tambaram,386.85,Delivery
+QB100645,10-08-2026 20:28,R011,Sushi Street,Japanese,Velachery,531.89,Delivery
+QB100646,10-08-2026 20:29,R015,Noodle Nest,Chinese,OMR,523.39,Delivery
+QB100647,10-08-2026 20:36,R002,Green Bowl,Healthy,Porur,354.48,Delivery
+QB100648,10-08-2026 20:50,R019,Chaat Central,Street Food,Anna Nagar,331.91,Delivery
+QB100649,10-08-2026 20:50,R018,Sandwich Lab,Cafe,Mylapore,340.01,Delivery
+QB100650,10-08-2026 20:52,R004,Wok Express,Chinese,Anna Nagar,259.28,Delivery
+QB100651,10-08-2026 21:05,R007,Curry House,Indian,Adyar,317.9,Delivery
+QB100652,10-08-2026 21:08,R008,Pasta Point,Italian,OMR,175.28,Delivery
+QB100653,10-08-2026 21:24,R016,Sweet Treats,Dessert,T Nagar,251.06,Delivery
+QB100654,10-08-2026 21:49,R009,Wrap & Roll,Fast Food,Tambaram,584.81,Delivery
+QB100655,10-08-2026 21:57,R008,Pasta Point,Italian,Adyar,236.3,Delivery
+QB100656,10-08-2026 22:45,R016,Sweet Treats,Dessert,Velachery,536.19,Delivery
+QB100657,10-08-2026 23:13,R018,Sandwich Lab,Cafe,OMR,644.26,Delivery
+QB100658,11-08-2026 08:00,R011,Sushi Street,Japanese,Nungambakkam,417.59,Delivery
+QB100659,11-08-2026 08:11,R019,Chaat Central,Street Food,Guindy,197.65,Delivery
+QB100660,11-08-2026 08:57,R020,Grill House,Grill,Anna Nagar,634.84,Delivery
+QB100661,11-08-2026 09:04,R004,Wok Express,Chinese,Porur,418.5,Delivery
+QB100662,11-08-2026 10:15,R002,Green Bowl,Healthy,Anna Nagar,912.2,Scheduled
+QB100663,11-08-2026 11:01,R015,Noodle Nest,Chinese,Porur,277.95,Delivery
+QB100664,11-08-2026 11:07,R012,Cafe Cloud,Cafe,Anna Nagar,177.98,Delivery
+QB100665,11-08-2026 11:21,R010,Biryani Box,Biryani,Anna Nagar,391.8,Scheduled
+QB100666,11-08-2026 11:22,R006,Dosa Corner,South Indian,Porur,533.09,Delivery
+QB100667,11-08-2026 11:28,R020,Grill House,Grill,Anna Nagar,593.8,Delivery
+QB100668,11-08-2026 11:45,R014,Salad Studio,Healthy,T Nagar,595.47,Scheduled
+QB100669,11-08-2026 11:47,R009,Wrap & Roll,Fast Food,Adyar,156.09,Delivery
+QB100670,11-08-2026 11:57,R020,Grill House,Grill,Porur,454.23,Delivery
+QB100671,11-08-2026 11:58,R002,Green Bowl,Healthy,Tambaram,295.88,Delivery
+QB100672,11-08-2026 11:59,R013,Tandoori Hub,Indian,Adyar,466.57,Scheduled
+QB100673,11-08-2026 12:07,R006,Dosa Corner,South Indian,Porur,488.52,Delivery
+QB100674,11-08-2026 12:11,R006,Dosa Corner,South Indian,Porur,304.8,Delivery
+QB100675,11-08-2026 12:11,R008,Pasta Point,Italian,Guindy,541.69,Delivery
+QB100676,11-08-2026 12:30,R006,Dosa Corner,South Indian,Mylapore,397.96,Delivery
+QB100677,11-08-2026 12:32,R004,Wok Express,Chinese,Porur,217.73,Delivery
+QB100678,11-08-2026 12:41,R001,Spice Route,Indian,Anna Nagar,472.62,Delivery
+QB100679,11-08-2026 12:58,R003,Pizza Junction,Pizza,OMR,478.82,Delivery
+QB100680,11-08-2026 13:02,R006,Dosa Corner,South Indian,Anna Nagar,574.78,Delivery
+QB100681,11-08-2026 13:04,R004,Wok Express,Chinese,T Nagar,410.41,Delivery
+QB100682,11-08-2026 13:18,R018,Sandwich Lab,Cafe,OMR,218.72,Delivery
+QB100683,11-08-2026 13:24,R011,Sushi Street,Japanese,Tambaram,241.64,Delivery
+QB100684,11-08-2026 13:32,R017,Coastal Kitchen,Seafood,Nungambakkam,347.94,Scheduled
+QB100685,11-08-2026 13:47,R012,Cafe Cloud,Cafe,Tambaram,279.84,Delivery
+QB100686,11-08-2026 13:52,R020,Grill House,Grill,T Nagar,304.38,Delivery
+QB100687,11-08-2026 14:09,R015,Noodle Nest,Chinese,Mylapore,271.86,Delivery
+QB100688,11-08-2026 14:45,R002,Green Bowl,Healthy,Anna Nagar,276.58,Delivery
+QB100689,11-08-2026 16:46,R014,Salad Studio,Healthy,OMR,403.88,Delivery
+QB100690,11-08-2026 17:25,R015,Noodle Nest,Chinese,Anna Nagar,228.39,Scheduled
+QB100691,11-08-2026 17:27,R018,Sandwich Lab,Cafe,Anna Nagar,183.59,Delivery
+QB100692,11-08-2026 17:33,R011,Sushi Street,Japanese,Velachery,333.54,Delivery
+QB100693,11-08-2026 17:34,R011,Sushi Street,Japanese,Guindy,309.24,Delivery
+QB100694,11-08-2026 17:38,R013,Tandoori Hub,Indian,OMR,319.77,Delivery
+QB100695,11-08-2026 17:41,R012,Cafe Cloud,Cafe,Guindy,487.87,Delivery
+QB100696,11-08-2026 17:54,R005,Burger Bay,Fast Food,Mylapore,369.55,Scheduled
+QB100697,11-08-2026 18:08,R007,Curry House,Indian,T Nagar,377.15,Delivery
+QB100698,11-08-2026 18:15,R018,Sandwich Lab,Cafe,Anna Nagar,224.99,Scheduled
+QB100699,11-08-2026 18:17,R015,Noodle Nest,Chinese,OMR,443,Delivery
+QB100700,11-08-2026 18:20,R002,Green Bowl,Healthy,Guindy,387.57,Delivery
+QB100701,11-08-2026 18:24,R016,Sweet Treats,Dessert,Anna Nagar,308.12,Delivery
+QB100702,11-08-2026 18:38,R007,Curry House,Indian,Anna Nagar,536.03,Delivery
+QB100703,11-08-2026 18:38,R004,Wok Express,Chinese,Anna Nagar,345.02,Delivery
+QB100704,11-08-2026 18:44,R008,Pasta Point,Italian,Velachery,519.1,Delivery
+QB100705,11-08-2026 18:52,R008,Pasta Point,Italian,T Nagar,492.72,Delivery
+QB100706,11-08-2026 18:53,R020,Grill House,Grill,T Nagar,334.76,Scheduled
+QB100707,11-08-2026 18:53,R013,Tandoori Hub,Indian,Porur,508.53,Delivery
+QB100708,11-08-2026 19:03,R007,Curry House,Indian,Adyar,459.58,Delivery
+QB100709,11-08-2026 19:15,R006,Dosa Corner,South Indian,Anna Nagar,375.3,Delivery
+QB100710,11-08-2026 19:20,R001,Spice Route,Indian,Velachery,404.38,Delivery
+QB100711,11-08-2026 19:27,R002,Green Bowl,Healthy,T Nagar,487.6,Delivery
+QB100712,11-08-2026 19:30,R007,Curry House,Indian,T Nagar,278.49,Delivery
+QB100713,11-08-2026 19:41,R014,Salad Studio,Healthy,Nungambakkam,453.31,Delivery
+QB100714,11-08-2026 20:03,R015,Noodle Nest,Chinese,Nungambakkam,312.62,Delivery
+QB100715,11-08-2026 20:15,R004,Wok Express,Chinese,OMR,663.89,Delivery
+QB100716,11-08-2026 20:16,R004,Wok Express,Chinese,Guindy,372.41,Delivery
+QB100717,11-08-2026 20:17,R010,Biryani Box,Biryani,T Nagar,615.58,Delivery
+QB100718,11-08-2026 20:28,R019,Chaat Central,Street Food,Tambaram,255.06,Scheduled
+QB100719,11-08-2026 20:32,R011,Sushi Street,Japanese,OMR,486.41,Delivery
+QB100720,11-08-2026 20:45,R018,Sandwich Lab,Cafe,OMR,341.93,Delivery
+QB100721,11-08-2026 20:50,R006,Dosa Corner,South Indian,Adyar,257.57,Delivery
+QB100722,11-08-2026 20:50,R003,Pizza Junction,Pizza,OMR,1645.03,Delivery
+QB100723,11-08-2026 20:58,R020,Grill House,Grill,Anna Nagar,546.55,Delivery
+QB100724,11-08-2026 21:06,R010,Biryani Box,Biryani,OMR,315.29,Delivery
+QB100725,11-08-2026 21:18,R002,Green Bowl,Healthy,OMR,883.19,Delivery
+QB100726,11-08-2026 21:23,R019,Chaat Central,Street Food,Porur,874.3,Delivery
+QB100727,11-08-2026 21:58,R016,Sweet Treats,Dessert,OMR,276.54,Delivery
+QB100728,11-08-2026 23:25,R011,Sushi Street,Japanese,Adyar,155.53,Delivery
+QB100729,11-08-2026 23:41,R020,Grill House,Grill,Nungambakkam,349.67,Delivery
+QB100730,11-08-2026 23:45,R001,Spice Route,Indian,Mylapore,413.95,Delivery
+QB100731,12-08-2026 08:24,R008,Pasta Point,Italian,Anna Nagar,792.13,Scheduled
+QB100732,12-08-2026 09:18,R011,Sushi Street,Japanese,OMR,776.5,Delivery
+QB100733,12-08-2026 10:35,R016,Sweet Treats,Dessert,T Nagar,685.94,Delivery
+QB100734,12-08-2026 11:00,R002,Green Bowl,Healthy,OMR,513.02,Delivery
+QB100735,12-08-2026 11:06,R001,Spice Route,Indian,Mylapore,567.06,Scheduled
+QB100736,12-08-2026 11:15,R011,Sushi Street,Japanese,Velachery,847.43,Delivery
+QB100737,12-08-2026 11:16,R005,Burger Bay,Fast Food,Tambaram,762.19,Scheduled
+QB100738,12-08-2026 11:30,R019,Chaat Central,Street Food,Guindy,266.98,Delivery
+QB100739,12-08-2026 11:31,R016,Sweet Treats,Dessert,OMR,582.39,Scheduled
+QB100740,12-08-2026 11:45,R017,Coastal Kitchen,Seafood,Porur,613.62,Delivery
+QB100741,12-08-2026 11:54,R010,Biryani Box,Biryani,Nungambakkam,231.24,Delivery
+QB100742,12-08-2026 12:01,R009,Wrap & Roll,Fast Food,OMR,450.04,Delivery
+QB100743,12-08-2026 12:03,R011,Sushi Street,Japanese,T Nagar,212.01,Delivery
+QB100744,12-08-2026 12:11,R008,Pasta Point,Italian,Nungambakkam,485.88,Delivery
+QB100745,12-08-2026 12:18,R012,Cafe Cloud,Cafe,Adyar,641.64,Delivery
+QB100746,12-08-2026 12:39,R018,Sandwich Lab,Cafe,T Nagar,407.41,Delivery
+QB100747,12-08-2026 12:47,R016,Sweet Treats,Dessert,T Nagar,505.86,Delivery
+QB100748,12-08-2026 12:53,R008,Pasta Point,Italian,Velachery,300.47,Delivery
+QB100749,12-08-2026 13:02,R010,Biryani Box,Biryani,Nungambakkam,189.9,Delivery
+QB100750,12-08-2026 13:08,R019,Chaat Central,Street Food,OMR,179.29,Delivery
+QB100751,12-08-2026 13:11,R019,Chaat Central,Street Food,Anna Nagar,265.24,Delivery
+QB100752,12-08-2026 13:12,R013,Tandoori Hub,Indian,Anna Nagar,552.02,Delivery
+QB100753,12-08-2026 13:13,R018,Sandwich Lab,Cafe,Mylapore,559.41,Delivery
+QB100754,12-08-2026 13:17,R017,Coastal Kitchen,Seafood,Tambaram,672.02,Delivery
+QB100755,12-08-2026 13:18,R012,Cafe Cloud,Cafe,T Nagar,347.3,Delivery
+QB100756,12-08-2026 13:28,R003,Pizza Junction,Pizza,T Nagar,913.03,Delivery
+QB100757,12-08-2026 13:44,R009,Wrap & Roll,Fast Food,Adyar,474.54,Delivery
+QB100758,12-08-2026 13:48,R016,Sweet Treats,Dessert,Guindy,1031.95,Delivery
+QB100759,12-08-2026 13:57,R001,Spice Route,Indian,Mylapore,459.42,Delivery
+QB100760,12-08-2026 14:06,R006,Dosa Corner,South Indian,Mylapore,320.24,Delivery
+QB100761,12-08-2026 15:23,R017,Coastal Kitchen,Seafood,Anna Nagar,216.67,Delivery
+QB100762,12-08-2026 15:57,R001,Spice Route,Indian,Tambaram,1218.71,Delivery
+QB100763,12-08-2026 16:15,R010,Biryani Box,Biryani,Anna Nagar,298.24,Delivery
+QB100764,12-08-2026 16:27,R014,Salad Studio,Healthy,T Nagar,500.07,Delivery
+QB100765,12-08-2026 16:29,R006,Dosa Corner,South Indian,OMR,500.15,Delivery
+QB100766,12-08-2026 16:57,R018,Sandwich Lab,Cafe,T Nagar,653.06,Delivery
+QB100767,12-08-2026 17:13,R006,Dosa Corner,South Indian,Velachery,994.26,Scheduled
+QB100768,12-08-2026 17:38,R017,Coastal Kitchen,Seafood,Adyar,404.99,Delivery
+QB100769,12-08-2026 18:00,R004,Wok Express,Chinese,Tambaram,872.7,Delivery
+QB100770,12-08-2026 18:01,R017,Coastal Kitchen,Seafood,Tambaram,247.4,Delivery
+QB100771,12-08-2026 18:15,R002,Green Bowl,Healthy,Anna Nagar,823.15,Delivery
+QB100772,12-08-2026 18:20,R013,Tandoori Hub,Indian,T Nagar,265.18,Delivery
+QB100773,12-08-2026 18:27,R008,Pasta Point,Italian,Mylapore,809.07,Scheduled
+QB100774,12-08-2026 18:28,R013,Tandoori Hub,Indian,Guindy,370.46,Delivery
+QB100775,12-08-2026 18:42,R017,Coastal Kitchen,Seafood,Velachery,1026.64,Scheduled
+QB100776,12-08-2026 18:43,R020,Grill House,Grill,Mylapore,817.23,Delivery
+QB100777,12-08-2026 19:03,R011,Sushi Street,Japanese,Guindy,534.58,Delivery
+QB100778,12-08-2026 19:04,R019,Chaat Central,Street Food,Guindy,247.02,Delivery
+QB100779,12-08-2026 19:08,R015,Noodle Nest,Chinese,Anna Nagar,290.18,Delivery
+QB100780,12-08-2026 19:12,R006,Dosa Corner,South Indian,Porur,667.67,Delivery
+QB100781,12-08-2026 19:15,R001,Spice Route,Indian,Velachery,404.7,Delivery
+QB100782,12-08-2026 19:19,R003,Pizza Junction,Pizza,Guindy,242.35,Delivery
+QB100783,12-08-2026 19:30,R006,Dosa Corner,South Indian,Anna Nagar,554.83,Delivery
+QB100784,12-08-2026 20:02,R003,Pizza Junction,Pizza,Tambaram,368.94,Delivery
+QB100785,12-08-2026 20:03,R017,Coastal Kitchen,Seafood,Mylapore,1253.85,Delivery
+QB100786,12-08-2026 20:09,R012,Cafe Cloud,Cafe,Nungambakkam,404.83,Scheduled
+QB100787,12-08-2026 20:12,R002,Green Bowl,Healthy,Guindy,421.28,Delivery
+QB100788,12-08-2026 20:13,R014,Salad Studio,Healthy,Velachery,582.67,Delivery
+QB100789,12-08-2026 20:21,R020,Grill House,Grill,Mylapore,667.67,Delivery
+QB100790,12-08-2026 20:34,R015,Noodle Nest,Chinese,Adyar,228.73,Delivery
+QB100791,12-08-2026 20:37,R004,Wok Express,Chinese,T Nagar,684.58,Delivery
+QB100792,12-08-2026 20:37,R018,Sandwich Lab,Cafe,Adyar,675.16,Delivery
+QB100793,12-08-2026 20:44,R002,Green Bowl,Healthy,Tambaram,415.91,Delivery
+QB100794,12-08-2026 20:47,R010,Biryani Box,Biryani,Velachery,409.6,Delivery
+QB100795,12-08-2026 20:49,R012,Cafe Cloud,Cafe,OMR,261.87,Delivery
+QB100796,12-08-2026 20:54,R002,Green Bowl,Healthy,Mylapore,719.25,Delivery
+QB100797,12-08-2026 21:01,R017,Coastal Kitchen,Seafood,Anna Nagar,245.52,Delivery
+QB100798,12-08-2026 21:07,R019,Chaat Central,Street Food,Porur,715.54,Delivery
+QB100799,12-08-2026 21:23,R007,Curry House,Indian,Tambaram,230.86,Delivery
+QB100800,12-08-2026 21:26,R002,Green Bowl,Healthy,Velachery,258.53,Delivery
+QB100801,12-08-2026 21:30,R013,Tandoori Hub,Indian,OMR,447.97,Delivery
+QB100802,12-08-2026 21:51,R002,Green Bowl,Healthy,OMR,593.65,Delivery
+QB100803,12-08-2026 22:06,R003,Pizza Junction,Pizza,T Nagar,729.29,Delivery
+QB100804,12-08-2026 22:13,R008,Pasta Point,Italian,Anna Nagar,539.57,Delivery
+QB100805,12-08-2026 22:20,R010,Biryani Box,Biryani,T Nagar,532.17,Scheduled
+QB100806,12-08-2026 23:27,R012,Cafe Cloud,Cafe,Anna Nagar,580.64,Delivery
+QB100807,13-08-2026 08:33,R005,Burger Bay,Fast Food,Velachery,450.3,Delivery
+QB100808,13-08-2026 09:50,R003,Pizza Junction,Pizza,Velachery,238.23,Delivery
+QB100809,13-08-2026 10:20,R018,Sandwich Lab,Cafe,OMR,731.34,Delivery
+QB100810,13-08-2026 10:21,R013,Tandoori Hub,Indian,OMR,695.41,Delivery
+QB100811,13-08-2026 10:46,R019,Chaat Central,Street Food,OMR,482.74,Delivery
+QB100812,13-08-2026 11:06,R012,Cafe Cloud,Cafe,Guindy,254.23,Delivery
+QB100813,13-08-2026 11:20,R008,Pasta Point,Italian,Porur,457.52,Delivery
+QB100814,13-08-2026 11:22,R019,Chaat Central,Street Food,Tambaram,627.3,Delivery
+QB100815,13-08-2026 11:25,R001,Spice Route,Indian,T Nagar,210.5,Delivery
+QB100816,13-08-2026 11:28,R006,Dosa Corner,South Indian,OMR,153.25,Delivery
+QB100817,13-08-2026 11:38,R016,Sweet Treats,Dessert,T Nagar,501.19,Delivery
+QB100818,13-08-2026 11:55,R017,Coastal Kitchen,Seafood,Tambaram,399.53,Delivery
+QB100819,13-08-2026 12:02,R006,Dosa Corner,South Indian,Nungambakkam,537.16,Delivery
+QB100820,13-08-2026 12:03,R017,Coastal Kitchen,Seafood,Tambaram,634.9,Delivery
+QB100821,13-08-2026 12:09,R013,Tandoori Hub,Indian,Velachery,485.09,Delivery
+QB100822,13-08-2026 12:11,R001,Spice Route,Indian,Tambaram,572.39,Delivery
+QB100823,13-08-2026 12:24,R008,Pasta Point,Italian,Velachery,641.96,Delivery
+QB100824,13-08-2026 12:25,R015,Noodle Nest,Chinese,T Nagar,504.62,Delivery
+QB100825,13-08-2026 12:26,R008,Pasta Point,Italian,Tambaram,324.08,Scheduled
+QB100826,13-08-2026 12:26,R003,Pizza Junction,Pizza,T Nagar,305.96,Delivery
+QB100827,13-08-2026 12:28,R012,Cafe Cloud,Cafe,Anna Nagar,422.75,Delivery
+QB100828,13-08-2026 12:30,R014,Salad Studio,Healthy,Tambaram,479.92,Delivery
+QB100829,13-08-2026 12:31,R004,Wok Express,Chinese,OMR,381.44,Delivery
+QB100830,13-08-2026 12:34,R009,Wrap & Roll,Fast Food,OMR,383.47,Delivery
+QB100831,13-08-2026 12:34,R014,Salad Studio,Healthy,Adyar,392.68,Delivery
+QB100832,13-08-2026 12:34,R003,Pizza Junction,Pizza,OMR,662.46,Delivery
+QB100833,13-08-2026 12:36,R019,Chaat Central,Street Food,Anna Nagar,162.8,Delivery
+QB100834,13-08-2026 12:41,R012,Cafe Cloud,Cafe,Tambaram,232.81,Delivery
+QB100835,13-08-2026 12:47,R001,Spice Route,Indian,Anna Nagar,333.55,Delivery
+QB100836,13-08-2026 12:56,R016,Sweet Treats,Dessert,Porur,324.25,Delivery
+QB100837,13-08-2026 12:58,R018,Sandwich Lab,Cafe,Adyar,537.54,Delivery
+QB100838,13-08-2026 13:20,R015,Noodle Nest,Chinese,Adyar,425.13,Delivery
+QB100839,13-08-2026 13:25,R014,Salad Studio,Healthy,Tambaram,532.34,Delivery
+QB100840,13-08-2026 13:32,R017,Coastal Kitchen,Seafood,VELACHERY,261.22,Delivery
+QB100841,13-08-2026 13:37,R020,Grill House,Grill,Mylapore,200.25,Delivery
+QB100842,13-08-2026 13:46,R013,Tandoori Hub,Indian,OMR,282.4,Delivery
+QB100843,13-08-2026 13:48,R015,Noodle Nest,Chinese,T Nagar,337.06,Delivery
+QB100844,13-08-2026 13:52,R015,Noodle Nest,Chinese,OMR,598.18,Delivery
+QB100845,13-08-2026 13:56,R003,Pizza Junction,Pizza,Tambaram,455.31,Delivery
+QB100846,13-08-2026 14:10,R011,Sushi Street,Japanese,Guindy,161.39,Delivery
+QB100847,13-08-2026 14:27,R002,Green Bowl,Healthy,Anna Nagar,572.97,Delivery
+QB100848,13-08-2026 14:35,R020,Grill House,Grill,Mylapore,341.47,Delivery
+QB100849,13-08-2026 14:45,R013,Tandoori Hub,Indian,Anna Nagar,489.3,Delivery
+QB100850,13-08-2026 15:11,R007,Curry House,Indian,T Nagar,446.7,Delivery
+QB100851,13-08-2026 15:13,R008,Pasta Point,Italian,Tambaram,600.23,Scheduled
+QB100852,13-08-2026 17:07,R017,Coastal Kitchen,Seafood,Guindy,524.59,Delivery
+QB100853,13-08-2026 17:12,R016,Sweet Treats,Dessert,T Nagar,407.51,Delivery
+QB100854,13-08-2026 17:35,R010,Biryani Box,Biryani,Nungambakkam,588.48,Delivery
+QB100855,13-08-2026 17:36,R011,Sushi Street,Japanese,Anna Nagar,373.94,Delivery
+QB100856,13-08-2026 17:44,R003,Pizza Junction,Pizza,Velachery,292.5,Delivery
+QB100857,13-08-2026 17:59,R003,Pizza Junction,Pizza,T Nagar,382.07,Delivery
+QB100858,13-08-2026 18:09,R002,Green Bowl,Healthy,Guindy,506.68,Delivery
+QB100859,13-08-2026 18:11,R006,Dosa Corner,South Indian,Velachery,476.82,Delivery
+QB100860,13-08-2026 18:22,R012,Cafe Cloud,Cafe,Porur,765.15,Delivery
+QB100861,13-08-2026 18:23,R009,Wrap & Roll,Fast Food,Porur,326.31,Delivery
+QB100862,13-08-2026 18:41,R003,Pizza Junction,Pizza,T Nagar,852.41,Delivery
+QB100863,13-08-2026 18:48,R003,Pizza Junction,Pizza,Tambaram,309.71,Delivery
+QB100864,13-08-2026 18:59,R011,Sushi Street,Japanese,Porur,112.29,Delivery
+QB100865,13-08-2026 19:19,R019,Chaat Central,Street Food,Velachery,242.95,Delivery
+QB100866,13-08-2026 19:32,R014,Salad Studio,Healthy,Nungambakkam,234.75,Delivery
+QB100867,13-08-2026 19:35,R009,Wrap & Roll,Fast Food,Guindy,242.34,Delivery
+QB100868,13-08-2026 19:39,R002,Green Bowl,Healthy,Velachery,703.73,Scheduled
+QB100869,13-08-2026 19:39,R020,Grill House,Grill,Tambaram,342.52,Delivery
+QB100870,13-08-2026 19:46,R018,Sandwich Lab,Cafe,Velachery,389.72,Delivery
+QB100871,13-08-2026 19:53,R020,Grill House,Grill,Tambaram,460.56,Delivery
+QB100872,13-08-2026 19:55,R019,Chaat Central,Street Food,OMR,916.55,Delivery
+QB100873,13-08-2026 20:01,R005,Burger Bay,Fast Food,Nungambakkam,312.55,Delivery
+QB100874,13-08-2026 20:07,R005,Burger Bay,Fast Food,Mylapore,767.56,Delivery
+QB100875,13-08-2026 20:11,R020,Grill House,Grill,T Nagar,653.01,Delivery
+QB100876,13-08-2026 20:14,R010,Biryani Box,Biryani,Nungambakkam,657.84,Delivery
+QB100877,13-08-2026 20:19,R016,Sweet Treats,Dessert,Velachery,350.75,Delivery
+QB100878,13-08-2026 20:54,R014,Salad Studio,Healthy,Tambaram,296.03,Delivery
+QB100879,13-08-2026 21:05,R014,Salad Studio,Healthy,Mylapore,378.01,Delivery
+QB100880,13-08-2026 21:28,R002,Green Bowl,Healthy,Tambaram,458.17,Delivery
+QB100881,13-08-2026 22:07,R005,Burger Bay,Fast Food,Anna Nagar,699.28,Delivery
+QB100882,14-08-2026 08:07,R017,Coastal Kitchen,Seafood,Velachery,231.69,Scheduled
+QB100883,14-08-2026 08:54,R010,Biryani Box,Biryani,T Nagar,547.24,Delivery
+QB100884,14-08-2026 09:07,R010,Biryani Box,Biryani,Porur,976.45,Scheduled
+QB100885,14-08-2026 09:16,R006,Dosa Corner,South Indian,Guindy,139.95,Delivery
+QB100886,14-08-2026 09:48,R020,Grill House,Grill,Adyar,386.96,Delivery
+QB100887,14-08-2026 09:51,R016,Sweet Treats,Dessert,T Nagar,453.77,Delivery
+QB100888,14-08-2026 09:56,R003,Pizza Junction,Pizza,Adyar,638.01,Delivery
+QB100889,14-08-2026 10:49,R013,Tandoori Hub,Indian,T Nagar,201.08,Delivery
+QB100890,14-08-2026 10:50,R006,Dosa Corner,South Indian,T Nagar,357.38,Delivery
+QB100891,14-08-2026 10:56,R002,Green Bowl,Healthy,Tambaram,355.76,Delivery
+QB100892,14-08-2026 11:03,R011,Sushi Street,Japanese,OMR,263.74,Delivery
+QB100893,14-08-2026 11:05,R019,Chaat Central,Street Food,Tambaram,257.36,Delivery
+QB100894,14-08-2026 11:23,R002,Green Bowl,Healthy,Nungambakkam,236.74,Delivery
+QB100895,14-08-2026 11:24,R008,Pasta Point,Italian,Nungambakkam,267.35,Delivery
+QB100896,14-08-2026 12:15,R012,Cafe Cloud,Cafe,Adyar,477.1,Delivery
+QB100897,14-08-2026 12:26,R018,Sandwich Lab,Cafe,T Nagar,214.02,Delivery
+QB100898,14-08-2026 12:27,R006,Dosa Corner,South Indian,Nungambakkam,259.64,Scheduled
+QB100899,14-08-2026 12:31,R004,Wok Express,Chinese,Adyar,204.46,Scheduled
+QB100900,14-08-2026 12:33,R020,Grill House,Grill,Mylapore,160.64,Delivery
+QB100901,14-08-2026 12:39,R009,Wrap & Roll,Fast Food,T Nagar,347.11,Delivery
+QB100902,14-08-2026 12:41,R018,Sandwich Lab,Cafe,Velachery,403.51,Delivery
+QB100903,14-08-2026 12:44,R008,Pasta Point,Italian,Porur,426.59,Delivery
+QB100904,14-08-2026 13:17,R020,Grill House,Grill,T Nagar,207.45,Delivery
+QB100905,14-08-2026 13:22,R008,Pasta Point,Italian,T Nagar,521.91,Delivery
+QB100906,14-08-2026 13:32,R004,Wok Express,Chinese,Velachery,728.99,Delivery
+QB100907,14-08-2026 13:32,R009,Wrap & Roll,Fast Food,Nungambakkam,547.23,Delivery
+QB100908,14-08-2026 13:40,R012,Cafe Cloud,Cafe,Nungambakkam,970.98,Delivery
+QB100909,14-08-2026 13:58,R014,Salad Studio,Healthy,Adyar,422.05,Delivery
+QB100910,14-08-2026 14:38,R018,Sandwich Lab,Cafe,Nungambakkam,386,Delivery
+QB100911,14-08-2026 14:56,R020,Grill House,Grill,Porur,996.99,Scheduled
+QB100912,14-08-2026 15:51,R011,Sushi Street,Japanese,Nungambakkam,379.91,Delivery
+QB100913,14-08-2026 16:09,R005,Burger Bay,Fast Food,OMR,427.24,Delivery
+QB100914,14-08-2026 17:34,R015,Noodle Nest,Chinese,OMR,396.11,Delivery
+QB100915,14-08-2026 18:04,R016,Sweet Treats,Dessert,Anna Nagar,403.25,Delivery
+QB100916,14-08-2026 18:05,R018,Sandwich Lab,Cafe,Porur,361.03,Delivery
+QB100917,14-08-2026 18:05,R004,Wok Express,Chinese,Adyar,396.35,Delivery
+QB100918,14-08-2026 18:13,R001,Spice Route,Indian,Nungambakkam,544.34,Delivery
+QB100919,14-08-2026 18:14,R009,Wrap & Roll,Fast Food,Anna Nagar,191.78,Delivery
+QB100920,14-08-2026 18:22,R004,Wok Express,Chinese,T Nagar,633.1,Delivery
+QB100921,14-08-2026 18:30,R008,Pasta Point,Italian,Mylapore,361.8,Delivery
+QB100922,14-08-2026 18:30,R008,Pasta Point,Italian,OMR,385.59,Delivery
+QB100923,14-08-2026 18:32,R011,Sushi Street,Japanese,Velachery,440.07,Delivery
+QB100924,14-08-2026 18:34,R010,Biryani Box,Biryani,Tambaram,481.97,Scheduled
+QB100925,14-08-2026 18:38,R016,Sweet Treats,Dessert,Nungambakkam,315.22,Scheduled
+QB100926,14-08-2026 18:43,R001,Spice Route,Indian,Velachery,386.14,Delivery
+QB100927,14-08-2026 18:44,R002,Green Bowl,Healthy,Nungambakkam,296.19,Delivery
+QB100928,14-08-2026 18:46,R019,Chaat Central,Street Food,Porur,458.68,Delivery
+QB100929,14-08-2026 18:53,R007,Curry House,Indian,Velachery,478.61,Delivery
+QB100930,14-08-2026 18:57,R012,Cafe Cloud,Cafe,OMR,600.91,Delivery
+QB100931,14-08-2026 19:06,R005,Burger Bay,Fast Food,Velachery,419.89,Delivery
+QB100932,14-08-2026 19:07,R006,Dosa Corner,South Indian,Nungambakkam,1138.29,Delivery
+QB100933,14-08-2026 19:09,R015,Noodle Nest,Chinese,Porur,659.48,Scheduled
+QB100934,14-08-2026 19:19,R003,Pizza Junction,Pizza,Mylapore,276.28,Delivery
+QB100935,14-08-2026 19:19,R017,Coastal Kitchen,Seafood,Velachery,478.87,Delivery
+QB100936,14-08-2026 19:20,R007,Curry House,Indian,Porur,744.25,Delivery
+QB100937,14-08-2026 19:26,R018,Sandwich Lab,Cafe,Adyar,349.36,Delivery
+QB100938,14-08-2026 19:28,R006,Dosa Corner,South Indian,T Nagar,517.42,Delivery
+QB100939,14-08-2026 19:45,R005,Burger Bay,Fast Food,Velachery,385.96,Delivery
+QB100940,14-08-2026 19:49,R001,Spice Route,Indian,Tambaram,440.8,Delivery
+QB100941,14-08-2026 19:50,R002,Green Bowl,Healthy,Anna Nagar,464.37,Delivery
+QB100942,14-08-2026 19:51,R012,Cafe Cloud,Cafe,Guindy,786.61,Delivery
+QB100943,14-08-2026 19:52,R010,Biryani Box,Biryani,Porur,166.85,Delivery
+QB100944,14-08-2026 19:54,R018,Sandwich Lab,Cafe,Velachery,780.75,Delivery
+QB100945,14-08-2026 19:57,R016,Sweet Treats,Dessert,OMR,523.17,Delivery
+QB100946,14-08-2026 19:58,R007,Curry House,Indian,Adyar,594.08,Delivery
+QB100947,14-08-2026 20:03,R019,Chaat Central,Street Food,Velachery,1008.35,Delivery
+QB100948,14-08-2026 20:13,R003,Pizza Junction,Pizza,OMR,944.29,Scheduled
+QB100949,14-08-2026 20:26,R012,Cafe Cloud,Cafe,Mylapore,520.74,Delivery
+QB100950,14-08-2026 20:29,R016,Sweet Treats,Dessert,Tambaram,887.23,Delivery
+QB100951,14-08-2026 20:33,R009,Wrap & Roll,Fast Food,T-Nagar,287.83,Delivery
+QB100952,14-08-2026 20:34,R006,Dosa Corner,South Indian,T Nagar,444.54,Delivery
+QB100953,14-08-2026 20:40,R003,Pizza Junction,Pizza,Nungambakkam,300.12,Delivery
+QB100954,14-08-2026 20:57,R020,Grill House,Grill,Anna Nagar,693.72,Delivery
+QB100955,14-08-2026 21:19,R014,Salad Studio,Healthy,Mylapore,298.76,Delivery
+QB100956,14-08-2026 21:37,R016,Sweet Treats,Dessert,Tambaram,796.06,Delivery
+QB100957,14-08-2026 21:48,R015,Noodle Nest,Chinese,Anna Nagar,585.7,Delivery
+QB100958,14-08-2026 21:50,R001,Spice Route,Indian,Anna Nagar,438.27,Delivery
+QB100959,14-08-2026 21:55,R020,Grill House,Grill,Porur,225.71,Delivery
+QB100960,14-08-2026 22:03,R003,Pizza Junction,Pizza,Velachery,790.25,Delivery
+QB100961,14-08-2026 23:38,R016,Sweet Treats,Dessert,T Nagar,229.18,Delivery
+QB100962,15-08-2026 08:10,R020,Grill House,Grill,Tambaram,389,Delivery
+QB100963,15-08-2026 08:14,R010,Biryani Box,Biryani,Anna Nagar,607.79,Delivery
+QB100964,15-08-2026 08:30,R004,Wok Express,Chinese,Guindy,594.77,Delivery
+QB100965,15-08-2026 09:16,R020,Grill House,Grill,OMR,398.65,Delivery
+QB100966,15-08-2026 09:25,R002,Green Bowl,Healthy,Mylapore,820.37,Delivery
+QB100967,15-08-2026 10:44,R013,Tandoori Hub,Indian,Nungambakkam,526.47,Delivery
+QB100968,15-08-2026 11:16,R011,Sushi Street,Japanese,Mylapore,443.76,Delivery
+QB100969,15-08-2026 11:24,R002,Green Bowl,Healthy,Anna Nagar,661.05,Delivery
+QB100970,15-08-2026 11:39,R004,Wok Express,Chinese,Anna Nagar,214.21,Scheduled
+QB100971,15-08-2026 11:40,R005,Burger Bay,Fast Food,Velachery,206.65,Delivery
+QB100972,15-08-2026 11:43,R002,Green Bowl,Healthy,T Nagar,798.91,Delivery
+QB100973,15-08-2026 11:54,R014,Salad Studio,Healthy,Mylapore,550.22,Delivery
+QB100974,15-08-2026 11:54,R004,Wok Express,Chinese,Guindy,354.37,Scheduled
+QB100975,15-08-2026 12:00,R010,Biryani Box,Biryani,Velachery,302.04,Delivery
+QB100976,15-08-2026 12:08,R003,Pizza Junction,Pizza,T Nagar,283.99,Delivery
+QB100977,15-08-2026 12:09,R015,Noodle Nest,Chinese,Guindy,488.08,Delivery
+QB100978,15-08-2026 12:13,R013,Tandoori Hub,Indian,Guindy,727.07,Delivery
+QB100979,15-08-2026 12:25,R001,Spice Route,Indian,T Nagar,689.59,Delivery
+QB100980,15-08-2026 12:30,R011,Sushi Street,Japanese,T Nagar,234.35,Delivery
+QB100981,15-08-2026 12:37,R007,Curry House,Indian,Velachery,498.91,Delivery
+QB100982,15-08-2026 12:37,R014,Salad Studio,Healthy,Guindy,603.9,Delivery
+QB100983,15-08-2026 12:53,R001,Spice Route,Indian,Adyar,725.42,Delivery
+QB100984,15-08-2026 12:58,R011,Sushi Street,Japanese,Mylapore,302.33,Delivery
+QB100985,15-08-2026 13:06,R015,Noodle Nest,Chinese,T Nagar,502.05,Delivery
+QB100986,15-08-2026 13:07,R017,Coastal Kitchen,Seafood,Porur,230.07,Delivery
+QB100987,15-08-2026 13:08,R011,Sushi Street,Japanese,Tambaram,494.32,Delivery
+QB100988,15-08-2026 13:20,R002,Green Bowl,Healthy,OMR,479.57,Delivery
+QB100989,15-08-2026 13:37,R005,Burger Bay,Fast Food,Velachery,344.73,Scheduled
+QB100990,15-08-2026 13:45,R010,Biryani Box,Biryani,Mylapore,382.76,Delivery
+QB100991,15-08-2026 13:58,R005,Burger Bay,Fast Food,OMR,574.05,Delivery
+QB100992,15-08-2026 16:16,R015,Noodle Nest,Chinese,T Nagar,322.21,Delivery
+QB100993,15-08-2026 16:50,R005,Burger Bay,Fast Food,Tambaram,366.09,Scheduled
+QB100994,15-08-2026 17:21,R012,Cafe Cloud,Cafe,Tambaram,892.43,Delivery
+QB100995,15-08-2026 18:08,R004,Wok Express,Chinese,T Nagar,446.83,Delivery
+QB100996,15-08-2026 18:09,R007,Curry House,Indian,Mylapore,646.07,Delivery
+QB100997,15-08-2026 18:11,R017,Coastal Kitchen,Seafood,OMR,313.1,Delivery
+QB100998,15-08-2026 18:13,R003,Pizza Junction,Pizza,Anna Nagar,410.56,Delivery
+QB100999,15-08-2026 18:17,R017,Coastal Kitchen,Seafood,Tambaram,232.18,Delivery
+QB101000,15-08-2026 18:19,R018,Sandwich Lab,Cafe,OMR,221.65,Delivery
+QB101001,15-08-2026 18:30,R012,Cafe Cloud,Cafe,Porur,424.7,Delivery
+QB101002,15-08-2026 18:36,R011,Sushi Street,Japanese,Porur,841.56,Delivery
+QB101003,15-08-2026 18:56,R008,Pasta Point,Italian,T Nagar,514.63,Delivery
+QB101004,15-08-2026 18:57,R015,Noodle Nest,Chinese,T Nagar,789.62,Delivery
+QB101005,15-08-2026 18:59,R006,Dosa Corner,South Indian,T Nagar,159.1,Delivery
+QB101006,15-08-2026 19:03,R018,Sandwich Lab,Cafe,OMR,279.67,Delivery
+QB101007,15-08-2026 19:06,R008,Pasta Point,Italian,OMR,385.45,Delivery
+QB101008,15-08-2026 19:09,R014,Salad Studio,Healthy,Anna Nagar,562.56,Delivery
+QB101009,15-08-2026 19:09,R015,Noodle Nest,Chinese,Anna Nagar,342.77,Delivery
+QB101010,15-08-2026 19:11,R006,Dosa Corner,South Indian,Tambaram,296.55,Delivery
+QB101011,15-08-2026 19:14,R001,Spice Route,Indian,Adyar,379.55,Delivery
+QB101012,15-08-2026 19:17,R005,Burger Bay,Fast Food,Guindy,283.65,Delivery
+QB101013,15-08-2026 19:31,R009,Wrap & Roll,Fast Food,Adyar,682.02,Delivery
+QB101014,15-08-2026 19:37,R003,Pizza Junction,Pizza,Anna Nagar,675.35,Delivery
+QB101015,15-08-2026 19:58,R015,Noodle Nest,Chinese,Mylapore,485.09,Delivery
+QB101016,15-08-2026 20:00,R005,Burger Bay,Fast Food,T Nagar,318.91,Delivery
+QB101017,15-08-2026 20:01,R005,Burger Bay,Fast Food,Porur,227.31,Delivery
+QB101018,15-08-2026 20:01,R009,Wrap & Roll,Fast Food,Anna Nagar,366.53,Delivery
+QB101019,15-08-2026 20:12,R013,Tandoori Hub,Indian,Anna Nagar,389.39,Delivery
+QB101020,15-08-2026 20:21,R014,Salad Studio,Healthy,OMR,854.73,Delivery
+QB101021,15-08-2026 20:27,R003,Pizza Junction,Pizza,Adyar,417.47,Scheduled
+QB101022,15-08-2026 20:42,R003,Pizza Junction,Pizza,T Nagar,610.33,Delivery
+QB101023,15-08-2026 20:45,R020,Grill House,Grill,Velachery,309.72,Delivery
+QB101024,15-08-2026 20:48,R014,Salad Studio,Healthy,Adyar,577.41,Delivery
+QB101025,15-08-2026 20:55,R012,Cafe Cloud,Cafe,OMR,443.88,Delivery
+QB101026,15-08-2026 20:58,R006,Dosa Corner,South Indian,OMR,385.21,Delivery
+QB101027,15-08-2026 21:37,R019,Chaat Central,Street Food,T Nagar,516.9,Delivery
+QB101028,15-08-2026 21:47,R017,Coastal Kitchen,Seafood,Tambaram,609.61,Delivery
+QB101029,15-08-2026 22:16,R006,Dosa Corner,South Indian,Adyar,119.23,Delivery
+QB101030,15-08-2026 22:40,R006,Dosa Corner,South Indian,T Nagar,244.8,Delivery
+QB101031,16-08-2026 08:42,R008,Pasta Point,Italian,Velachery,593.08,Delivery
+QB101032,16-08-2026 11:01,R004,Wok Express,Chinese,Mylapore,572.49,Delivery
+QB101033,16-08-2026 11:16,R020,Grill House,Grill,T Nagar,155.21,Delivery
+QB101034,16-08-2026 11:26,R003,Pizza Junction,Pizza,Tambaram,259.95,Delivery
+QB101035,16-08-2026 11:27,R014,Salad Studio,Healthy,Velachery,382.35,Delivery
+QB101036,16-08-2026 11:30,R008,Pasta Point,Italian,OMR,445.47,Delivery
+QB101037,16-08-2026 11:31,R008,Pasta Point,Italian,Tambaram,734.84,Delivery
+QB101038,16-08-2026 11:34,R001,Spice Route,Indian,Tambaram,264.5,Delivery
+QB101039,16-08-2026 11:41,R015,Noodle Nest,Chinese,Porur,434.41,Delivery
+QB101040,16-08-2026 11:57,R002,Green Bowl,Healthy,Anna Nagar,396.36,Delivery
+QB101041,16-08-2026 11:59,R018,Sandwich Lab,Cafe,T Nagar,351.58,Delivery
+QB101042,16-08-2026 12:13,R001,Spice Route,Indian,Adyar,610.09,Scheduled
+QB101043,16-08-2026 12:13,R007,Curry House,Indian,Anna Nagar,340.36,Delivery
+QB101044,16-08-2026 12:15,R007,Curry House,Indian,Tambaram,444.44,Delivery
+QB101045,16-08-2026 12:21,R007,Curry House,Indian,Mylapore,560.2,Delivery
+QB101046,16-08-2026 12:35,R008,Pasta Point,Italian,Adyar,843.26,Delivery
+QB101047,16-08-2026 12:39,R015,Noodle Nest,Chinese,OMR,458.68,Delivery
+QB101048,16-08-2026 12:44,R016,Sweet Treats,Dessert,Guindy,143.02,Delivery
+QB101049,16-08-2026 12:46,R002,Green Bowl,Healthy,Nungambakkam,466.73,Delivery
+QB101050,16-08-2026 12:48,R007,Curry House,Indian,Anna Nagar,1136.18,Delivery
+QB101051,16-08-2026 13:39,R015,Noodle Nest,Chinese,OMR,330.58,Scheduled
+QB101052,16-08-2026 13:45,R009,Wrap & Roll,Fast Food,Porur,277.27,Delivery
+QB101053,16-08-2026 13:48,R001,Spice Route,Indian,Adyar,1259.07,Scheduled
+QB101054,16-08-2026 13:48,R004,Wok Express,Chinese,T Nagar,551.19,Delivery
+QB101055,16-08-2026 13:51,R007,Curry House,Indian,Porur,194.99,Delivery
+QB101056,16-08-2026 14:18,R002,Green Bowl,Healthy,T Nagar,328.49,Delivery
+QB101057,16-08-2026 14:57,R018,Sandwich Lab,Cafe,T Nagar,570.2,Delivery
+QB101058,16-08-2026 14:59,R003,Pizza Junction,Pizza,Guindy,497.78,Delivery
+QB101059,16-08-2026 15:06,R008,Pasta Point,Italian,Adyar,718.65,Delivery
+QB101060,16-08-2026 15:18,R007,Curry House,Indian,Guindy,459.6,Delivery
+QB101061,16-08-2026 16:42,R008,Pasta Point,Italian,Tambaram,291.98,Delivery
+QB101062,16-08-2026 17:18,R004,Wok Express,Chinese,T Nagar,470.2,Delivery
+QB101063,16-08-2026 17:27,R016,Sweet Treats,Dessert,Anna Nagar,372.43,Delivery
+QB101064,16-08-2026 17:51,R006,Dosa Corner,South Indian,OMR,284.87,Delivery
+QB101065,16-08-2026 18:27,R013,Tandoori Hub,Indian,T Nagar,310.45,Delivery
+QB101066,16-08-2026 18:36,R001,Spice Route,Indian,Mylapore,424.08,Delivery
+QB101067,16-08-2026 18:41,R009,Wrap & Roll,Fast Food,Velachery,281.13,Delivery
+QB101068,16-08-2026 18:44,R020,Grill House,Grill,Anna Nagar,361.52,Delivery
+QB101069,16-08-2026 18:54,R004,Wok Express,Chinese,T Nagar,857.05,Delivery
+QB101070,16-08-2026 18:54,R009,Wrap & Roll,Fast Food,Velachery,302.46,Delivery
+QB101071,16-08-2026 19:10,R007,Curry House,Indian,Adyar,312.19,Delivery
+QB101072,16-08-2026 19:12,R006,Dosa Corner,South Indian,Anna Nagar,539.45,Delivery
+QB101073,16-08-2026 19:15,R016,Sweet Treats,Dessert,Porur,434.01,Delivery
+QB101074,16-08-2026 19:18,R010,Biryani Box,Biryani,OMR,438.59,Delivery
+QB101075,16-08-2026 19:23,R013,Tandoori Hub,Indian,OMR,516.17,Delivery
+QB101076,16-08-2026 19:34,R019,Chaat Central,Street Food,T Nagar,301.89,Delivery
+QB101077,16-08-2026 19:39,R001,Spice Route,Indian,Velachery,414.38,Delivery
+QB101078,16-08-2026 19:42,R006,Dosa Corner,South Indian,Tambaram,232.94,Delivery
+QB101079,16-08-2026 19:47,R016,Sweet Treats,Dessert,Nungambakkam,548.36,Delivery
+QB101080,16-08-2026 19:48,R003,Pizza Junction,Pizza,Velachery,377.2,Delivery
+QB101081,16-08-2026 19:49,R006,Dosa Corner,South Indian,Tambaram,421.36,Delivery
+QB101082,16-08-2026 19:55,R016,Sweet Treats,Dessert,Guindy,648.15,Delivery
+QB101083,16-08-2026 19:57,R014,Salad Studio,Healthy,Guindy,441.57,Delivery
+QB101084,16-08-2026 20:00,R016,Sweet Treats,Dessert,Nungambakkam,534.02,Delivery
+QB101085,16-08-2026 20:05,R013,Tandoori Hub,Indian,T Nagar,383.48,Delivery
+QB101086,16-08-2026 20:10,R020,Grill House,Grill,Adyar,153.69,Delivery
+QB101087,16-08-2026 20:24,R014,Salad Studio,Healthy,Tambaram,563,Delivery
+QB101088,16-08-2026 20:29,R016,Sweet Treats,Dessert,Anna Nagar,346.74,Delivery
+QB101089,16-08-2026 20:40,R002,Green Bowl,Healthy,T Nagar,154.15,Delivery
+QB101090,16-08-2026 20:41,R020,Grill House,Grill,Velachery,406.84,Delivery
+QB101091,16-08-2026 20:42,R005,Burger Bay,Fast Food,OMR,391.83,Delivery
+QB101092,16-08-2026 20:45,R010,Biryani Box,Biryani,Adyar,530.89,Delivery
+QB101093,16-08-2026 20:51,R014,Salad Studio,Healthy,Velachery,796.78,Scheduled
+QB101094,16-08-2026 20:51,R001,Spice Route,Indian,OMR,252.11,Delivery
+QB101095,16-08-2026 20:57,R014,Salad Studio,Healthy,Tambaram,687.47,Delivery
+QB101096,16-08-2026 21:04,R014,Salad Studio,Healthy,Tambaram,642.05,Scheduled
+QB101097,16-08-2026 21:04,R004,Wok Express,Chinese,Velachery,415.58,Delivery
+QB101098,16-08-2026 21:06,R002,Green Bowl,Healthy,Anna Nagar,363.21,Delivery
+QB101099,16-08-2026 21:26,R012,Cafe Cloud,Cafe,Adyar,227.6,Scheduled
+QB101100,16-08-2026 21:30,R019,Chaat Central,Street Food,Porur,321.86,Delivery
+QB101101,16-08-2026 21:31,R014,Salad Studio,Healthy,Adyar,342.06,Delivery
+QB101102,16-08-2026 21:38,R015,Noodle Nest,Chinese,OMR,535.15,Delivery
+QB101103,16-08-2026 21:43,R015,Noodle Nest,Chinese,T Nagar,761.88,Delivery
+QB101104,16-08-2026 21:49,R020,Grill House,Grill,Porur,491.67,Delivery
+QB101105,16-08-2026 22:39,R015,Noodle Nest,Chinese,Nungambakkam,223.24,Delivery
+QB101106,16-08-2026 23:35,R016,Sweet Treats,Dessert,Guindy,763.72,Delivery
+QB101107,17-08-2026 08:18,R017,Coastal Kitchen,Seafood,T Nagar,245.92,Delivery
+QB101108,17-08-2026 08:22,R014,Salad Studio,Healthy,Anna Nagar,275.64,Delivery
+QB101109,17-08-2026 08:39,R019,Chaat Central,Street Food,Porur,580.51,Delivery
+QB101110,17-08-2026 09:49,R009,Wrap & Roll,Fast Food,Anna Nagar,418.87,Delivery
+QB101111,17-08-2026 10:25,R014,Salad Studio,Healthy,Guindy,385.6,Delivery
+QB101112,17-08-2026 11:45,R004,Wok Express,Chinese,Anna Nagar,399.97,Delivery
+QB101113,17-08-2026 11:45,R016,Sweet Treats,Dessert,T Nagar,406.41,Delivery
+QB101114,17-08-2026 12:09,R018,Sandwich Lab,Cafe,Tambaram,452.65,Delivery
+QB101115,17-08-2026 12:36,R003,Pizza Junction,Pizza,Adyar,758.45,Delivery
+QB101116,17-08-2026 12:37,R012,Cafe Cloud,Cafe,Anna Nagar,158.56,Delivery
+QB101117,17-08-2026 12:38,R017,Coastal Kitchen,Seafood,OMR,418.86,Delivery
+QB101118,17-08-2026 12:43,R004,Wok Express,Chinese,T Nagar,297.69,Delivery
+QB101119,17-08-2026 12:49,R009,Wrap & Roll,Fast Food,Guindy,436.49,Delivery
+QB101120,17-08-2026 12:53,R020,Grill House,Grill,Anna Nagar,350.14,Delivery
+QB101121,17-08-2026 13:02,R004,Wok Express,Chinese,OMR,282.42,Delivery
+QB101122,17-08-2026 13:03,R020,Grill House,Grill,Guindy,420.16,Delivery
+QB101123,17-08-2026 13:15,R016,Sweet Treats,Dessert,Velachery,780.22,Delivery
+QB101124,17-08-2026 13:36,R011,Sushi Street,Japanese,T Nagar,995.73,Delivery
+QB101125,17-08-2026 13:48,R017,Coastal Kitchen,Seafood,T Nagar,199.99,Delivery
+QB101126,17-08-2026 13:57,R004,Wok Express,Chinese,OMR,246.43,Delivery
+QB101127,17-08-2026 14:36,R019,Chaat Central,Street Food,Mylapore,573.03,Delivery
+QB101128,17-08-2026 14:41,R004,Wok Express,Chinese,Velachery,459.64,Delivery
+QB101129,17-08-2026 14:42,R003,Pizza Junction,Pizza,Velachery,1066.12,Scheduled
+QB101130,17-08-2026 15:00,R018,Sandwich Lab,Cafe,Velachery,231.47,Delivery
+QB101131,17-08-2026 16:01,R010,Biryani Box,Biryani,Mylapore,1159.7,Delivery
+QB101132,17-08-2026 16:43,R004,Wok Express,Chinese,T Nagar,286.83,Delivery
+QB101133,17-08-2026 17:14,R019,Chaat Central,Street Food,OMR,616.8,Delivery
+QB101134,17-08-2026 18:14,R001,Spice Route,Indian,Mylapore,368.5,Delivery
+QB101135,17-08-2026 18:16,R002,Green Bowl,Healthy,Porur,430.46,Delivery
+QB101136,17-08-2026 18:21,R013,Tandoori Hub,Indian,Tambaram,340.29,Delivery
+QB101137,17-08-2026 18:30,R015,Noodle Nest,Chinese,T Nagar,1053.27,Delivery
+QB101138,17-08-2026 18:31,R011,Sushi Street,Japanese,Porur,499.73,Delivery
+QB101139,17-08-2026 18:40,R019,Chaat Central,Street Food,T-Nagar,290.63,Delivery
+QB101140,17-08-2026 19:00,R010,Biryani Box,Biryani,Mylapore,556.43,Delivery
+QB101141,17-08-2026 19:01,R017,Coastal Kitchen,Seafood,T Nagar,427.82,Delivery
+QB101142,17-08-2026 19:16,R011,Sushi Street,Japanese,Anna Nagar,476.46,Delivery
+QB101143,17-08-2026 19:19,R014,Salad Studio,Healthy,OMR,335.93,Delivery
+QB101144,17-08-2026 19:26,R020,Grill House,Grill,T Nagar,284.32,Delivery
+QB101145,17-08-2026 19:28,R020,Grill House,Grill,Guindy,735.61,Delivery
+QB101146,17-08-2026 19:31,R009,Wrap & Roll,Fast Food,Adyar,347.54,Delivery
+QB101147,17-08-2026 19:31,R001,Spice Route,Indian,Velachery,1083.25,Delivery
+QB101148,17-08-2026 19:31,R005,Burger Bay,Fast Food,T Nagar,862.47,Delivery
+QB101149,17-08-2026 19:44,R015,Noodle Nest,Chinese,Adyar,411.19,Delivery
+QB101150,17-08-2026 19:44,R016,Sweet Treats,Dessert,Tambaram,548.35,Delivery
+QB101151,17-08-2026 20:00,R018,Sandwich Lab,Cafe,Velachery,433.32,Delivery
+QB101152,17-08-2026 20:05,R010,Biryani Box,Biryani,Guindy,306.45,Delivery
+QB101153,17-08-2026 20:16,R011,Sushi Street,Japanese,Adyar,193.35,Delivery
+QB101154,17-08-2026 20:26,R020,Grill House,Grill,Porur,488.35,Delivery
+QB101155,17-08-2026 20:30,R005,Burger Bay,Fast Food,Adyar,387.7,Delivery
+QB101156,17-08-2026 20:35,R013,Tandoori Hub,Indian,OMR,390.59,Delivery
+QB101157,17-08-2026 20:35,R014,Salad Studio,Healthy,Adyar,387.71,Delivery
+QB101158,17-08-2026 20:56,R010,Biryani Box,Biryani,Anna Nagar,244.52,Delivery
+QB101159,17-08-2026 21:08,R020,Grill House,Grill,Anna Nagar,1999.03,Delivery
+QB101160,17-08-2026 21:30,R011,Sushi Street,Japanese,Anna Nagar,523.3,Delivery
+QB101161,17-08-2026 21:59,R011,Sushi Street,Japanese,Velachery,1383.1,Delivery
+QB101162,18-08-2026 08:30,R003,Pizza Junction,Pizza,T Nagar,252.95,Scheduled
+QB101163,18-08-2026 08:43,R018,Sandwich Lab,Cafe,Adyar,545.71,Delivery
+QB101164,18-08-2026 09:36,R006,Dosa Corner,South Indian,T Nagar,317.96,Delivery
+QB101165,18-08-2026 11:17,R016,Sweet Treats,Dessert,Adyar,194.97,Delivery
+QB101166,18-08-2026 11:21,R008,Pasta Point,Italian,Velachery,276.76,Delivery
+QB101167,18-08-2026 11:34,R005,Burger Bay,Fast Food,Adyar,571.56,Delivery
+QB101168,18-08-2026 11:35,R020,Grill House,Grill,T Nagar,522.27,Delivery
+QB101169,18-08-2026 11:37,R005,Burger Bay,Fast Food,T Nagar,438.55,Delivery
+QB101170,18-08-2026 11:39,R007,Curry House,Indian,Mylapore,456.34,Delivery
+QB101171,18-08-2026 11:48,R003,Pizza Junction,Pizza,OMR,606.25,Scheduled
+QB101172,18-08-2026 11:51,R017,Coastal Kitchen,Seafood,Anna Nagar,221.71,Delivery
+QB101173,18-08-2026 11:54,R004,Wok Express,Chinese,Adyar,190.9,Delivery
+QB101174,18-08-2026 12:00,R004,Wok Express,Chinese,Anna Nagar,695.56,Delivery
+QB101175,18-08-2026 12:00,R002,Green Bowl,Healthy,Nungambakkam,1090.75,Delivery
+QB101176,18-08-2026 12:05,R015,Noodle Nest,Chinese,Porur,439.18,Delivery
+QB101177,18-08-2026 12:10,R001,Spice Route,Indian,OMR,321.75,Delivery
+QB101178,18-08-2026 12:12,R002,Green Bowl,Healthy,Guindy,529.01,Delivery
+QB101179,18-08-2026 12:13,R008,Pasta Point,Italian,T Nagar,296.12,Delivery
+QB101180,18-08-2026 12:38,R020,Grill House,Grill,Porur,1139.08,Scheduled
+QB101181,18-08-2026 12:43,R017,Coastal Kitchen,Seafood,OMR,840.35,Delivery
+QB101182,18-08-2026 12:44,R012,Cafe Cloud,Cafe,Tambaram,531.82,Delivery
+QB101183,18-08-2026 13:23,R012,Cafe Cloud,Cafe,OMR,368.66,Delivery
+QB101184,18-08-2026 13:27,R003,Pizza Junction,Pizza,Nungambakkam,318.3,Delivery
+QB101185,18-08-2026 13:44,R004,Wok Express,Chinese,Mylapore,207.93,Delivery
+QB101186,18-08-2026 13:53,R007,Curry House,Indian,Mylapore,267.7,Delivery
+QB101187,18-08-2026 14:14,R015,Noodle Nest,Chinese,Nungambakkam,321.71,Delivery
+QB101188,18-08-2026 14:26,R001,Spice Route,Indian,Tambaram,568.72,Scheduled
+QB101189,18-08-2026 14:46,R018,Sandwich Lab,Cafe,Anna Nagar,305.95,Delivery
+QB101190,18-08-2026 14:54,R006,Dosa Corner,South Indian,Nungambakkam,211.7,Delivery
+QB101191,18-08-2026 15:34,R014,Salad Studio,Healthy,Velachery,608.82,Delivery
+QB101192,18-08-2026 15:51,R020,Grill House,Grill,Guindy,820.39,Delivery
+QB101193,18-08-2026 15:56,R018,Sandwich Lab,Cafe,Adyar,517.66,Delivery
+QB101194,18-08-2026 16:38,R001,Spice Route,Indian,Porur,408.81,Delivery
+QB101195,18-08-2026 17:10,R006,Dosa Corner,South Indian,Tambaram,216.69,Delivery
+QB101196,18-08-2026 17:30,R001,Spice Route,Indian,Porur,837.48,Delivery
+QB101197,18-08-2026 17:35,R005,Burger Bay,Fast Food,Adyar,534.42,Delivery
+QB101198,18-08-2026 18:10,R007,Curry House,Indian,OMR,282.54,Delivery
+QB101199,18-08-2026 18:47,R016,Sweet Treats,Dessert,Velachery,457.29,Delivery
+QB101200,18-08-2026 18:56,R006,Dosa Corner,South Indian,Adyar,663.12,Scheduled
+QB101201,18-08-2026 19:03,R017,Coastal Kitchen,Seafood,Nungambakkam,615.02,Delivery
+QB101202,18-08-2026 19:20,R001,Spice Route,Indian,Guindy,443.06,Delivery
+QB101203,18-08-2026 19:33,R007,Curry House,Indian,Porur,577.34,Delivery
+QB101204,18-08-2026 19:50,R017,Coastal Kitchen,Seafood,Mylapore,358.24,Delivery
+QB101205,18-08-2026 19:52,R009,Wrap & Roll,Fast Food,OMR,602.35,Delivery
+QB101206,18-08-2026 19:53,R004,Wok Express,Chinese,Velachery,433.06,Delivery
+QB101207,18-08-2026 19:57,R007,Curry House,Indian,Mylapore,289.84,Delivery
+QB101208,18-08-2026 19:59,R001,Spice Route,Indian,OMR,675.53,Delivery
+QB101209,18-08-2026 20:01,R011,Sushi Street,Japanese,Anna Nagar,651.08,Scheduled
+QB101210,18-08-2026 20:02,R002,Green Bowl,Healthy,Tambaram,272.51,Delivery
+QB101211,18-08-2026 20:05,R017,Coastal Kitchen,Seafood,Porur,369.07,Delivery
+QB101212,18-08-2026 20:08,R018,Sandwich Lab,Cafe,Tambaram,335.3,Scheduled
+QB101213,18-08-2026 20:12,R013,Tandoori Hub,Indian,Adyar,469.96,Scheduled
+QB101214,18-08-2026 20:13,R012,Cafe Cloud,Cafe,Guindy,315.87,Delivery
+QB101215,18-08-2026 20:16,R004,Wok Express,Chinese,Guindy,385.12,Scheduled
+QB101216,18-08-2026 20:21,R010,Biryani Box,Biryani,Anna Nagar,970.97,Delivery
+QB101217,18-08-2026 20:24,R010,Biryani Box,Biryani,Adyar,449.09,Scheduled
+QB101218,18-08-2026 20:31,R009,Wrap & Roll,Fast Food,Mylapore,226.79,Delivery
+QB101219,18-08-2026 20:33,R009,Wrap & Roll,Fast Food,Porur,143.67,Delivery
+QB101220,18-08-2026 20:57,R006,Dosa Corner,South Indian,Adyar,510.06,Delivery
+QB101221,18-08-2026 21:10,R018,Sandwich Lab,Cafe,Anna Nagar,396.11,Delivery
+QB101222,18-08-2026 21:14,R007,Curry House,Indian,OMR,527.53,Delivery
+QB101223,18-08-2026 21:42,R014,Salad Studio,Healthy,Adyar,471.04,Delivery
+QB101224,18-08-2026 21:56,R014,Salad Studio,Healthy,OMR,628.89,Delivery
+QB101225,18-08-2026 22:19,R008,Pasta Point,Italian,Guindy,524.74,Delivery
+QB101226,18-08-2026 23:29,R005,Burger Bay,Fast Food,Anna Nagar,212.61,Delivery
+QB101227,18-08-2026 23:54,R020,Grill House,Grill,T Nagar,863.99,Delivery
+QB101228,19-08-2026 08:38,R001,Spice Route,Indian,Mylapore,356.57,Delivery
+QB101229,19-08-2026 08:58,R011,Sushi Street,Japanese,Anna Nagar,517.17,Delivery
+QB101230,19-08-2026 09:26,R010,Biryani Box,Biryani,Velachery,371.06,Delivery
+QB101231,19-08-2026 09:29,R016,Sweet Treats,Dessert,OMR,376.48,Delivery
+QB101232,19-08-2026 10:24,R020,Grill House,Grill,Mylapore,491.62,Delivery
+QB101233,19-08-2026 10:58,R017,Coastal Kitchen,Seafood,Velachery,428.03,Delivery
+QB101234,19-08-2026 11:14,R017,Coastal Kitchen,Seafood,Mylapore,235.75,Delivery
+QB101235,19-08-2026 11:18,R001,Spice Route,Indian,Porur,599.08,Delivery
+QB101236,19-08-2026 11:37,R020,Grill House,Grill,OMR,474.19,Delivery
+QB101237,19-08-2026 12:14,R014,Salad Studio,Healthy,OMR,463.72,Delivery
+QB101238,19-08-2026 12:26,R018,Sandwich Lab,Cafe,OMR,397.07,Delivery
+QB101239,19-08-2026 12:30,R007,Curry House,Indian,Tambaram,293.04,Delivery
+QB101240,19-08-2026 12:37,R016,Sweet Treats,Dessert,Nungambakkam,368.52,Delivery
+QB101241,19-08-2026 12:37,R015,Noodle Nest,Chinese,Porur,351.14,Delivery
+QB101242,19-08-2026 12:43,R011,Sushi Street,Japanese,Mylapore,559.02,Delivery
+QB101243,19-08-2026 12:44,R012,Cafe Cloud,Cafe,Guindy,441.1,Delivery
+QB101244,19-08-2026 12:51,R016,Sweet Treats,Dessert,Anna Nagar,926.73,Delivery
+QB101245,19-08-2026 13:30,R020,Grill House,Grill,Velachery,437.63,Delivery
+QB101246,19-08-2026 13:36,R007,Curry House,Indian,OMR,239.67,Delivery
+QB101247,19-08-2026 13:45,R018,Sandwich Lab,Cafe,Anna Nagar,416.49,Delivery
+QB101248,19-08-2026 13:46,R018,Sandwich Lab,Cafe,Anna Nagar,333.22,Delivery
+QB101249,19-08-2026 13:58,R006,Dosa Corner,South Indian,Nungambakkam,772.4,Delivery
+QB101250,19-08-2026 14:19,R003,Pizza Junction,Pizza,T Nagar,250.95,Delivery
+QB101251,19-08-2026 14:22,R008,Pasta Point,Italian,Nungambakkam,342.41,Delivery
+QB101252,19-08-2026 14:24,R020,Grill House,Grill,Anna Nagar,577.67,Delivery
+QB101253,19-08-2026 14:34,R019,Chaat Central,Street Food,Anna Nagar,539.56,Delivery
+QB101254,19-08-2026 14:39,R006,Dosa Corner,South Indian,Anna Nagar,402.29,Delivery
+QB101255,19-08-2026 14:51,R017,Coastal Kitchen,Seafood,Adyar,581.25,Scheduled
+QB101256,19-08-2026 16:22,R010,Biryani Box,Biryani,Velachery,110.96,Scheduled
+QB101257,19-08-2026 17:39,R013,Tandoori Hub,Indian,Nungambakkam,363.1,Delivery
+QB101258,19-08-2026 17:50,R005,Burger Bay,Fast Food,T Nagar,710.79,Delivery
+QB101259,19-08-2026 18:01,R012,Cafe Cloud,Cafe,VELACHERY,312.92,Delivery
+QB101260,19-08-2026 18:10,R018,Sandwich Lab,Cafe,Anna Nagar,406.87,Delivery
+QB101261,19-08-2026 18:19,R005,Burger Bay,Fast Food,Velachery,279.92,Delivery
+QB101262,19-08-2026 18:28,R011,Sushi Street,Japanese,Anna Nagar,501.04,Delivery
+QB101263,19-08-2026 18:36,R012,Cafe Cloud,Cafe,Nungambakkam,320.58,Delivery
+QB101264,19-08-2026 18:43,R012,Cafe Cloud,Cafe,Nungambakkam,392.53,Delivery
+QB101265,19-08-2026 18:52,R015,Noodle Nest,Chinese,Porur,447.33,Delivery
+QB101266,19-08-2026 18:54,R006,Dosa Corner,South Indian,Velachery,651.63,Delivery
+QB101267,19-08-2026 18:58,R004,Wok Express,Chinese,Anna Nagar,479.2,Delivery
+QB101268,19-08-2026 19:01,R019,Chaat Central,Street Food,T Nagar,628.64,Delivery
+QB101269,19-08-2026 19:14,R020,Grill House,Grill,Mylapore,585.63,Delivery
+QB101270,19-08-2026 19:14,R002,Green Bowl,Healthy,Adyar,519.77,Delivery
+QB101271,19-08-2026 19:24,R001,Spice Route,Indian,Nungambakkam,258.17,Delivery
+QB101272,19-08-2026 19:28,R010,Biryani Box,Biryani,Velachery,312.31,Delivery
+QB101273,19-08-2026 19:31,R014,Salad Studio,Healthy,Anna Nagar,446.55,Delivery
+QB101274,19-08-2026 19:43,R006,Dosa Corner,South Indian,Adyar,508.17,Delivery
+QB101275,19-08-2026 19:51,R015,Noodle Nest,Chinese,Velachery,294.51,Delivery
+QB101276,19-08-2026 19:54,R008,Pasta Point,Italian,T Nagar,778.9,Delivery
+QB101277,19-08-2026 20:02,R019,Chaat Central,Street Food,OMR,307.93,Delivery
+QB101278,19-08-2026 20:08,R005,Burger Bay,Fast Food,OMR,708.18,Delivery
+QB101279,19-08-2026 20:23,R003,Pizza Junction,Pizza,Anna Nagar,541.9,Delivery
+QB101280,19-08-2026 20:42,R018,Sandwich Lab,Cafe,T Nagar,860.91,Delivery
+QB101281,19-08-2026 20:59,R019,Chaat Central,Street Food,Porur,850.58,Delivery
+QB101282,19-08-2026 21:00,R019,Chaat Central,Street Food,Nungambakkam,501.41,Delivery
+QB101283,19-08-2026 21:07,R015,Noodle Nest,Chinese,Velachery,769.13,Delivery
+QB101284,19-08-2026 21:13,R007,Curry House,Indian,T Nagar,429.55,Delivery
+QB101285,19-08-2026 21:17,R016,Sweet Treats,Dessert,Anna Nagar,274.04,Delivery
+QB101286,19-08-2026 21:27,R010,Biryani Box,Biryani,Tambaram,418.99,Delivery
+QB101287,19-08-2026 21:33,R007,Curry House,Indian,Mylapore,227.96,Delivery
+QB101288,19-08-2026 22:09,R008,Pasta Point,Italian,Mylapore,264.84,Delivery
+QB101289,19-08-2026 22:20,R012,Cafe Cloud,Cafe,T Nagar,311.34,Delivery
+QB101290,19-08-2026 22:32,R017,Coastal Kitchen,Seafood,Adyar,626.21,Delivery
+QB101291,19-08-2026 23:58,R015,Noodle Nest,Chinese,Mylapore,518.98,Delivery
+QB101292,20-08-2026 08:08,R004,Wok Express,Chinese,Adyar,128.64,Delivery
+QB101293,20-08-2026 08:18,R011,Sushi Street,Japanese,Anna Nagar,222.88,Delivery
+QB101294,20-08-2026 08:32,R005,Burger Bay,Fast Food,Anna Nagar,561.04,Delivery
+QB101295,20-08-2026 09:10,R004,Wok Express,Chinese,Tambaram,350.04,Delivery
+QB101296,20-08-2026 09:47,R014,Salad Studio,Healthy,Tambaram,442.03,Delivery
+QB101297,20-08-2026 10:44,R001,Spice Route,Indian,Tambaram,203.03,Delivery
+QB101298,20-08-2026 10:51,R018,Sandwich Lab,Cafe,Adyar,573.88,Delivery
+QB101299,20-08-2026 10:55,R005,Burger Bay,Fast Food,T Nagar,418.77,Delivery
+QB101300,20-08-2026 11:01,R003,Pizza Junction,Pizza,Tambaram,919.08,Delivery
+QB101301,20-08-2026 11:02,R018,Sandwich Lab,Cafe,Tambaram,1198.63,Scheduled
+QB101302,20-08-2026 11:02,R020,Grill House,Grill,Adyar,438.27,Delivery
+QB101303,20-08-2026 11:26,R001,Spice Route,Indian,Adyar,316.16,Delivery
+QB101304,20-08-2026 11:32,R003,Pizza Junction,Pizza,Velachery,364.62,Delivery
+QB101305,20-08-2026 11:35,R013,Tandoori Hub,Indian,Velachery,344.55,Delivery
+QB101306,20-08-2026 11:37,R011,Sushi Street,Japanese,OMR,552.76,Delivery
+QB101307,20-08-2026 11:42,R002,Green Bowl,Healthy,Mylapore,302.49,Delivery
+QB101308,20-08-2026 11:42,R020,Grill House,Grill,Porur,565.74,Delivery
+QB101309,20-08-2026 11:51,R001,Spice Route,Indian,Adyar,158.99,Delivery
+QB101310,20-08-2026 12:02,R014,Salad Studio,Healthy,OMR,246.78,Delivery
+QB101311,20-08-2026 12:04,R008,Pasta Point,Italian,Adyar,298.18,Delivery
+QB101312,20-08-2026 12:12,R014,Salad Studio,Healthy,Guindy,453.36,Delivery
+QB101313,20-08-2026 12:15,R020,Grill House,Grill,Guindy,492.78,Delivery
+QB101314,20-08-2026 12:16,R020,Grill House,Grill,OMR,609.04,Delivery
+QB101315,20-08-2026 12:33,R016,Sweet Treats,Dessert,Velachery,473.61,Delivery
+QB101316,20-08-2026 12:35,R020,Grill House,Grill,OMR,373.36,Delivery
+QB101317,20-08-2026 13:05,R010,Biryani Box,Biryani,Tambaram,264.27,Delivery
+QB101318,20-08-2026 13:15,R004,Wok Express,Chinese,OMR,282.04,Delivery
+QB101319,20-08-2026 13:30,R018,Sandwich Lab,Cafe,Velachery,565.03,Delivery
+QB101320,20-08-2026 13:34,R005,Burger Bay,Fast Food,Guindy,696.93,Delivery
+QB101321,20-08-2026 13:34,R012,Cafe Cloud,Cafe,Nungambakkam,322.63,Delivery
+QB101322,20-08-2026 13:39,R018,Sandwich Lab,Cafe,Adyar,483.98,Delivery
+QB101323,20-08-2026 13:45,R008,Pasta Point,Italian,Tambaram,286.66,Delivery
+QB101324,20-08-2026 13:54,R008,Pasta Point,Italian,Adyar,457.99,Delivery
+QB101325,20-08-2026 14:03,R016,Sweet Treats,Dessert,Mylapore,734.99,Delivery
+QB101326,20-08-2026 14:34,R014,Salad Studio,Healthy,Porur,198.09,Delivery
+QB101327,20-08-2026 14:48,R014,Salad Studio,Healthy,Nungambakkam,280.33,Delivery
+QB101328,20-08-2026 15:09,R003,Pizza Junction,Pizza,T Nagar,186.58,Delivery
+QB101329,20-08-2026 15:51,R002,Green Bowl,Healthy,Porur,572.94,Delivery
+QB101330,20-08-2026 16:33,R019,Chaat Central,Street Food,Guindy,331.48,Delivery
+QB101331,20-08-2026 17:25,R017,Coastal Kitchen,Seafood,Adyar,426.69,Delivery
+QB101332,20-08-2026 17:28,R020,Grill House,Grill,OMR,216.91,Delivery
+QB101333,20-08-2026 17:36,R009,Wrap & Roll,Fast Food,Velachery,999.21,Scheduled
+QB101334,20-08-2026 18:08,R018,Sandwich Lab,Cafe,Anna Nagar,524.02,Delivery
+QB101335,20-08-2026 18:09,R002,Green Bowl,Healthy,Mylapore,164.62,Delivery
+QB101336,20-08-2026 18:12,R009,Wrap & Roll,Fast Food,Anna Nagar,389.86,Delivery
+QB101337,20-08-2026 18:16,R001,Spice Route,Indian,Velachery,872.83,Delivery
+QB101338,20-08-2026 18:19,R010,Biryani Box,Biryani,Mylapore,331.13,Delivery
+QB101339,20-08-2026 18:39,R008,Pasta Point,Italian,Anna Nagar,422.33,Delivery
+QB101340,20-08-2026 18:53,R014,Salad Studio,Healthy,OMR,753,Delivery
+QB101341,20-08-2026 19:04,R018,Sandwich Lab,Cafe,Anna Nagar,581.33,Delivery
+QB101342,20-08-2026 19:20,R004,Wok Express,Chinese,Adyar,973.19,Delivery
+QB101343,20-08-2026 19:30,R011,Sushi Street,Japanese,T Nagar,792.67,Delivery
+QB101344,20-08-2026 19:30,R003,Pizza Junction,Pizza,Porur,355.1,Delivery
+QB101345,20-08-2026 19:34,R004,Wok Express,Chinese,Guindy,495.54,Delivery
+QB101346,20-08-2026 19:38,R018,Sandwich Lab,Cafe,OMR,639.23,Delivery
+QB101347,20-08-2026 19:40,R011,Sushi Street,Japanese,OMR,350.01,Delivery
+QB101348,20-08-2026 19:51,R009,Wrap & Roll,Fast Food,OMR,635.6,Delivery
+QB101349,20-08-2026 20:02,R008,Pasta Point,Italian,Tambaram,203.48,Delivery
+QB101350,20-08-2026 20:21,R012,Cafe Cloud,Cafe,OMR,456.11,Delivery
+QB101351,20-08-2026 20:40,R003,Pizza Junction,Pizza,Guindy,752.32,Delivery
+QB101352,20-08-2026 20:49,R015,Noodle Nest,Chinese,Anna Nagar,700.44,Delivery
+QB101353,20-08-2026 21:12,R013,Tandoori Hub,Indian,Mylapore,541.63,Delivery
+QB101354,20-08-2026 22:09,R010,Biryani Box,Biryani,Porur,509.42,Delivery
+QB101355,20-08-2026 22:24,R008,Pasta Point,Italian,Anna Nagar,549.51,Delivery
+QB101356,21-08-2026 08:25,R011,Sushi Street,Japanese,OMR,229.84,Delivery
+QB101357,21-08-2026 08:34,R014,Salad Studio,Healthy,OMR,113.84,Delivery
+QB101358,21-08-2026 09:49,R005,Burger Bay,Fast Food,Anna Nagar,505.62,Delivery
+QB101359,21-08-2026 10:51,R019,Chaat Central,Street Food,Mylapore,519.01,Delivery
+QB101360,21-08-2026 11:00,R009,Wrap & Roll,Fast Food,Tambaram,382.33,Delivery
+QB101361,21-08-2026 11:05,R009,Wrap & Roll,Fast Food,Tambaram,1207.55,Delivery
+QB101362,21-08-2026 11:20,R017,Coastal Kitchen,Seafood,T Nagar,494.74,Delivery
+QB101363,21-08-2026 11:21,R005,Burger Bay,Fast Food,T Nagar,1198.2,Delivery
+QB101364,21-08-2026 11:33,R007,Curry House,Indian,Guindy,181.82,Delivery
+QB101365,21-08-2026 11:38,R020,Grill House,Grill,Tambaram,389.61,Delivery
+QB101366,21-08-2026 11:41,R009,Wrap & Roll,Fast Food,Tambaram,363.4,Delivery
+QB101367,21-08-2026 11:58,R010,Biryani Box,Biryani,Guindy,215.75,Delivery
+QB101368,21-08-2026 12:13,R002,Green Bowl,Healthy,Nungambakkam,818.79,Delivery
+QB101369,21-08-2026 12:16,R006,Dosa Corner,South Indian,Porur,470.71,Delivery
+QB101370,21-08-2026 12:17,R011,Sushi Street,Japanese,Anna Nagar,323.95,Delivery
+QB101371,21-08-2026 12:21,R008,Pasta Point,Italian,Tambaram,254.57,Delivery
+QB101372,21-08-2026 12:35,R015,Noodle Nest,Chinese,OMR,244.09,Delivery
+QB101373,21-08-2026 12:36,R008,Pasta Point,Italian,Velachery,154.55,Delivery
+QB101374,21-08-2026 12:39,R009,Wrap & Roll,Fast Food,OMR,339.82,Scheduled
+QB101375,21-08-2026 12:43,R020,Grill House,Grill,T Nagar,464.33,Delivery
+QB101376,21-08-2026 12:45,R014,Salad Studio,Healthy,Adyar,340.71,Delivery
+QB101377,21-08-2026 12:58,R019,Chaat Central,Street Food,Mylapore,316.05,Delivery
+QB101378,21-08-2026 12:59,R011,Sushi Street,Japanese,Guindy,594.51,Delivery
+QB101379,21-08-2026 13:01,R020,Grill House,Grill,T Nagar,430.11,Delivery
+QB101380,21-08-2026 13:12,R008,Pasta Point,Italian,Anna Nagar,273.45,Delivery
+QB101381,21-08-2026 13:16,R010,Biryani Box,Biryani,Nungambakkam,486.76,Delivery
+QB101382,21-08-2026 13:23,R008,Pasta Point,Italian,Adyar,505.73,Delivery
+QB101383,21-08-2026 13:36,R003,Pizza Junction,Pizza,Velachery,348.88,Delivery
+QB101384,21-08-2026 14:43,R012,Cafe Cloud,Cafe,Tambaram,429.15,Delivery
+QB101385,21-08-2026 14:44,R015,Noodle Nest,Chinese,Tambaram,672.53,Delivery
+QB101386,21-08-2026 14:48,R005,Burger Bay,Fast Food,Tambaram,339.95,Delivery
+QB101387,21-08-2026 15:00,R006,Dosa Corner,South Indian,Adyar,267.39,Delivery
+QB101388,21-08-2026 15:09,R006,Dosa Corner,South Indian,OMR,561.41,Scheduled
+QB101389,21-08-2026 15:34,R004,Wok Express,Chinese,OMR,399.01,Delivery
+QB101390,21-08-2026 17:02,R001,Spice Route,Indian,Tambaram,719.21,Delivery
+QB101391,21-08-2026 17:33,R015,Noodle Nest,Chinese,Guindy,435.37,Delivery
+QB101392,21-08-2026 18:14,R011,Sushi Street,Japanese,Mylapore,339.17,Delivery
+QB101393,21-08-2026 18:20,R016,Sweet Treats,Dessert,T Nagar,163.08,Delivery
+QB101394,21-08-2026 18:31,R007,Curry House,Indian,OMR,1018.21,Delivery
+QB101395,21-08-2026 18:34,R016,Sweet Treats,Dessert,Guindy,370.02,Delivery
+QB101396,21-08-2026 18:57,R012,Cafe Cloud,Cafe,Tambaram,698.83,Delivery
+QB101397,21-08-2026 18:57,R002,Green Bowl,Healthy,Adyar,335.72,Delivery
+QB101398,21-08-2026 19:04,R013,Tandoori Hub,Indian,Guindy,582.71,Delivery
+QB101399,21-08-2026 19:08,R018,Sandwich Lab,Cafe,T Nagar,530.47,Delivery
+QB101400,21-08-2026 19:08,R002,Green Bowl,Healthy,OMR,583.78,Delivery
+QB101401,21-08-2026 19:17,R014,Salad Studio,Healthy,T Nagar,586.19,Delivery
+QB101402,21-08-2026 19:17,R020,Grill House,Grill,Adyar,523.81,Delivery
+QB101403,21-08-2026 19:23,R015,Noodle Nest,Chinese,T Nagar,305.87,Delivery
+QB101404,21-08-2026 19:25,R014,Salad Studio,Healthy,OMR,208.3,Delivery
+QB101405,21-08-2026 19:27,R009,Wrap & Roll,Fast Food,T Nagar,238.83,Scheduled
+QB101406,21-08-2026 19:35,R016,Sweet Treats,Dessert,Adyar,448.17,Delivery
+QB101407,21-08-2026 19:35,R006,Dosa Corner,South Indian,Tambaram,329.48,Delivery
+QB101408,21-08-2026 19:40,R003,Pizza Junction,Pizza,Tambaram,273.07,Delivery
+QB101409,21-08-2026 19:42,R019,Chaat Central,Street Food,T Nagar,560.71,Delivery
+QB101410,21-08-2026 20:20,R002,Green Bowl,Healthy,Porur,335.04,Delivery
+QB101411,21-08-2026 20:21,R001,Spice Route,Indian,OMR,241.44,Delivery
+QB101412,21-08-2026 20:23,R014,Salad Studio,Healthy,Porur,622.89,Delivery
+QB101413,21-08-2026 20:29,R005,Burger Bay,Fast Food,Anna Nagar,205.48,Delivery
+QB101414,21-08-2026 20:32,R011,Sushi Street,Japanese,T Nagar,447.19,Delivery
+QB101415,21-08-2026 20:34,R002,Green Bowl,Healthy,Adyar,316.71,Delivery
+QB101416,21-08-2026 20:38,R005,Burger Bay,Fast Food,Tambaram,345.02,Delivery
+QB101417,21-08-2026 20:41,R012,Cafe Cloud,Cafe,Anna Nagar,535.93,Delivery
+QB101418,21-08-2026 20:45,R017,Coastal Kitchen,Seafood,OMR,354.32,Delivery
+QB101419,21-08-2026 21:08,R020,Grill House,Grill,Porur,267.2,Delivery
+QB101420,21-08-2026 21:31,R017,Coastal Kitchen,Seafood,Adyar,587.74,Delivery
+QB101421,21-08-2026 21:41,R002,Green Bowl,Healthy,Anna Nagar,476.03,Delivery
+QB101422,21-08-2026 21:45,R016,Sweet Treats,Dessert,Anna Nagar,389.62,Delivery
+QB101423,21-08-2026 23:53,R006,Dosa Corner,South Indian,Porur,312.93,Delivery
+QB101424,22-08-2026 08:03,R013,Tandoori Hub,Indian,Nungambakkam,483.1,Delivery
+QB101425,22-08-2026 08:38,R015,Noodle Nest,Chinese,Mylapore,619.53,Delivery
+QB101426,22-08-2026 08:46,R020,Grill House,Grill,Adyar,188.47,Delivery
+QB101427,22-08-2026 08:58,R010,Biryani Box,Biryani,Tambaram,281.89,Delivery
+QB101428,22-08-2026 10:03,R009,Wrap & Roll,Fast Food,Guindy,286.53,Delivery
+QB101429,22-08-2026 10:07,R015,Noodle Nest,Chinese,Tambaram,548.72,Delivery
+QB101430,22-08-2026 10:09,R019,Chaat Central,Street Food,OMR,376.23,Delivery
+QB101431,22-08-2026 11:19,R005,Burger Bay,Fast Food,Porur,450.05,Delivery
+QB101432,22-08-2026 11:24,R008,Pasta Point,Italian,Velachery,372.34,Delivery
+QB101433,22-08-2026 11:25,R010,Biryani Box,Biryani,Nungambakkam,578.7,Delivery
+QB101434,22-08-2026 11:28,R003,Pizza Junction,Pizza,OMR,525.97,Delivery
+QB101435,22-08-2026 11:31,R001,Spice Route,Indian,Adyar,398.78,Delivery
+QB101436,22-08-2026 11:42,R001,Spice Route,Indian,Adyar,342.13,Delivery
+QB101437,22-08-2026 11:44,R006,Dosa Corner,South Indian,Porur,649.76,Delivery
+QB101438,22-08-2026 12:12,R015,Noodle Nest,Chinese,Porur,445.19,Delivery
+QB101439,22-08-2026 12:19,R018,Sandwich Lab,Cafe,Velachery,338.43,Delivery
+QB101440,22-08-2026 12:22,R008,Pasta Point,Italian,OMR,335.55,Delivery
+QB101441,22-08-2026 12:24,R020,Grill House,Grill,Anna Nagar,287.5,Delivery
+QB101442,22-08-2026 12:29,R018,Sandwich Lab,Cafe,Porur,248.13,Delivery
+QB101443,22-08-2026 12:33,R013,Tandoori Hub,Indian,OMR,412.88,Delivery
+QB101444,22-08-2026 12:38,R007,Curry House,Indian,Anna Nagar,378,Delivery
+QB101445,22-08-2026 13:11,R020,Grill House,Grill,Adyar,514.85,Delivery
+QB101446,22-08-2026 13:19,R001,Spice Route,Indian,Mylapore,364.55,Delivery
+QB101447,22-08-2026 13:31,R017,Coastal Kitchen,Seafood,Velachery,221.39,Delivery
+QB101448,22-08-2026 13:47,R007,Curry House,Indian,Tambaram,450.64,Delivery
+QB101449,22-08-2026 13:53,R019,Chaat Central,Street Food,Adyar,212.03,Delivery
+QB101450,22-08-2026 13:53,R006,Dosa Corner,South Indian,Anna Nagar,191.39,Delivery
+QB101451,22-08-2026 13:55,R010,Biryani Box,Biryani,Nungambakkam,274.79,Delivery
+QB101452,22-08-2026 13:55,R002,Green Bowl,Healthy,T Nagar,580.65,Delivery
+QB101453,22-08-2026 14:04,R011,Sushi Street,Japanese,T Nagar,598.9,Delivery
+QB101454,22-08-2026 14:09,R010,Biryani Box,Biryani,Anna Nagar,706.37,Delivery
+QB101455,22-08-2026 14:20,R011,Sushi Street,Japanese,Adyar,333.08,Delivery
+QB101456,22-08-2026 15:06,R004,Wok Express,Chinese,Adyar,422.48,Delivery
+QB101457,22-08-2026 15:21,R003,Pizza Junction,Pizza,Nungambakkam,690.27,Delivery
+QB101458,22-08-2026 16:27,R005,Burger Bay,Fast Food,Nungambakkam,634.19,Scheduled
+QB101459,22-08-2026 16:58,R011,Sushi Street,Japanese,Guindy,592.44,Delivery
+QB101460,22-08-2026 17:21,R014,Salad Studio,Healthy,Guindy,567.07,Delivery
+QB101461,22-08-2026 17:46,R005,Burger Bay,Fast Food,Tambaram,498.7,Delivery
+QB101462,22-08-2026 17:49,R007,Curry House,Indian,Anna Nagar,806.6,Delivery
+QB101463,22-08-2026 17:59,R008,Pasta Point,Italian,Nungambakkam,376.57,Delivery
+QB101464,22-08-2026 18:01,R002,Green Bowl,Healthy,Mylapore,275.86,Delivery
+QB101465,22-08-2026 18:02,R005,Burger Bay,Fast Food,Guindy,364.42,Delivery
+QB101466,22-08-2026 18:11,R003,Pizza Junction,Pizza,T Nagar,216.42,Delivery
+QB101467,22-08-2026 18:32,R016,Sweet Treats,Dessert,Anna Nagar,375.77,Scheduled
+QB101468,22-08-2026 18:45,R007,Curry House,Indian,T Nagar,187.64,Delivery
+QB101469,22-08-2026 18:52,R005,Burger Bay,Fast Food,OMR,312.78,Delivery
+QB101470,22-08-2026 18:59,R001,Spice Route,Indian,OMR,750.43,Delivery
+QB101471,22-08-2026 19:04,R001,Spice Route,Indian,Guindy,242.97,Delivery
+QB101472,22-08-2026 19:07,R009,Wrap & Roll,Fast Food,Nungambakkam,295.32,Delivery
+QB101473,22-08-2026 19:17,R013,Tandoori Hub,Indian,Porur,354.16,Delivery
+QB101474,22-08-2026 19:19,R008,Pasta Point,Italian,T Nagar,258.43,Delivery
+QB101475,22-08-2026 19:26,R006,Dosa Corner,South Indian,Tambaram,797.28,Delivery
+QB101476,22-08-2026 19:33,R019,Chaat Central,Street Food,T Nagar,329.28,Delivery
+QB101477,22-08-2026 19:34,R001,Spice Route,Indian,T Nagar,2186.17,Delivery
+QB101478,22-08-2026 19:46,R010,Biryani Box,Biryani,Porur,273.04,Delivery
+QB101479,22-08-2026 19:50,R015,Noodle Nest,Chinese,OMR,613.51,Delivery
+QB101480,22-08-2026 19:51,R001,Spice Route,Indian,Guindy,667.42,Delivery
+QB101481,22-08-2026 20:24,R013,Tandoori Hub,Indian,OMR,347.51,Delivery
+QB101482,22-08-2026 20:25,R004,Wok Express,Chinese,Anna Nagar,374.64,Delivery
+QB101483,22-08-2026 20:32,R011,Sushi Street,Japanese,Velachery,280.11,Delivery
+QB101484,22-08-2026 20:33,R001,Spice Route,Indian,Velachery,494.4,Delivery
+QB101485,22-08-2026 20:42,R015,Noodle Nest,Chinese,OMR,345.96,Delivery
+QB101486,22-08-2026 20:55,R003,Pizza Junction,Pizza,Guindy,177.98,Delivery
+QB101487,22-08-2026 21:32,R016,Sweet Treats,Dessert,Tambaram,399.12,Delivery
+QB101488,22-08-2026 22:30,R012,Cafe Cloud,Cafe,Adyar,783.13,Delivery
+QB101489,22-08-2026 22:34,R010,Biryani Box,Biryani,Velachery,378.8,Delivery
+QB101490,23-08-2026 08:15,R019,Chaat Central,Street Food,Nungambakkam,466.59,Delivery
+QB101491,23-08-2026 08:28,R012,Cafe Cloud,Cafe,T Nagar,706.12,Delivery
+QB101492,23-08-2026 10:38,R016,Sweet Treats,Dessert,Mylapore,342.28,Delivery
+QB101493,23-08-2026 11:09,R005,Burger Bay,Fast Food,Porur,151.96,Delivery
+QB101494,23-08-2026 11:11,R010,Biryani Box,Biryani,Nungambakkam,330.83,Delivery
+QB101495,23-08-2026 11:11,R019,Chaat Central,Street Food,T Nagar,348.21,Delivery
+QB101496,23-08-2026 11:21,R013,Tandoori Hub,Indian,Velachery,266.34,Delivery
+QB101497,23-08-2026 11:26,R015,Noodle Nest,Chinese,Velachery,176.67,Delivery
+QB101498,23-08-2026 11:27,R007,Curry House,Indian,T Nagar,380.59,Delivery
+QB101499,23-08-2026 11:38,R005,Burger Bay,Fast Food,Adyar,244.49,Delivery
+QB101500,23-08-2026 11:48,R007,Curry House,Indian,OMR,471.05,Delivery
+QB101501,23-08-2026 11:54,R005,Burger Bay,Fast Food,Nungambakkam,331.08,Delivery
+QB101502,23-08-2026 11:58,R006,Dosa Corner,South Indian,Porur,636.76,Delivery
+QB101503,23-08-2026 12:17,R011,Sushi Street,Japanese,Anna Nagar,293.25,Delivery
+QB101504,23-08-2026 12:22,R015,Noodle Nest,Chinese,Tambaram,592.48,Delivery
+QB101505,23-08-2026 12:24,R015,Noodle Nest,Chinese,Tambaram,254.06,Delivery
+QB101506,23-08-2026 12:24,R006,Dosa Corner,South Indian,T Nagar,591.67,Delivery
+QB101507,23-08-2026 12:24,R003,Pizza Junction,Pizza,Porur,979.22,Delivery
+QB101508,23-08-2026 12:26,R012,Cafe Cloud,Cafe,Adyar,453,Delivery
+QB101509,23-08-2026 12:36,R005,Burger Bay,Fast Food,Anna Nagar,385.86,Delivery
+QB101510,23-08-2026 12:40,R020,Grill House,Grill,Adyar,305.37,Delivery
+QB101511,23-08-2026 12:41,R019,Chaat Central,Street Food,Adyar,307.34,Delivery
+QB101512,23-08-2026 12:50,R011,Sushi Street,Japanese,OMR,377.06,Delivery
+QB101513,23-08-2026 13:23,R005,Burger Bay,Fast Food,Porur,346.93,Delivery
+QB101514,23-08-2026 13:37,R006,Dosa Corner,South Indian,Adyar,687.08,Scheduled
+QB101515,23-08-2026 13:46,R016,Sweet Treats,Dessert,Tambaram,360.05,Delivery
+QB101516,23-08-2026 14:13,R002,Green Bowl,Healthy,T Nagar,923.2,Delivery
+QB101517,23-08-2026 14:15,R014,Salad Studio,Healthy,Velachery,461.09,Delivery
+QB101518,23-08-2026 14:18,R002,Green Bowl,Healthy,Mylapore,521.88,Delivery
+QB101519,23-08-2026 14:23,R004,Wok Express,Chinese,OMR,432.92,Delivery
+QB101520,23-08-2026 14:28,R009,Wrap & Roll,Fast Food,T Nagar,245.05,Delivery
+QB101521,23-08-2026 14:36,R016,Sweet Treats,Dessert,Tambaram,359.16,Delivery
+QB101522,23-08-2026 14:49,R002,Green Bowl,Healthy,Adyar,815.51,Delivery
+QB101523,23-08-2026 15:45,R019,Chaat Central,Street Food,T Nagar,656.09,Delivery
+QB101524,23-08-2026 16:45,R004,Wok Express,Chinese,omr ,309.34,Delivery
+QB101525,23-08-2026 17:10,R013,Tandoori Hub,Indian,Guindy,392.68,Delivery
+QB101526,23-08-2026 17:17,R018,Sandwich Lab,Cafe,Porur,651,Delivery
+QB101527,23-08-2026 17:29,R020,Grill House,Grill,Tambaram,670.44,Delivery
+QB101528,23-08-2026 17:33,R003,Pizza Junction,Pizza,Nungambakkam,642.45,Delivery
+QB101529,23-08-2026 17:46,R010,Biryani Box,Biryani,Anna Nagar,849.74,Delivery
+QB101530,23-08-2026 17:46,R019,Chaat Central,Street Food,T Nagar,264.39,Delivery
+QB101531,23-08-2026 17:49,R015,Noodle Nest,Chinese,Guindy,529.15,Delivery
+QB101532,23-08-2026 17:49,R005,Burger Bay,Fast Food,Velachery,284.92,Delivery
+QB101533,23-08-2026 17:55,R013,Tandoori Hub,Indian,Guindy,761.92,Delivery
+QB101534,23-08-2026 18:21,R013,Tandoori Hub,Indian,Anna Nagar,366.14,Delivery
+QB101535,23-08-2026 18:23,R019,Chaat Central,Street Food,Porur,778.5,Delivery
+QB101536,23-08-2026 18:49,R017,Coastal Kitchen,Seafood,Adyar,197.38,Delivery
+QB101537,23-08-2026 18:55,R010,Biryani Box,Biryani,T Nagar,335.64,Delivery
+QB101538,23-08-2026 19:02,R013,Tandoori Hub,Indian,OMR,369.81,Delivery
+QB101539,23-08-2026 19:05,R009,Wrap & Roll,Fast Food,OMR,641.37,Delivery
+QB101540,23-08-2026 19:06,R003,Pizza Junction,Pizza,Adyar,454.14,Delivery
+QB101541,23-08-2026 19:10,R008,Pasta Point,Italian,OMR,423.29,Delivery
+QB101542,23-08-2026 19:41,R011,Sushi Street,Japanese,Tambaram,326.06,Delivery
+QB101543,23-08-2026 19:44,R003,Pizza Junction,Pizza,OMR,420.7,Delivery
+QB101544,23-08-2026 19:44,R015,Noodle Nest,Chinese,OMR,391.51,Delivery
+QB101545,23-08-2026 19:53,R018,Sandwich Lab,Cafe,Velachery,263.01,Delivery
+QB101546,23-08-2026 19:56,R015,Noodle Nest,Chinese,Adyar,407.64,Delivery
+QB101547,23-08-2026 20:06,R017,Coastal Kitchen,Seafood,Nungambakkam,556.49,Delivery
+QB101548,23-08-2026 20:12,R009,Wrap & Roll,Fast Food,Guindy,508.9,Delivery
+QB101549,23-08-2026 20:25,R006,Dosa Corner,South Indian,Mylapore,356.23,Delivery
+QB101550,23-08-2026 20:50,R020,Grill House,Grill,Tambaram,486.38,Delivery
+QB101551,23-08-2026 21:18,R012,Cafe Cloud,Cafe,Velachery,216.3,Delivery
+QB101552,23-08-2026 21:19,R009,Wrap & Roll,Fast Food,OMR,310.72,Delivery
+QB101553,23-08-2026 21:38,R001,Spice Route,Indian,T Nagar,559.96,Delivery
+QB101554,23-08-2026 21:55,R012,Cafe Cloud,Cafe,Velachery,279,Delivery
+QB101555,23-08-2026 22:24,R015,Noodle Nest,Chinese,Guindy,562.24,Scheduled
+QB101556,23-08-2026 22:56,R015,Noodle Nest,Chinese,Mylapore,329.07,Delivery
+QB101557,24-08-2026 08:00,R009,Wrap & Roll,Fast Food,Nungambakkam,389.7,Delivery
+QB101558,24-08-2026 08:03,R018,Sandwich Lab,Cafe,Porur,360.65,Delivery
+QB101559,24-08-2026 08:13,R009,Wrap & Roll,Fast Food,OMR,698.04,Delivery
+QB101560,24-08-2026 09:24,R009,Wrap & Roll,Fast Food,Anna Nagar,227.3,Delivery
+QB101561,24-08-2026 09:55,R006,Dosa Corner,South Indian,Nungambakkam,198.32,Delivery
+QB101562,24-08-2026 10:05,R010,Biryani Box,Biryani,T Nagar,315.36,Delivery
+QB101563,24-08-2026 10:09,R007,Curry House,Indian,Guindy,208.27,Delivery
+QB101564,24-08-2026 10:13,R012,Cafe Cloud,Cafe,Porur,717.46,Delivery
+QB101565,24-08-2026 11:06,R002,Green Bowl,Healthy,Guindy,408.16,Delivery
+QB101566,24-08-2026 11:15,R006,Dosa Corner,South Indian,OMR,350.63,Delivery
+QB101567,24-08-2026 11:16,R003,Pizza Junction,Pizza,OMR,361.95,Delivery
+QB101568,24-08-2026 11:16,R011,Sushi Street,Japanese,Velachery,420.06,Delivery
+QB101569,24-08-2026 11:18,R003,Pizza Junction,Pizza,OMR,682.09,Delivery
+QB101570,24-08-2026 11:22,R006,Dosa Corner,South Indian,Mylapore,497.3,Delivery
+QB101571,24-08-2026 12:06,R004,Wok Express,Chinese,Guindy,741.86,Delivery
+QB101572,24-08-2026 12:19,R001,Spice Route,Indian,Tambaram,371.19,Delivery
+QB101573,24-08-2026 12:24,R001,Spice Route,Indian,T Nagar,298.56,Delivery
+QB101574,24-08-2026 12:57,R012,Cafe Cloud,Cafe,Mylapore,398.23,Delivery
+QB101575,24-08-2026 12:58,R008,Pasta Point,Italian,Velachery,377.88,Delivery
+QB101576,24-08-2026 13:02,R010,Biryani Box,Biryani,OMR,520.24,Delivery
+QB101577,24-08-2026 13:04,R012,Cafe Cloud,Cafe,Porur,277.03,Delivery
+QB101578,24-08-2026 13:07,R019,Chaat Central,Street Food,Velachery,391.9,Delivery
+QB101579,24-08-2026 13:12,R006,Dosa Corner,South Indian,Anna Nagar,292.08,Delivery
+QB101580,24-08-2026 13:18,R005,Burger Bay,Fast Food,Porur,327.48,Scheduled
+QB101581,24-08-2026 13:27,R018,Sandwich Lab,Cafe,Tambaram,354.16,Scheduled
+QB101582,24-08-2026 13:30,R010,Biryani Box,Biryani,Adyar,614.05,Delivery
+QB101583,24-08-2026 13:30,R009,Wrap & Roll,Fast Food,Velachery,366.74,Scheduled
+QB101584,24-08-2026 13:31,R010,Biryani Box,Biryani,Mylapore,631.8,Delivery
+QB101585,24-08-2026 13:45,R009,Wrap & Roll,Fast Food,OMR,242.31,Delivery
+QB101586,24-08-2026 13:52,R019,Chaat Central,Street Food,T Nagar,1007.19,Delivery
+QB101587,24-08-2026 14:57,R015,Noodle Nest,Chinese,Mylapore,617.44,Delivery
+QB101588,24-08-2026 15:56,R005,Burger Bay,Fast Food,Porur,402.2,Delivery
+QB101589,24-08-2026 17:14,R004,Wok Express,Chinese,T Nagar,761.32,Delivery
+QB101590,24-08-2026 17:28,R001,Spice Route,Indian,Tambaram,563.82,Delivery
+QB101591,24-08-2026 17:29,R003,Pizza Junction,Pizza,Velachery,408.98,Delivery
+QB101592,24-08-2026 17:29,R011,Sushi Street,Japanese,Tambaram,503.83,Delivery
+QB101593,24-08-2026 17:31,R007,Curry House,Indian,Mylapore,459.65,Delivery
+QB101594,24-08-2026 17:51,R013,Tandoori Hub,Indian,Adyar,334.63,Scheduled
+QB101595,24-08-2026 18:02,R016,Sweet Treats,Dessert,Tambaram,348.52,Delivery
+QB101596,24-08-2026 18:04,R011,Sushi Street,Japanese,OMR,484.18,Delivery
+QB101597,24-08-2026 18:05,R012,Cafe Cloud,Cafe,OMR,454.56,Delivery
+QB101598,24-08-2026 18:06,R013,Tandoori Hub,Indian,Mylapore,269.67,Delivery
+QB101599,24-08-2026 18:10,R010,Biryani Box,Biryani,Anna Nagar,629.66,Delivery
+QB101600,24-08-2026 18:16,R003,Pizza Junction,Pizza,Anna Nagar,294.2,Delivery
+QB101601,24-08-2026 18:21,R004,Wok Express,Chinese,Guindy,368.49,Delivery
+QB101602,24-08-2026 18:38,R004,Wok Express,Chinese,Porur,207.49,Delivery
+QB101603,24-08-2026 18:38,R005,Burger Bay,Fast Food,Guindy,1217.9,Delivery
+QB101604,24-08-2026 18:41,R018,Sandwich Lab,Cafe,OMR,901.9,Delivery
+QB101605,24-08-2026 18:55,R016,Sweet Treats,Dessert,OMR,897.09,Delivery
+QB101606,24-08-2026 19:00,R014,Salad Studio,Healthy,Velachery,337.52,Delivery
+QB101607,24-08-2026 19:04,R002,Green Bowl,Healthy,Velachery,742.16,Delivery
+QB101608,24-08-2026 19:09,R016,Sweet Treats,Dessert,Anna Nagar,503.59,Delivery
+QB101609,24-08-2026 19:15,R015,Noodle Nest,Chinese,OMR,466.8,Delivery
+QB101610,24-08-2026 19:17,R020,Grill House,Grill,Velachery,398.12,Delivery
+QB101611,24-08-2026 19:28,R001,Spice Route,Indian,Anna Nagar,645.37,Delivery
+QB101612,24-08-2026 19:31,R013,Tandoori Hub,Indian,Anna Nagar,205.71,Delivery
+QB101613,24-08-2026 19:41,R016,Sweet Treats,Dessert,Tambaram,444.59,Delivery
+QB101614,24-08-2026 19:42,R009,Wrap & Roll,Fast Food,Tambaram,446.78,Delivery
+QB101615,24-08-2026 19:46,R002,Green Bowl,Healthy,Nungambakkam,300.63,Delivery
+QB101616,24-08-2026 19:59,R004,Wok Express,Chinese,Porur,404.81,Delivery
+QB101617,24-08-2026 20:07,R001,Spice Route,Indian,Mylapore,545.48,Delivery
+QB101618,24-08-2026 20:12,R011,Sushi Street,Japanese,T Nagar,294.11,Delivery
+QB101619,24-08-2026 20:26,R011,Sushi Street,Japanese,Velachery,509.57,Delivery
+QB101620,24-08-2026 20:38,R015,Noodle Nest,Chinese,Tambaram,727.45,Delivery
+QB101621,24-08-2026 20:45,R012,Cafe Cloud,Cafe,T Nagar,191.72,Delivery
+QB101622,24-08-2026 20:53,R013,Tandoori Hub,Indian,Adyar,575.89,Delivery
+QB101623,24-08-2026 20:56,R012,Cafe Cloud,Cafe,Adyar,262.83,Delivery
+QB101624,24-08-2026 21:02,R014,Salad Studio,Healthy,Nungambakkam,232.52,Delivery
+QB101625,24-08-2026 21:08,R013,Tandoori Hub,Indian,Porur,406.73,Delivery
+QB101626,24-08-2026 21:09,R002,Green Bowl,Healthy,Guindy,820.54,Delivery
+QB101627,24-08-2026 21:32,R013,Tandoori Hub,Indian,Mylapore,438.92,Delivery
+QB101628,24-08-2026 21:59,R013,Tandoori Hub,Indian,Porur,402.14,Delivery
+QB101629,24-08-2026 23:19,R011,Sushi Street,Japanese,Tambaram,330.11,Delivery
+QB101630,24-08-2026 23:52,R004,Wok Express,Chinese,Porur,685.88,Delivery
+QB101631,25-08-2026 08:05,R005,Burger Bay,Fast Food,Adyar,574.53,Delivery
+QB101632,25-08-2026 09:35,R001,Spice Route,Indian,Mylapore,412.45,Delivery
+QB101633,25-08-2026 10:43,R013,Tandoori Hub,Indian,Tambaram,458.28,Delivery
+QB101634,25-08-2026 11:01,R005,Burger Bay,Fast Food,T Nagar,750.11,Delivery
+QB101635,25-08-2026 11:48,R009,Wrap & Roll,Fast Food,Anna Nagar,489.68,Delivery
+QB101636,25-08-2026 11:59,R006,Dosa Corner,South Indian,T Nagar,383.01,Delivery
+QB101637,25-08-2026 12:13,R003,Pizza Junction,Pizza,OMR,611.06,Delivery
+QB101638,25-08-2026 12:15,R013,Tandoori Hub,Indian,OMR,578.47,Delivery
+QB101639,25-08-2026 12:16,R007,Curry House,Indian,T Nagar,332.42,Delivery
+QB101640,25-08-2026 12:22,R017,Coastal Kitchen,Seafood,Nungambakkam,287.34,Delivery
+QB101641,25-08-2026 12:24,R015,Noodle Nest,Chinese,Porur,260.94,Delivery
+QB101642,25-08-2026 12:25,R018,Sandwich Lab,Cafe,Porur,324.74,Delivery
+QB101643,25-08-2026 12:30,R019,Chaat Central,Street Food,Guindy,565.6,Delivery
+QB101644,25-08-2026 12:37,R007,Curry House,Indian,Guindy,447.87,Delivery
+QB101645,25-08-2026 12:38,R019,Chaat Central,Street Food,Anna Nagar,531,Delivery
+QB101646,25-08-2026 12:46,R016,Sweet Treats,Dessert,Adyar,242.22,Delivery
+QB101647,25-08-2026 13:00,R012,Cafe Cloud,Cafe,Anna Nagar,371.18,Delivery
+QB101648,25-08-2026 13:03,R013,Tandoori Hub,Indian,Adyar,503.81,Delivery
+QB101649,25-08-2026 13:12,R019,Chaat Central,Street Food,Nungambakkam,644.91,Delivery
+QB101650,25-08-2026 13:19,R004,Wok Express,Chinese,Velachery,301.37,Delivery
+QB101651,25-08-2026 13:24,R004,Wok Express,Chinese,Tambaram,487.22,Delivery
+QB101652,25-08-2026 13:36,R013,Tandoori Hub,Indian,Tambaram,330.78,Delivery
+QB101653,25-08-2026 13:54,R018,Sandwich Lab,Cafe,Velachery,336.42,Delivery
+QB101654,25-08-2026 14:14,R009,Wrap & Roll,Fast Food,Nungambakkam,781.44,Delivery
+QB101655,25-08-2026 14:46,R008,Pasta Point,Italian,T Nagar,209.86,Delivery
+QB101656,25-08-2026 14:51,R013,Tandoori Hub,Indian,Velachery,362.76,Delivery
+QB101657,25-08-2026 15:29,R011,Sushi Street,Japanese,OMR,584.14,Delivery
+QB101658,25-08-2026 17:15,R014,Salad Studio,Healthy,Velachery,384.08,Delivery
+QB101659,25-08-2026 17:16,R014,Salad Studio,Healthy,Tambaram,256.61,Delivery
+QB101660,25-08-2026 17:21,R010,Biryani Box,Biryani,Nungambakkam,386.41,Delivery
+QB101661,25-08-2026 17:45,R016,Sweet Treats,Dessert,T Nagar,495.5,Delivery
+QB101662,25-08-2026 17:51,R014,Salad Studio,Healthy,Velachery,349.58,Delivery
+QB101663,25-08-2026 17:56,R018,Sandwich Lab,Cafe,T Nagar,427.75,Delivery
+QB101664,25-08-2026 18:04,R014,Salad Studio,Healthy,Mylapore,425.21,Delivery
+QB101665,25-08-2026 18:05,R018,Sandwich Lab,Cafe,Velachery,231.18,Delivery
+QB101666,25-08-2026 18:13,R012,Cafe Cloud,Cafe,Guindy,334.59,Delivery
+QB101667,25-08-2026 18:18,R007,Curry House,Indian,Adyar,420.65,Scheduled
+QB101668,25-08-2026 18:39,R006,Dosa Corner,South Indian,Adyar,818.66,Delivery
+QB101669,25-08-2026 19:03,R012,Cafe Cloud,Cafe,Tambaram,226.35,Delivery
+QB101670,25-08-2026 19:15,R002,Green Bowl,Healthy,Mylapore,193.11,Delivery
+QB101671,25-08-2026 19:23,R003,Pizza Junction,Pizza,OMR,514.11,Delivery
+QB101672,25-08-2026 19:26,R018,Sandwich Lab,Cafe,Tambaram,288.25,Delivery
+QB101673,25-08-2026 19:48,R004,Wok Express,Chinese,OMR,342.63,Scheduled
+QB101674,25-08-2026 19:49,R008,Pasta Point,Italian,Porur,167.92,Delivery
+QB101675,25-08-2026 19:54,R004,Wok Express,Chinese,Mylapore,579.39,Delivery
+QB101676,25-08-2026 19:57,R020,Grill House,Grill,anna nagar ,330.26,Delivery
+QB101677,25-08-2026 20:29,R020,Grill House,Grill,Velachery,375.9,Delivery
+QB101678,25-08-2026 20:35,R020,Grill House,Grill,Tambaram,444.24,Delivery
+QB101679,25-08-2026 20:35,R008,Pasta Point,Italian,Nungambakkam,589.24,Delivery
+QB101680,25-08-2026 20:43,R006,Dosa Corner,South Indian,Porur,292.51,Scheduled
+QB101681,25-08-2026 21:04,R019,Chaat Central,Street Food,OMR,228.18,Delivery
+QB101682,25-08-2026 21:16,R001,Spice Route,Indian,Tambaram,334.23,Delivery
+QB101683,25-08-2026 21:31,R018,Sandwich Lab,Cafe,Anna Nagar,300.39,Delivery
+QB101684,25-08-2026 21:43,R016,Sweet Treats,Dessert,Mylapore,717.15,Delivery
+QB101685,25-08-2026 21:45,R002,Green Bowl,Healthy,Mylapore,619.99,Delivery
+QB101686,25-08-2026 21:59,R009,Wrap & Roll,Fast Food,Mylapore,1528.9,Delivery
+QB101687,25-08-2026 22:31,R017,Coastal Kitchen,Seafood,Guindy,410.74,Delivery
+QB101688,26-08-2026 09:54,R011,Sushi Street,Japanese,Velachery,914.09,Delivery
+QB101689,26-08-2026 11:00,R020,Grill House,Grill,Nungambakkam,338.3,Delivery
+QB101690,26-08-2026 11:08,R016,Sweet Treats,Dessert,Anna Nagar,207.8,Delivery
+QB101691,26-08-2026 11:12,R014,Salad Studio,Healthy,Guindy,868.54,Delivery
+QB101692,26-08-2026 11:22,R014,Salad Studio,Healthy,Porur,717.67,Delivery
+QB101693,26-08-2026 11:25,R019,Chaat Central,Street Food,Mylapore,341.21,Delivery
+QB101694,26-08-2026 11:41,R018,Sandwich Lab,Cafe,Nungambakkam,932.61,Delivery
+QB101695,26-08-2026 11:48,R001,Spice Route,Indian,Anna Nagar,151.07,Scheduled
+QB101696,26-08-2026 12:01,R001,Spice Route,Indian,Anna Nagar,345.42,Delivery
+QB101697,26-08-2026 12:05,R005,Burger Bay,Fast Food,Nungambakkam,464.64,Delivery
+QB101698,26-08-2026 12:05,R005,Burger Bay,Fast Food,Anna Nagar,446.33,Scheduled
+QB101699,26-08-2026 12:13,R005,Burger Bay,Fast Food,Adyar,711.73,Delivery
+QB101700,26-08-2026 12:17,R013,Tandoori Hub,Indian,Guindy,303.91,Delivery
+QB101701,26-08-2026 12:34,R016,Sweet Treats,Dessert,OMR,297.83,Delivery
+QB101702,26-08-2026 12:43,R009,Wrap & Roll,Fast Food,OMR,502.35,Delivery
+QB101703,26-08-2026 13:19,R018,Sandwich Lab,Cafe,T Nagar,719.2,Delivery
+QB101704,26-08-2026 13:26,R004,Wok Express,Chinese,OMR,529.25,Scheduled
+QB101705,26-08-2026 13:33,R014,Salad Studio,Healthy,Guindy,219.39,Delivery
+QB101706,26-08-2026 13:34,R009,Wrap & Roll,Fast Food,T Nagar,227.44,Delivery
+QB101707,26-08-2026 13:40,R014,Salad Studio,Healthy,T Nagar,287.63,Scheduled
+QB101708,26-08-2026 13:42,R006,Dosa Corner,South Indian,Anna Nagar,312.3,Delivery
+QB101709,26-08-2026 13:43,R011,Sushi Street,Japanese,Tambaram,406.75,Delivery
+QB101710,26-08-2026 13:55,R009,Wrap & Roll,Fast Food,Anna Nagar,1050.02,Delivery
+QB101711,26-08-2026 14:41,R016,Sweet Treats,Dessert,T Nagar,1060.46,Delivery
+QB101712,26-08-2026 15:21,R007,Curry House,Indian,OMR,643.58,Delivery
+QB101713,26-08-2026 15:44,R019,Chaat Central,Street Food,Mylapore,169.59,Delivery
+QB101714,26-08-2026 16:12,R008,Pasta Point,Italian,OMR,144.01,Delivery
+QB101715,26-08-2026 16:23,R009,Wrap & Roll,Fast Food,Guindy,314.22,Scheduled
+QB101716,26-08-2026 16:25,R014,Salad Studio,Healthy,Tambaram,149.02,Scheduled
+QB101717,26-08-2026 17:11,R009,Wrap & Roll,Fast Food,Mylapore,255.87,Delivery
+QB101718,26-08-2026 17:12,R004,Wok Express,Chinese,Tambaram,635.01,Delivery
+QB101719,26-08-2026 18:01,R015,Noodle Nest,Chinese,Mylapore,428.36,Delivery
+QB101720,26-08-2026 18:18,R001,Spice Route,Indian,T Nagar,661.82,Delivery
+QB101721,26-08-2026 18:22,R014,Salad Studio,Healthy,Porur,547.39,Delivery
+QB101722,26-08-2026 18:28,R002,Green Bowl,Healthy,Porur,593.9,Delivery
+QB101723,26-08-2026 18:50,R002,Green Bowl,Healthy,OMR,380.66,Delivery
+QB101724,26-08-2026 18:56,R019,Chaat Central,Street Food,Nungambakkam,1062.97,Delivery
+QB101725,26-08-2026 19:02,R013,Tandoori Hub,Indian,OMR,386.32,Delivery
+QB101726,26-08-2026 19:10,R019,Chaat Central,Street Food,OMR,576.32,Delivery
+QB101727,26-08-2026 19:11,R018,Sandwich Lab,Cafe,Porur,298.07,Delivery
+QB101728,26-08-2026 19:13,R017,Coastal Kitchen,Seafood,Adyar,229.39,Delivery
+QB101729,26-08-2026 19:23,R014,Salad Studio,Healthy,T Nagar,315.56,Delivery
+QB101730,26-08-2026 19:32,R018,Sandwich Lab,Cafe,Mylapore,627.61,Delivery
+QB101731,26-08-2026 19:48,R011,Sushi Street,Japanese,Guindy,319.39,Delivery
+QB101732,26-08-2026 19:50,R003,Pizza Junction,Pizza,OMR,221.91,Delivery
+QB101733,26-08-2026 19:52,R017,Coastal Kitchen,Seafood,T Nagar,449.39,Delivery
+QB101734,26-08-2026 19:58,R015,Noodle Nest,Chinese,Velachery,571.66,Delivery
+QB101735,26-08-2026 20:00,R010,Biryani Box,Biryani,T Nagar,544.77,Delivery
+QB101736,26-08-2026 20:03,R014,Salad Studio,Healthy,Guindy,358.01,Delivery
+QB101737,26-08-2026 20:05,R009,Wrap & Roll,Fast Food,Adyar,491.62,Delivery
+QB101738,26-08-2026 20:05,R017,Coastal Kitchen,Seafood,Tambaram,348.92,Delivery
+QB101739,26-08-2026 20:06,R020,Grill House,Grill,Anna Nagar,164.17,Delivery
+QB101740,26-08-2026 20:06,R015,Noodle Nest,Chinese,Anna Nagar,596.55,Delivery
+QB101741,26-08-2026 20:07,R002,Green Bowl,Healthy,Anna Nagar,277.31,Delivery
+QB101742,26-08-2026 20:12,R005,Burger Bay,Fast Food,Nungambakkam,823.57,Delivery
+QB101743,26-08-2026 20:15,R007,Curry House,Indian,Anna Nagar,284.21,Delivery
+QB101744,26-08-2026 20:20,R020,Grill House,Grill,Adyar,579.17,Delivery
+QB101745,26-08-2026 20:23,R019,Chaat Central,Street Food,T Nagar,548.73,Delivery
+QB101746,26-08-2026 20:24,R014,Salad Studio,Healthy,Nungambakkam,582.67,Delivery
+QB101747,26-08-2026 20:27,R015,Noodle Nest,Chinese,T Nagar,398.69,Delivery
+QB101748,26-08-2026 20:27,R006,Dosa Corner,South Indian,Adyar,638.58,Delivery
+QB101749,26-08-2026 20:28,R013,Tandoori Hub,Indian,Anna Nagar,212.86,Delivery
+QB101750,26-08-2026 20:31,R016,Sweet Treats,Dessert,Porur,371.92,Delivery
+QB101751,26-08-2026 20:36,R015,Noodle Nest,Chinese,Tambaram,797.36,Scheduled
+QB101752,26-08-2026 20:41,R012,Cafe Cloud,Cafe,Anna Nagar,547.8,Delivery
+QB101753,26-08-2026 20:56,R019,Chaat Central,Street Food,Nungambakkam,410.59,Delivery
+QB101754,26-08-2026 22:40,R013,Tandoori Hub,Indian,T Nagar,707.54,Delivery
+QB101755,26-08-2026 22:55,R017,Coastal Kitchen,Seafood,Tambaram,186.24,Delivery
+QB101756,27-08-2026 09:35,R014,Salad Studio,Healthy,Porur,624.83,Delivery
+QB101757,27-08-2026 10:54,R011,Sushi Street,Japanese,OMR,745.29,Delivery
+QB101758,27-08-2026 11:10,R011,Sushi Street,Japanese,T Nagar,230.6,Delivery
+QB101759,27-08-2026 11:17,R008,Pasta Point,Italian,Tambaram,775.09,Delivery
+QB101760,27-08-2026 11:20,R017,Coastal Kitchen,Seafood,T Nagar,499.86,Delivery
+QB101761,27-08-2026 11:23,R016,Sweet Treats,Dessert,Velachery,149.69,Delivery
+QB101762,27-08-2026 11:37,R006,Dosa Corner,South Indian,Anna Nagar,272.46,Delivery
+QB101763,27-08-2026 11:54,R003,Pizza Junction,Pizza,Anna Nagar,402.07,Delivery
+QB101764,27-08-2026 11:55,R004,Wok Express,Chinese,Mylapore,279.38,Delivery
+QB101765,27-08-2026 12:03,R003,Pizza Junction,Pizza,Velachery,314.62,Delivery
+QB101766,27-08-2026 12:13,R009,Wrap & Roll,Fast Food,Velachery,174.73,Delivery
+QB101767,27-08-2026 12:18,R002,Green Bowl,Healthy,Anna Nagar,479.53,Delivery
+QB101768,27-08-2026 12:22,R010,Biryani Box,Biryani,Velachery,346.56,Delivery
+QB101769,27-08-2026 12:31,R009,Wrap & Roll,Fast Food,Adyar,419.6,Delivery
+QB101770,27-08-2026 12:38,R010,Biryani Box,Biryani,Adyar,634.31,Delivery
+QB101771,27-08-2026 13:06,R015,Noodle Nest,Chinese,T Nagar,395.68,Scheduled
+QB101772,27-08-2026 13:08,R015,Noodle Nest,Chinese,Tambaram,591.6,Delivery
+QB101773,27-08-2026 13:18,R016,Sweet Treats,Dessert,Anna Nagar,302.95,Delivery
+QB101774,27-08-2026 13:21,R010,Biryani Box,Biryani,Velachery,781.38,Delivery
+QB101775,27-08-2026 13:21,R011,Sushi Street,Japanese,OMR,437.47,Delivery
+QB101776,27-08-2026 13:40,R016,Sweet Treats,Dessert,OMR,326.03,Delivery
+QB101777,27-08-2026 14:03,R016,Sweet Treats,Dessert,Anna Nagar,375.47,Delivery
+QB101778,27-08-2026 14:23,R017,Coastal Kitchen,Seafood,T Nagar,445.76,Delivery
+QB101779,27-08-2026 14:26,R005,Burger Bay,Fast Food,Nungambakkam,388.38,Delivery
+QB101780,27-08-2026 16:54,R006,Dosa Corner,South Indian,T Nagar,414.45,Delivery
+QB101781,27-08-2026 17:16,R011,Sushi Street,Japanese,Velachery,488.83,Delivery
+QB101782,27-08-2026 17:34,R010,Biryani Box,Biryani,Anna Nagar,978.92,Delivery
+QB101783,27-08-2026 17:36,R018,Sandwich Lab,Cafe,Velachery,422.96,Delivery
+QB101784,27-08-2026 17:43,R002,Green Bowl,Healthy,Anna Nagar,469.03,Scheduled
+QB101785,27-08-2026 18:01,R009,Wrap & Roll,Fast Food,T Nagar,219.49,Delivery
+QB101786,27-08-2026 18:02,R005,Burger Bay,Fast Food,Mylapore,310.42,Delivery
+QB101787,27-08-2026 18:12,R002,Green Bowl,Healthy,Adyar,611.97,Delivery
+QB101788,27-08-2026 18:15,R007,Curry House,Indian,Adyar,882.45,Delivery
+QB101789,27-08-2026 18:22,R006,Dosa Corner,South Indian,Velachery,723.23,Scheduled
+QB101790,27-08-2026 18:26,R001,Spice Route,Indian,Tambaram,317.59,Delivery
+QB101791,27-08-2026 18:31,R003,Pizza Junction,Pizza,Mylapore,312.43,Delivery
+QB101792,27-08-2026 18:34,R017,Coastal Kitchen,Seafood,T Nagar,341.11,Delivery
+QB101793,27-08-2026 18:59,R002,Green Bowl,Healthy,OMR,209.09,Delivery
+QB101794,27-08-2026 19:05,R014,Salad Studio,Healthy,Anna Nagar,343.02,Delivery
+QB101795,27-08-2026 19:06,R020,Grill House,Grill,OMR,262.22,Delivery
+QB101796,27-08-2026 19:09,R006,Dosa Corner,South Indian,Tambaram,310.72,Delivery
+QB101797,27-08-2026 19:10,R004,Wok Express,Chinese,T Nagar,216.5,Delivery
+QB101798,27-08-2026 19:12,R007,Curry House,Indian,Velachery,211.16,Delivery
+QB101799,27-08-2026 19:15,R020,Grill House,Grill,T Nagar,684.67,Delivery
+QB101800,27-08-2026 19:17,R017,Coastal Kitchen,Seafood,Nungambakkam,589.17,Delivery
+QB101801,27-08-2026 19:21,R012,Cafe Cloud,Cafe,Tambaram,293.43,Scheduled
+QB101802,27-08-2026 19:33,R016,Sweet Treats,Dessert,Tambaram,667.83,Delivery
+QB101803,27-08-2026 19:33,R020,Grill House,Grill,Nungambakkam,483.72,Delivery
+QB101804,27-08-2026 19:37,R019,Chaat Central,Street Food,Velachery,555.23,Delivery
+QB101805,27-08-2026 19:42,R016,Sweet Treats,Dessert,Guindy,411.98,Scheduled
+QB101806,27-08-2026 19:42,R009,Wrap & Roll,Fast Food,Porur,311.2,Delivery
+QB101807,27-08-2026 19:42,R003,Pizza Junction,Pizza,Tambaram,334.89,Delivery
+QB101808,27-08-2026 19:48,R018,Sandwich Lab,Cafe,Nungambakkam,187.47,Delivery
+QB101809,27-08-2026 19:50,R006,Dosa Corner,South Indian,Porur,326.15,Delivery
+QB101810,27-08-2026 20:02,R010,Biryani Box,Biryani,Velachery,327.18,Delivery
+QB101811,27-08-2026 20:12,R007,Curry House,Indian,Tambaram,301.78,Scheduled
+QB101812,27-08-2026 20:39,R019,Chaat Central,Street Food,Tambaram,183.43,Delivery
+QB101813,27-08-2026 20:40,R010,Biryani Box,Biryani,Anna Nagar,790.29,Delivery
+QB101814,27-08-2026 20:42,R003,Pizza Junction,Pizza,Porur,626.79,Delivery
+QB101815,27-08-2026 21:18,R016,Sweet Treats,Dessert,T Nagar,470.87,Delivery
+QB101816,27-08-2026 21:52,R007,Curry House,Indian,Anna Nagar,185.87,Delivery
+QB101817,27-08-2026 21:58,R018,Sandwich Lab,Cafe,Anna Nagar,575.09,Delivery
+QB101818,27-08-2026 22:04,R017,Coastal Kitchen,Seafood,Anna Nagar,464.8,Delivery
+QB101819,28-08-2026 08:35,R013,Tandoori Hub,Indian,Anna Nagar,337.98,Delivery
+QB101820,28-08-2026 09:14,R015,Noodle Nest,Chinese,Velachery,813.56,Delivery
+QB101821,28-08-2026 09:38,R017,Coastal Kitchen,Seafood,Tambaram,475.97,Delivery
+QB101822,28-08-2026 10:04,R017,Coastal Kitchen,Seafood,Tambaram,474.09,Delivery
+QB101823,28-08-2026 10:16,R007,Curry House,Indian,OMR,323.43,Delivery
+QB101824,28-08-2026 10:48,R013,Tandoori Hub,Indian,Velachery,853.6,Delivery
+QB101825,28-08-2026 11:06,R018,Sandwich Lab,Cafe,Velachery,591.28,Delivery
+QB101826,28-08-2026 11:16,R009,Wrap & Roll,Fast Food,Mylapore,334.77,Delivery
+QB101827,28-08-2026 11:20,R003,Pizza Junction,Pizza,Velachery,700.95,Delivery
+QB101828,28-08-2026 11:41,R004,Wok Express,Chinese,T Nagar,521,Delivery
+QB101829,28-08-2026 11:45,R002,Green Bowl,Healthy,Guindy,575.42,Delivery
+QB101830,28-08-2026 11:56,R010,Biryani Box,Biryani,T Nagar,757.24,Delivery
+QB101831,28-08-2026 12:08,R002,Green Bowl,Healthy,Anna Nagar,814.51,Delivery
+QB101832,28-08-2026 12:12,R004,Wok Express,Chinese,Tambaram,298.51,Delivery
+QB101833,28-08-2026 12:12,R017,Coastal Kitchen,Seafood,Anna Nagar,297.8,Delivery
+QB101834,28-08-2026 12:14,R003,Pizza Junction,Pizza,Guindy,309.49,Delivery
+QB101835,28-08-2026 12:19,R013,Tandoori Hub,Indian,Porur,450.81,Delivery
+QB101836,28-08-2026 12:35,R013,Tandoori Hub,Indian,Tambaram,178.55,Delivery
+QB101837,28-08-2026 12:39,R006,Dosa Corner,South Indian,Anna Nagar,362.89,Delivery
+QB101838,28-08-2026 12:41,R010,Biryani Box,Biryani,Guindy,655.56,Delivery
+QB101839,28-08-2026 13:06,R012,Cafe Cloud,Cafe,Nungambakkam,456.08,Delivery
+QB101840,28-08-2026 13:13,R007,Curry House,Indian,Porur,746.32,Delivery
+QB101841,28-08-2026 13:23,R020,Grill House,Grill,Adyar,492.52,Scheduled
+QB101842,28-08-2026 14:15,R014,Salad Studio,Healthy,Anna Nagar,213.34,Delivery
+QB101843,28-08-2026 14:19,R019,Chaat Central,Street Food,Tambaram,300.46,Delivery
+QB101844,28-08-2026 14:26,R003,Pizza Junction,Pizza,Mylapore,626.76,Delivery
+QB101845,28-08-2026 14:53,R016,Sweet Treats,Dessert,Tambaram,648.69,Delivery
+QB101846,28-08-2026 15:46,R011,Sushi Street,Japanese,Nungambakkam,390.69,Delivery
+QB101847,28-08-2026 16:00,R001,Spice Route,Indian,T Nagar,768.81,Delivery
+QB101848,28-08-2026 16:01,R019,Chaat Central,Street Food,OMR,224.62,Scheduled
+QB101849,28-08-2026 16:11,R013,Tandoori Hub,Indian,Velachery,380.51,Delivery
+QB101850,28-08-2026 16:13,R015,Noodle Nest,Chinese,Velachery,253.33,Delivery
+QB101851,28-08-2026 17:33,R005,Burger Bay,Fast Food,Velachery,266.55,Delivery
+QB101852,28-08-2026 17:33,R003,Pizza Junction,Pizza,Nungambakkam,413.81,Delivery
+QB101853,28-08-2026 18:16,R012,Cafe Cloud,Cafe,Guindy,721.43,Delivery
+QB101854,28-08-2026 18:17,R001,Spice Route,Indian,Velachery,194.54,Delivery
+QB101855,28-08-2026 18:24,R006,Dosa Corner,South Indian,Anna Nagar,477.8,Delivery
+QB101856,28-08-2026 18:35,R017,Coastal Kitchen,Seafood,Anna Nagar,267.41,Delivery
+QB101857,28-08-2026 18:40,R011,Sushi Street,Japanese,Anna Nagar,321.47,Delivery
+QB101858,28-08-2026 18:43,R009,Wrap & Roll,Fast Food,OMR,914.82,Delivery
+QB101859,28-08-2026 18:48,R014,Salad Studio,Healthy,Adyar,392.92,Delivery
+QB101860,28-08-2026 18:59,R003,Pizza Junction,Pizza,Anna Nagar,787.27,Delivery
+QB101861,28-08-2026 19:10,R018,Sandwich Lab,Cafe,T Nagar,281.49,Delivery
+QB101862,28-08-2026 19:11,R015,Noodle Nest,Chinese,Velachery,428.97,Delivery
+QB101863,28-08-2026 19:16,R020,Grill House,Grill,T Nagar,789.52,Delivery
+QB101864,28-08-2026 19:34,R007,Curry House,Indian,T Nagar,508.7,Delivery
+QB101865,28-08-2026 19:47,R014,Salad Studio,Healthy,Mylapore,761.1,Delivery
+QB101866,28-08-2026 19:55,R020,Grill House,Grill,Adyar,218.82,Delivery
+QB101867,28-08-2026 19:57,R007,Curry House,Indian,Tambaram,442.3,Delivery
+QB101868,28-08-2026 20:07,R010,Biryani Box,Biryani,Guindy,279.1,Delivery
+QB101869,28-08-2026 20:09,R004,Wok Express,Chinese,Porur,517.11,Scheduled
+QB101870,28-08-2026 20:25,R015,Noodle Nest,Chinese,Guindy,563.94,Delivery
+QB101871,28-08-2026 20:25,R005,Burger Bay,Fast Food,Tambaram,159.09,Delivery
+QB101872,28-08-2026 20:28,R004,Wok Express,Chinese,Anna Nagar,549.24,Delivery
+QB101873,28-08-2026 20:29,R016,Sweet Treats,Dessert,T Nagar,492.4,Delivery
+QB101874,28-08-2026 20:36,R019,Chaat Central,Street Food,OMR,437.73,Delivery
+QB101875,28-08-2026 20:42,R014,Salad Studio,Healthy,Nungambakkam,366.01,Delivery
+QB101876,28-08-2026 20:54,R017,Coastal Kitchen,Seafood,Adyar,281.16,Delivery
+QB101877,28-08-2026 20:59,R002,Green Bowl,Healthy,Mylapore,233.43,Delivery
+QB101878,28-08-2026 21:16,R002,Green Bowl,Healthy,Adyar,722.2,Delivery
+QB101879,28-08-2026 21:20,R011,Sushi Street,Japanese,Mylapore,305.51,Delivery
+QB101880,28-08-2026 21:29,R015,Noodle Nest,Chinese,Adyar,252.81,Delivery
+QB101881,28-08-2026 21:30,R015,Noodle Nest,Chinese,Adyar,819.6,Delivery
+QB101882,28-08-2026 21:50,R020,Grill House,Grill,OMR,342.43,Delivery
+QB101883,28-08-2026 21:55,R005,Burger Bay,Fast Food,OMR,395.79,Delivery
+QB101884,28-08-2026 22:15,R011,Sushi Street,Japanese,Anna Nagar,448.43,Delivery
+QB101885,28-08-2026 23:16,R006,Dosa Corner,South Indian,Guindy,134.25,Delivery
+QB101886,28-08-2026 23:53,R013,Tandoori Hub,Indian,Velachery,727,Delivery
+QB101887,29-08-2026 08:02,R009,Wrap & Roll,Fast Food,Nungambakkam,514.93,Delivery
+QB101888,29-08-2026 09:26,R006,Dosa Corner,South Indian,Mylapore,200.9,Delivery
+QB101889,29-08-2026 10:45,R010,Biryani Box,Biryani,Velachery,877.76,Delivery
+QB101890,29-08-2026 10:56,R014,Salad Studio,Healthy,Anna Nagar,488.95,Delivery
+QB101891,29-08-2026 11:01,R006,Dosa Corner,South Indian,Adyar,508.04,Delivery
+QB101892,29-08-2026 11:16,R001,Spice Route,Indian,Tambaram,726.32,Delivery
+QB101893,29-08-2026 11:26,R015,Noodle Nest,Chinese,Guindy,396.5,Delivery
+QB101894,29-08-2026 11:28,R012,Cafe Cloud,Cafe,Anna Nagar,248.56,Scheduled
+QB101895,29-08-2026 11:34,R012,Cafe Cloud,Cafe,Velachery,1125.72,Delivery
+QB101896,29-08-2026 11:43,R019,Chaat Central,Street Food,OMR,421.97,Delivery
+QB101897,29-08-2026 11:54,R008,Pasta Point,Italian,OMR,156.08,Delivery
+QB101898,29-08-2026 12:20,R009,Wrap & Roll,Fast Food,T Nagar,358.37,Delivery
+QB101899,29-08-2026 12:20,R017,Coastal Kitchen,Seafood,Tambaram,341.66,Scheduled
+QB101900,29-08-2026 12:21,R018,Sandwich Lab,Cafe,Guindy,318.27,Delivery
+QB101901,29-08-2026 12:26,R012,Cafe Cloud,Cafe,Porur,235.6,Delivery
+QB101902,29-08-2026 12:39,R017,Coastal Kitchen,Seafood,Mylapore,492.73,Delivery
+QB101903,29-08-2026 12:40,R015,Noodle Nest,Chinese,Porur,342.85,Delivery
+QB101904,29-08-2026 12:47,R007,Curry House,Indian,T Nagar,482.56,Delivery
+QB101905,29-08-2026 13:07,R016,Sweet Treats,Dessert,Nungambakkam,329.43,Delivery
+QB101906,29-08-2026 13:51,R003,Pizza Junction,Pizza,Adyar,380.24,Delivery
+QB101907,29-08-2026 13:53,R018,Sandwich Lab,Cafe,Tambaram,564.03,Delivery
+QB101908,29-08-2026 14:45,R014,Salad Studio,Healthy,OMR,900.47,Delivery
+QB101909,29-08-2026 15:58,R019,Chaat Central,Street Food,Anna Nagar,242.08,Scheduled
+QB101910,29-08-2026 16:55,R009,Wrap & Roll,Fast Food,T Nagar,497.5,Delivery
+QB101911,29-08-2026 17:13,R019,Chaat Central,Street Food,Anna Nagar,711.88,Delivery
+QB101912,29-08-2026 17:29,R007,Curry House,Indian,Nungambakkam,417.86,Delivery
+QB101913,29-08-2026 17:41,R020,Grill House,Grill,OMR,554.59,Delivery
+QB101914,29-08-2026 17:45,R006,Dosa Corner,South Indian,Adyar,616.24,Delivery
+QB101915,29-08-2026 18:05,R014,Salad Studio,Healthy,Porur,665.16,Delivery
+QB101916,29-08-2026 18:37,R019,Chaat Central,Street Food,Guindy,147.13,Delivery
+QB101917,29-08-2026 18:44,R013,Tandoori Hub,Indian,Mylapore,245.15,Delivery
+QB101918,29-08-2026 18:49,R013,Tandoori Hub,Indian,OMR,228.02,Delivery
+QB101919,29-08-2026 18:54,R011,Sushi Street,Japanese,Guindy,338.13,Delivery
+QB101920,29-08-2026 19:09,R006,Dosa Corner,South Indian,T Nagar,353,Delivery
+QB101921,29-08-2026 19:10,R020,Grill House,Grill,Tambaram,1002.18,Delivery
+QB101922,29-08-2026 19:19,R019,Chaat Central,Street Food,Nungambakkam,324.94,Delivery
+QB101923,29-08-2026 19:30,R018,Sandwich Lab,Cafe,Adyar,241.46,Delivery
+QB101924,29-08-2026 19:45,R019,Chaat Central,Street Food,Anna Nagar,293.92,Delivery
+QB101925,29-08-2026 19:48,R015,Noodle Nest,Chinese,Mylapore,1011.59,Delivery
+QB101926,29-08-2026 19:50,R007,Curry House,Indian,Velachery,275.99,Delivery
+QB101927,29-08-2026 19:53,R003,Pizza Junction,Pizza,T Nagar,135.59,Delivery
+QB101928,29-08-2026 20:01,R016,Sweet Treats,Dessert,Tambaram,194.85,Delivery
+QB101929,29-08-2026 20:16,R016,Sweet Treats,Dessert,T Nagar,249.02,Delivery
+QB101930,29-08-2026 20:16,R007,Curry House,Indian,Tambaram,517.34,Delivery
+QB101931,29-08-2026 20:18,R018,Sandwich Lab,Cafe,Nungambakkam,496.76,Delivery
+QB101932,29-08-2026 20:26,R015,Noodle Nest,Chinese,Porur,409.46,Delivery
+QB101933,29-08-2026 20:27,R003,Pizza Junction,Pizza,Anna Nagar,336.36,Scheduled
+QB101934,29-08-2026 20:29,R016,Sweet Treats,Dessert,Porur,351.6,Delivery
+QB101935,29-08-2026 20:49,R007,Curry House,Indian,Adyar,453.04,Delivery
+QB101936,29-08-2026 20:56,R001,Spice Route,Indian,Velachery,409.91,Delivery
+QB101937,29-08-2026 21:04,R019,Chaat Central,Street Food,OMR,561.23,Delivery
+QB101938,29-08-2026 21:11,R005,Burger Bay,Fast Food,OMR,431.96,Delivery
+QB101939,29-08-2026 21:13,R013,Tandoori Hub,Indian,OMR,536.17,Delivery
+QB101940,29-08-2026 21:15,R016,Sweet Treats,Dessert,Nungambakkam,490.72,Delivery
+QB101941,29-08-2026 21:16,R019,Chaat Central,Street Food,Anna Nagar,645.79,Delivery
+QB101942,29-08-2026 21:28,R010,Biryani Box,Biryani,Velachery,259.58,Delivery
+QB101943,29-08-2026 21:49,R003,Pizza Junction,Pizza,Tambaram,424.75,Delivery
+QB101944,29-08-2026 21:51,R003,Pizza Junction,Pizza,Anna Nagar,174.48,Delivery
+QB101945,29-08-2026 21:57,R010,Biryani Box,Biryani,OMR,461.49,Delivery
+QB101946,29-08-2026 22:18,R015,Noodle Nest,Chinese,Tambaram,721.44,Delivery
+QB101947,29-08-2026 23:52,R016,Sweet Treats,Dessert,OMR,424.96,Delivery
+QB101948,30-08-2026 08:28,R014,Salad Studio,Healthy,Tambaram,158.52,Delivery
+QB101949,30-08-2026 08:31,R013,Tandoori Hub,Indian,Adyar,551.6,Delivery
+QB101950,30-08-2026 09:39,R011,Sushi Street,Japanese,Velachery,238.25,Delivery
+QB101951,30-08-2026 11:09,R018,Sandwich Lab,Cafe,Porur,240.09,Delivery
+QB101952,30-08-2026 11:34,R010,Biryani Box,Biryani,Adyar,334.81,Delivery
+QB101953,30-08-2026 11:36,R004,Wok Express,Chinese,T Nagar,449.65,Delivery
+QB101954,30-08-2026 11:41,R004,Wok Express,Chinese,Tambaram,630.12,Delivery
+QB101955,30-08-2026 12:00,R003,Pizza Junction,Pizza,Adyar,783.17,Delivery
+QB101956,30-08-2026 12:11,R008,Pasta Point,Italian,Anna Nagar,477.27,Delivery
+QB101957,30-08-2026 12:55,R020,Grill House,Grill,Velachery,334.81,Delivery
+QB101958,30-08-2026 13:06,R013,Tandoori Hub,Indian,Tambaram,284.14,Delivery
+QB101959,30-08-2026 13:31,R019,Chaat Central,Street Food,Adyar,1206.28,Delivery
+QB101960,30-08-2026 13:34,R002,Green Bowl,Healthy,Mylapore,583.21,Delivery
+QB101961,30-08-2026 13:38,R012,Cafe Cloud,Cafe,Velachery,296.29,Delivery
+QB101962,30-08-2026 13:41,R001,Spice Route,Indian,Guindy,365.75,Delivery
+QB101963,30-08-2026 13:41,R008,Pasta Point,Italian,Anna Nagar,503.82,Delivery
+QB101964,30-08-2026 13:42,R017,Coastal Kitchen,Seafood,T Nagar,289.35,Delivery
+QB101965,30-08-2026 13:47,R002,Green Bowl,Healthy,T Nagar,481.16,Scheduled
+QB101966,30-08-2026 13:49,R018,Sandwich Lab,Cafe,Mylapore,315.42,Scheduled
+QB101967,30-08-2026 13:55,R011,Sushi Street,Japanese,OMR,483.79,Delivery
+QB101968,30-08-2026 13:55,R011,Sushi Street,Japanese,T Nagar,744.04,Delivery
+QB101969,30-08-2026 14:57,R014,Salad Studio,Healthy,T Nagar,212.61,Delivery
+QB101970,30-08-2026 15:04,R009,Wrap & Roll,Fast Food,T Nagar,535.04,Delivery
+QB101971,30-08-2026 15:40,R009,Wrap & Roll,Fast Food,Mylapore,628.08,Delivery
+QB101972,30-08-2026 15:40,R019,Chaat Central,Street Food,Tambaram,311.71,Scheduled
+QB101973,30-08-2026 15:49,R019,Chaat Central,Street Food,Guindy,642.44,Delivery
+QB101974,30-08-2026 16:57,R014,Salad Studio,Healthy,OMR,454.96,Delivery
+QB101975,30-08-2026 17:00,R005,Burger Bay,Fast Food,Adyar,430.61,Delivery
+QB101976,30-08-2026 17:30,R016,Sweet Treats,Dessert,Guindy,673.29,Delivery
+QB101977,30-08-2026 18:01,R014,Salad Studio,Healthy,Anna Nagar,301.99,Delivery
+QB101978,30-08-2026 18:06,R002,Green Bowl,Healthy,Porur,283.66,Delivery
+QB101979,30-08-2026 18:19,R001,Spice Route,Indian,Porur,458.37,Delivery
+QB101980,30-08-2026 18:31,R008,Pasta Point,Italian,Adyar,837.84,Delivery
+QB101981,30-08-2026 18:59,R013,Tandoori Hub,Indian,Mylapore,472.83,Delivery
+QB101982,30-08-2026 19:06,R015,Noodle Nest,Chinese,OMR,487.48,Delivery
+QB101983,30-08-2026 19:08,R009,Wrap & Roll,Fast Food,Mylapore,290.84,Delivery
+QB101984,30-08-2026 19:09,R001,Spice Route,Indian,Velachery,269.89,Delivery
+QB101985,30-08-2026 19:15,R010,Biryani Box,Biryani,Nungambakkam,503.02,Delivery
+QB101986,30-08-2026 19:26,R004,Wok Express,Chinese,Mylapore,273.5,Delivery
+QB101987,30-08-2026 19:29,R011,Sushi Street,Japanese,Anna Nagar,417.19,Delivery
+QB101988,30-08-2026 19:37,R018,Sandwich Lab,Cafe,Mylapore,477.36,Delivery
+QB101989,30-08-2026 20:05,R006,Dosa Corner,South Indian,T Nagar,420.3,Delivery
+QB101990,30-08-2026 20:25,R005,Burger Bay,Fast Food,Tambaram,247.69,Delivery
+QB101991,30-08-2026 20:27,R019,Chaat Central,Street Food,Nungambakkam,209.27,Scheduled
+QB101992,30-08-2026 20:51,R009,Wrap & Roll,Fast Food,OMR,218.42,Delivery
+QB101993,30-08-2026 20:51,R010,Biryani Box,Biryani,Guindy,108.12,Delivery
+QB101994,30-08-2026 20:59,R008,Pasta Point,Italian,Adyar,626.96,Delivery
+QB101995,30-08-2026 21:01,R010,Biryani Box,Biryani,Anna Nagar,659.36,Delivery
+QB101996,30-08-2026 21:18,R018,Sandwich Lab,Cafe,T Nagar,293.64,Delivery
+QB101997,30-08-2026 21:45,R012,Cafe Cloud,Cafe,OMR,1046.32,Delivery
+QB101998,30-08-2026 22:01,R017,Coastal Kitchen,Seafood,Mylapore,270.74,Delivery
+QB101999,30-08-2026 23:13,R006,Dosa Corner,South Indian,Nungambakkam,243.96,Delivery
+QB101179,18-08-2026 12:13,R008,Pasta Point,Italian,T Nagar,296.12,Delivery
+QB101261,19-08-2026 18:19,R005,Burger Bay,Fast Food,Velachery,279.92,Delivery
+QB101283,19-08-2026 21:07,R015,Noodle Nest,Chinese,Velachery,769.13,Delivery
+QB100604,10-08-2026 12:05,R006,Dosa Corner,South Indian,OMR,343.71,Delivery
+QB101158,17-08-2026 20:56,R010,Biryani Box,Biryani,Anna Nagar,244.52,Delivery
+QB100745,12-08-2026 12:18,R012,Cafe Cloud,Cafe,Adyar,641.64,Delivery
+QB101656,25-08-2026 14:51,R013,Tandoori Hub,Indian,Velachery,362.76,Delivery
+QB100060,01-08-2026 22:14,R015,Noodle Nest,Chinese,Anna Nagar,406.92,Scheduled
+QB100026,01-08-2026 17:12,R003,Pizza Junction,Pizza,Tambaram,259.37,Delivery
+QB100992,15-08-2026 16:16,R015,Noodle Nest,Chinese,T Nagar,322.21,Delivery
+QB100896,14-08-2026 12:15,R012,Cafe Cloud,Cafe,Adyar,477.1,Delivery
+QB100275,05-08-2026 11:23,R013,Tandoori Hub,Indian,Velachery,931.27,Delivery
